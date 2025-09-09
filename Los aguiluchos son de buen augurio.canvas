@@ -1,1531 +1,1531 @@
 {
 	"edges":[
 		{
-			"fromNode":"6cf5a7d1be7a8d46",
-			"fromSide":"bottom",
 			"id":"c35ee41758619317",
 			"styleAttributes":{},
+			"fromNode":"6cf5a7d1be7a8d46",
+			"fromSide":"bottom",
 			"toNode":"ec9b77fc27dceab3",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"ec9b77fc27dceab3",
-			"fromSide":"right",
 			"id":"91d5bec15df4b4f4",
 			"styleAttributes":{},
+			"fromNode":"ec9b77fc27dceab3",
+			"fromSide":"right",
 			"toNode":"2ee1914c1a44e2fa",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"2ee1914c1a44e2fa",
-			"fromSide":"bottom",
 			"id":"8ee77e0c9c831b9e",
 			"styleAttributes":{},
+			"fromNode":"2ee1914c1a44e2fa",
+			"fromSide":"bottom",
 			"toNode":"694a897bc019c0f0",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"6cf5a7d1be7a8d46",
-			"fromSide":"right",
 			"id":"2ad8f0031383ae22",
 			"styleAttributes":{},
+			"fromNode":"6cf5a7d1be7a8d46",
+			"fromSide":"right",
 			"toNode":"9acd0bec28ef066f",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"6cf5a7d1be7a8d46",
-			"fromSide":"left",
 			"id":"548bced5213f0021",
 			"styleAttributes":{},
+			"fromNode":"6cf5a7d1be7a8d46",
+			"fromSide":"left",
 			"toNode":"46d3d367c3bba2a3",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"46d3d367c3bba2a3",
-			"fromSide":"bottom",
 			"id":"25d262a35f4a0cb4",
 			"styleAttributes":{},
+			"fromNode":"46d3d367c3bba2a3",
+			"fromSide":"bottom",
 			"toNode":"1d0601ec71b8b664",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"1d0601ec71b8b664",
-			"fromSide":"bottom",
 			"id":"ffa70d9cbba6beed",
 			"styleAttributes":{},
+			"fromNode":"1d0601ec71b8b664",
+			"fromSide":"bottom",
 			"toNode":"531245c850fe6ea7",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"46d3d367c3bba2a3",
-			"fromSide":"right",
 			"id":"7ebacae9fc1ab5e8",
 			"styleAttributes":{},
+			"fromNode":"46d3d367c3bba2a3",
+			"fromSide":"right",
 			"toNode":"ec9b77fc27dceab3",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"9acd0bec28ef066f",
-			"fromSide":"bottom",
 			"id":"369f7266831bfd0a",
 			"styleAttributes":{},
+			"fromNode":"9acd0bec28ef066f",
+			"fromSide":"bottom",
 			"toNode":"cb773235cadd2cd7",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"cb773235cadd2cd7",
-			"fromSide":"bottom",
 			"id":"6694bbc20933bfa9",
 			"styleAttributes":{},
+			"fromNode":"cb773235cadd2cd7",
+			"fromSide":"bottom",
 			"toNode":"78fbf219a0fa6052",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"3ae3f81fcad1341b",
-			"fromSide":"bottom",
 			"id":"935e0236ae0c2654",
 			"styleAttributes":{},
+			"fromNode":"3ae3f81fcad1341b",
+			"fromSide":"bottom",
 			"toNode":"6de40f452598c935",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"a527af23b53fda63",
-			"fromSide":"bottom",
 			"id":"3544e7c15139940d",
 			"styleAttributes":{},
+			"fromNode":"a527af23b53fda63",
+			"fromSide":"bottom",
 			"toNode":"c879ecb635f7f80a",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"c879ecb635f7f80a",
-			"fromSide":"bottom",
 			"id":"e26fe6fdce8ee596",
 			"styleAttributes":{},
+			"fromNode":"c879ecb635f7f80a",
+			"fromSide":"bottom",
 			"toNode":"cb22d414e157371d",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"78fbf219a0fa6052",
-			"fromSide":"bottom",
 			"id":"76e05cc194333ad4",
 			"styleAttributes":{},
+			"fromNode":"78fbf219a0fa6052",
+			"fromSide":"bottom",
 			"toNode":"10f78a608d5e6bf4",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"10f78a608d5e6bf4",
-			"fromSide":"bottom",
 			"id":"431887db04f75334",
 			"styleAttributes":{},
+			"fromNode":"10f78a608d5e6bf4",
+			"fromSide":"bottom",
 			"toNode":"cb22d414e157371d",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"78fbf219a0fa6052",
-			"fromSide":"right",
 			"id":"a63e4ba9a947f3d4",
 			"styleAttributes":{},
+			"fromNode":"78fbf219a0fa6052",
+			"fromSide":"right",
 			"toNode":"a121a66ef42d8ccc",
 			"toSide":"left"
 		},
 		{
+			"id":"3f6b8e3aea9c88e5",
+			"styleAttributes":{},
 			"fromNode":"e024a4b2cca0c5e6",
 			"fromSide":"bottom",
-			"id":"3f6b8e3aea9c88e5",
-			"label":"Why",
-			"styleAttributes":{},
 			"toNode":"3c34f271d09fac78",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"Why"
 		},
 		{
-			"fromNode":"18f11c337a020258",
-			"fromSide":"bottom",
 			"id":"221dc15eb1720ed5",
 			"styleAttributes":{},
+			"fromNode":"18f11c337a020258",
+			"fromSide":"bottom",
 			"toNode":"887bc32e2670c8cb",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"18f11c337a020258",
-			"fromSide":"bottom",
 			"id":"5bd15a2fec47d352",
 			"styleAttributes":{},
+			"fromNode":"18f11c337a020258",
+			"fromSide":"bottom",
 			"toNode":"1cb0b9e038f6a685",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"18f11c337a020258",
-			"fromSide":"bottom",
 			"id":"8db9305748508189",
 			"styleAttributes":{},
+			"fromNode":"18f11c337a020258",
+			"fromSide":"bottom",
 			"toNode":"51c1e3d2feed5776",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"a527af23b53fda63",
-			"fromSide":"bottom",
 			"id":"42949c6a40587fb7",
 			"styleAttributes":{},
+			"fromNode":"a527af23b53fda63",
+			"fromSide":"bottom",
 			"toNode":"41760450a18c9b2d",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"3c34f271d09fac78",
-			"fromSide":"bottom",
 			"id":"2d97cb300719bd9b",
 			"styleAttributes":{},
+			"fromNode":"3c34f271d09fac78",
+			"fromSide":"bottom",
 			"toNode":"885eca539d1fc558",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"885eca539d1fc558",
-			"fromSide":"bottom",
 			"id":"bf37d0f050baec1c",
 			"styleAttributes":{},
+			"fromNode":"885eca539d1fc558",
+			"fromSide":"bottom",
 			"toNode":"f6cace1fbe0780c7",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"885eca539d1fc558",
-			"fromSide":"right",
 			"id":"6beef32914b0421a",
 			"styleAttributes":{},
+			"fromNode":"885eca539d1fc558",
+			"fromSide":"right",
 			"toNode":"0ddea9b43db37f8b",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"0ddea9b43db37f8b",
-			"fromSide":"bottom",
 			"id":"da6be734474ea7d0",
 			"styleAttributes":{},
+			"fromNode":"0ddea9b43db37f8b",
+			"fromSide":"bottom",
 			"toNode":"3504dde296ff6725",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"885eca539d1fc558",
-			"fromSide":"left",
 			"id":"d32521127b06bdef",
 			"styleAttributes":{},
+			"fromNode":"885eca539d1fc558",
+			"fromSide":"left",
 			"toNode":"5114bd50561dd65e",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"6956e335dd8d7bb0",
-			"fromSide":"bottom",
 			"id":"5d898ea770b7c7b7",
 			"styleAttributes":{},
+			"fromNode":"6956e335dd8d7bb0",
+			"fromSide":"bottom",
 			"toNode":"9bd7c3cf6289c9dd",
 			"toSide":"left"
 		},
 		{
+			"id":"ae87eac6b73266d3",
+			"styleAttributes":{},
 			"fromNode":"e024a4b2cca0c5e6",
 			"fromSide":"right",
-			"id":"ae87eac6b73266d3",
-			"label":"Ennegram",
-			"styleAttributes":{},
 			"toNode":"6956e335dd8d7bb0",
-			"toSide":"left"
+			"toSide":"left",
+			"label":"Ennegram"
 		},
 		{
-			"fromNode":"9bd7c3cf6289c9dd",
-			"fromSide":"bottom",
 			"id":"198a9715b012cff4",
 			"styleAttributes":{},
+			"fromNode":"9bd7c3cf6289c9dd",
+			"fromSide":"bottom",
 			"toNode":"3558d92b8019e7d2",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"6956e335dd8d7bb0",
-			"fromSide":"bottom",
 			"id":"d497b814d70eb4ef",
 			"styleAttributes":{},
+			"fromNode":"6956e335dd8d7bb0",
+			"fromSide":"bottom",
 			"toNode":"3504dde296ff6725",
 			"toSide":"right"
 		},
 		{
-			"fromNode":"3504dde296ff6725",
-			"fromSide":"bottom",
 			"id":"bf64cc9f40b7997a",
 			"styleAttributes":{},
+			"fromNode":"3504dde296ff6725",
+			"fromSide":"bottom",
 			"toNode":"b584b6dbce65a2fd",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"a527af23b53fda63",
-			"fromSide":"right",
 			"id":"2d2742003152e9fc",
 			"styleAttributes":{},
+			"fromNode":"a527af23b53fda63",
+			"fromSide":"right",
 			"toNode":"b9cbcaa51015158d",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"b9cbcaa51015158d",
-			"fromSide":"bottom",
 			"id":"feba41d3c870fc53",
 			"styleAttributes":{},
+			"fromNode":"b9cbcaa51015158d",
+			"fromSide":"bottom",
 			"toNode":"80773031e6f60bb2",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"41760450a18c9b2d",
-			"fromSide":"right",
 			"id":"206c84b987f67e8f",
 			"styleAttributes":{},
+			"fromNode":"41760450a18c9b2d",
+			"fromSide":"right",
 			"toNode":"80773031e6f60bb2",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"cb22d414e157371d",
-			"fromSide":"right",
 			"id":"271edd1e091b351e",
 			"styleAttributes":{},
+			"fromNode":"cb22d414e157371d",
+			"fromSide":"right",
 			"toNode":"af258c148f96b8f2",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"694a897bc019c0f0",
-			"fromSide":"bottom",
 			"id":"20d3886e8762df9c",
 			"styleAttributes":{},
+			"fromNode":"694a897bc019c0f0",
+			"fromSide":"bottom",
 			"toNode":"3ae3f81fcad1341b",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"80773031e6f60bb2",
-			"fromSide":"bottom",
 			"id":"c271d36815bde9fd",
 			"styleAttributes":{},
+			"fromNode":"80773031e6f60bb2",
+			"fromSide":"bottom",
 			"toNode":"6cd653dc4c674f0c",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"885eca539d1fc558",
-			"fromSide":"bottom",
 			"id":"e6f32ada04d271ef",
 			"styleAttributes":{},
+			"fromNode":"885eca539d1fc558",
+			"fromSide":"bottom",
 			"toNode":"c42cd41fef8e8ddd",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"c42cd41fef8e8ddd",
-			"fromSide":"bottom",
 			"id":"eb7c8d9c950fec3a",
 			"styleAttributes":{},
+			"fromNode":"c42cd41fef8e8ddd",
+			"fromSide":"bottom",
 			"toNode":"db6f83132861428f",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"b9cbcaa51015158d",
-			"fromSide":"right",
 			"id":"52d67250365f8022",
 			"styleAttributes":{},
+			"fromNode":"b9cbcaa51015158d",
+			"fromSide":"right",
 			"toNode":"23ee4d97bcdf8843",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"73e763088c5209d9",
-			"fromSide":"bottom",
 			"id":"b62b10e5271d4d97",
 			"styleAttributes":{},
+			"fromNode":"73e763088c5209d9",
+			"fromSide":"bottom",
 			"toNode":"a3be8bab4695ac9c",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"6956e335dd8d7bb0",
-			"fromSide":"right",
 			"id":"97c6bfaeff5d1a01",
 			"styleAttributes":{},
+			"fromNode":"6956e335dd8d7bb0",
+			"fromSide":"right",
 			"toNode":"73e763088c5209d9",
 			"toSide":"left"
 		},
 		{
+			"id":"79d5b025626dc3dd",
+			"styleAttributes":{},
 			"fromNode":"e024a4b2cca0c5e6",
 			"fromSide":"bottom",
-			"id":"79d5b025626dc3dd",
-			"label":"How",
-			"styleAttributes":{},
 			"toNode":"3439ab5807763943",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"How"
 		},
 		{
-			"fromNode":"432c0a7dcaa32966",
-			"fromSide":"right",
 			"id":"76d7c319f6899df5",
 			"styleAttributes":{},
+			"fromNode":"432c0a7dcaa32966",
+			"fromSide":"right",
 			"toNode":"52304ecce6fc054e",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"52304ecce6fc054e",
-			"fromSide":"right",
 			"id":"03c77023d6fc31a5",
 			"styleAttributes":{},
+			"fromNode":"52304ecce6fc054e",
+			"fromSide":"right",
 			"toNode":"5a50f6d91cad102b",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"51d3cdb61caf8ec8",
-			"fromSide":"bottom",
 			"id":"f50b46f1dde1eec8",
 			"styleAttributes":{},
+			"fromNode":"51d3cdb61caf8ec8",
+			"fromSide":"bottom",
 			"toNode":"8633afa482513ea0",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"8633afa482513ea0",
-			"fromSide":"right",
 			"id":"2d1252a4fd4e3274",
 			"styleAttributes":{},
+			"fromNode":"8633afa482513ea0",
+			"fromSide":"right",
 			"toNode":"8b0affde4e8255fe",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"8b0affde4e8255fe",
-			"fromSide":"right",
 			"id":"bea8a6e6bd10725b",
 			"styleAttributes":{},
+			"fromNode":"8b0affde4e8255fe",
+			"fromSide":"right",
 			"toNode":"4e9e0bde5b9ba73e",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"23ee4d97bcdf8843",
-			"fromSide":"right",
 			"id":"a29cc44ea52fd887",
 			"styleAttributes":{},
+			"fromNode":"23ee4d97bcdf8843",
+			"fromSide":"right",
 			"toNode":"77408ae47c49cf73",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"5a50f6d91cad102b",
-			"fromSide":"top",
 			"id":"cd7e2a09888b2d76",
 			"styleAttributes":{},
+			"fromNode":"5a50f6d91cad102b",
+			"fromSide":"top",
 			"toNode":"d7f3e46d5779a6d0",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"d7f3e46d5779a6d0",
-			"fromSide":"right",
 			"id":"b9d2d8e9589aa9de",
 			"styleAttributes":{},
+			"fromNode":"d7f3e46d5779a6d0",
+			"fromSide":"right",
 			"toNode":"8ec7fb474756bdc2",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"5a50f6d91cad102b",
-			"fromSide":"right",
 			"id":"0d4c16aaefca91ae",
 			"styleAttributes":{},
+			"fromNode":"5a50f6d91cad102b",
+			"fromSide":"right",
 			"toNode":"8f984e6737f6db63",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"8f984e6737f6db63",
-			"fromSide":"right",
 			"id":"b0980a5e856b6091",
 			"styleAttributes":{},
+			"fromNode":"8f984e6737f6db63",
+			"fromSide":"right",
 			"toNode":"51d3cdb61caf8ec8",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"52304ecce6fc054e",
-			"fromSide":"top",
 			"id":"51eecff8fc018f5f",
 			"styleAttributes":{},
+			"fromNode":"52304ecce6fc054e",
+			"fromSide":"top",
 			"toNode":"3247e13fa526c17f",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"77408ae47c49cf73",
-			"fromSide":"bottom",
 			"id":"3ff02062549777e0",
 			"styleAttributes":{},
+			"fromNode":"77408ae47c49cf73",
+			"fromSide":"bottom",
 			"toNode":"8532eceb2c97f56f",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"8532eceb2c97f56f",
-			"fromSide":"right",
 			"id":"449514e2e3ea05d2",
 			"styleAttributes":{},
+			"fromNode":"8532eceb2c97f56f",
+			"fromSide":"right",
 			"toNode":"e9c91aaa7ca02ae5",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"77408ae47c49cf73",
-			"fromSide":"top",
 			"id":"a4c00d36d60917bb",
 			"styleAttributes":{},
+			"fromNode":"77408ae47c49cf73",
+			"fromSide":"top",
 			"toNode":"f120bfc15e82923f",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"f120bfc15e82923f",
-			"fromSide":"right",
 			"id":"0cca7468e1a3235d",
 			"styleAttributes":{},
+			"fromNode":"f120bfc15e82923f",
+			"fromSide":"right",
 			"toNode":"95ab0a33c7f1eb21",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"f120bfc15e82923f",
-			"fromSide":"top",
 			"id":"ccd7f93d801e86dd",
 			"styleAttributes":{},
+			"fromNode":"f120bfc15e82923f",
+			"fromSide":"top",
 			"toNode":"7f0b5efef660f4a5",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"7f0b5efef660f4a5",
-			"fromSide":"right",
 			"id":"f391fec71df83df2",
 			"styleAttributes":{},
+			"fromNode":"7f0b5efef660f4a5",
+			"fromSide":"right",
 			"toNode":"6fc594b92853c505",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"6fc594b92853c505",
-			"fromSide":"right",
 			"id":"40a7f8da73a4539d",
 			"styleAttributes":{},
+			"fromNode":"6fc594b92853c505",
+			"fromSide":"right",
 			"toNode":"a9caa99556133bc1",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"a9caa99556133bc1",
-			"fromSide":"top",
 			"id":"c2dad205242303cd",
 			"styleAttributes":{},
+			"fromNode":"a9caa99556133bc1",
+			"fromSide":"top",
 			"toNode":"c3d05d9134667c38",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"95ab0a33c7f1eb21",
-			"fromSide":"top",
 			"id":"426f5fd273466229",
 			"styleAttributes":{},
+			"fromNode":"95ab0a33c7f1eb21",
+			"fromSide":"top",
 			"toNode":"6fc594b92853c505",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"e9c91aaa7ca02ae5",
-			"fromSide":"bottom",
 			"id":"8a2c1b62b96fc855",
 			"styleAttributes":{},
+			"fromNode":"e9c91aaa7ca02ae5",
+			"fromSide":"bottom",
 			"toNode":"b92eb276491e8c45",
 			"toSide":"left"
 		},
 		{
+			"id":"9b63ee1d18e9ba2c",
+			"styleAttributes":{},
 			"fromNode":"b92eb276491e8c45",
 			"fromSide":"bottom",
-			"id":"9b63ee1d18e9ba2c",
-			"label":"Claudio",
-			"styleAttributes":{},
 			"toNode":"890e450ddc597aeb",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"Claudio"
 		},
 		{
-			"fromNode":"af258c148f96b8f2",
-			"fromSide":"right",
 			"id":"070c2f38dd2b9b5d",
 			"styleAttributes":{},
+			"fromNode":"af258c148f96b8f2",
+			"fromSide":"right",
 			"toNode":"81a12ab7225dca8a",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"81a12ab7225dca8a",
-			"fromSide":"top",
 			"id":"25c618ba3c35c38c",
 			"styleAttributes":{},
+			"fromNode":"81a12ab7225dca8a",
+			"fromSide":"top",
 			"toNode":"23ee4d97bcdf8843",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"a9caa99556133bc1",
-			"fromSide":"right",
 			"id":"8c5a298264ed1ec6",
 			"styleAttributes":{},
+			"fromNode":"a9caa99556133bc1",
+			"fromSide":"right",
 			"toNode":"7d69eb88f5ba0c8f",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"7d69eb88f5ba0c8f",
-			"fromSide":"top",
 			"id":"129d232cd87f8178",
 			"styleAttributes":{},
+			"fromNode":"7d69eb88f5ba0c8f",
+			"fromSide":"top",
 			"toNode":"cceaedbbc001152e",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"cceaedbbc001152e",
-			"fromSide":"right",
 			"id":"7f8a4d6057894558",
 			"styleAttributes":{},
+			"fromNode":"cceaedbbc001152e",
+			"fromSide":"right",
 			"toNode":"c46c8feb576dfac7",
 			"toSide":"left"
 		},
 		{
+			"id":"2c5764c9cf4d3766",
+			"styleAttributes":{},
 			"fromNode":"890e450ddc597aeb",
 			"fromSide":"right",
-			"id":"2c5764c9cf4d3766",
-			"label":"Así que",
-			"styleAttributes":{},
 			"toNode":"edbc6553b9954fd1",
-			"toSide":"bottom"
+			"toSide":"bottom",
+			"label":"Así que"
 		},
 		{
-			"fromNode":"edbc6553b9954fd1",
-			"fromSide":"top",
 			"id":"48fccaacb9a078fd",
 			"styleAttributes":{},
+			"fromNode":"edbc6553b9954fd1",
+			"fromSide":"top",
 			"toNode":"ecda26a0ee3b17c0",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"cc5f87a311011d9e",
-			"fromSide":"right",
 			"id":"c83b988bcd4b2f1f",
 			"styleAttributes":{},
+			"fromNode":"cc5f87a311011d9e",
+			"fromSide":"right",
 			"toNode":"18f11c337a020258",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"18f11c337a020258",
-			"fromSide":"bottom",
 			"id":"61de06cf6b4f8fbc",
 			"styleAttributes":{},
+			"fromNode":"18f11c337a020258",
+			"fromSide":"bottom",
 			"toNode":"bc85865dac159ae8",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"18f11c337a020258",
-			"fromSide":"right",
 			"id":"25e13193caa262c9",
 			"styleAttributes":{},
+			"fromNode":"18f11c337a020258",
+			"fromSide":"right",
 			"toNode":"1d33e971432e1c54",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"1d33e971432e1c54",
-			"fromSide":"bottom",
 			"id":"61d3e490db7aeb81",
 			"styleAttributes":{},
+			"fromNode":"1d33e971432e1c54",
+			"fromSide":"bottom",
 			"toNode":"91ae3bc9c9a8677d",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"91ae3bc9c9a8677d",
-			"fromSide":"bottom",
 			"id":"e9d1233ac820ef28",
 			"styleAttributes":{},
+			"fromNode":"91ae3bc9c9a8677d",
+			"fromSide":"bottom",
 			"toNode":"4e8c0ca8f585db1b",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"4e8c0ca8f585db1b",
-			"fromSide":"top",
 			"id":"ff0f679bf4761830",
 			"styleAttributes":{},
+			"fromNode":"4e8c0ca8f585db1b",
+			"fromSide":"top",
 			"toNode":"d6637f08ab6d136a",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"d6637f08ab6d136a",
-			"fromSide":"right",
 			"id":"ca4a818aeaa8da45",
 			"styleAttributes":{},
+			"fromNode":"d6637f08ab6d136a",
+			"fromSide":"right",
 			"toNode":"50dfe3111142f74c",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"1d33e971432e1c54",
-			"fromSide":"top",
 			"id":"82dd50704fc856e2",
 			"styleAttributes":{},
+			"fromNode":"1d33e971432e1c54",
+			"fromSide":"top",
 			"toNode":"bd532e8c6fd6d2fc",
 			"toSide":"bottom"
 		},
 		{
-			"fromNode":"edbc6553b9954fd1",
-			"fromSide":"right",
 			"id":"eaa5d2cbfa351346",
 			"styleAttributes":{},
+			"fromNode":"edbc6553b9954fd1",
+			"fromSide":"right",
 			"toNode":"2290797d6e32a028",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"2290797d6e32a028",
-			"fromSide":"bottom",
 			"id":"b0cae583cd4dc4a5",
 			"styleAttributes":{},
+			"fromNode":"2290797d6e32a028",
+			"fromSide":"bottom",
 			"toNode":"8f35b7abda235499",
 			"toSide":"top"
 		},
 		{
-			"fromNode":"8f35b7abda235499",
-			"fromSide":"right",
 			"id":"662c79c8188e58dc",
 			"styleAttributes":{},
+			"fromNode":"8f35b7abda235499",
+			"fromSide":"right",
 			"toNode":"dc077f1a8f2372d8",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"9acd0bec28ef066f",
-			"fromSide":"right",
 			"id":"f2c68d4f309dda85",
 			"styleAttributes":{},
+			"fromNode":"9acd0bec28ef066f",
+			"fromSide":"right",
 			"toNode":"a527af23b53fda63",
 			"toSide":"left"
 		},
 		{
-			"fromNode":"7f0b5efef660f4a5",
-			"fromSide":"top",
 			"id":"059e4d8ecb0ec0fb",
 			"styleAttributes":{},
+			"fromNode":"7f0b5efef660f4a5",
+			"fromSide":"top",
 			"toNode":"7125877cd31ee70c",
 			"toSide":"bottom"
 		}
 	],
 	"nodes":[
 		{
-			"color":"3",
-			"height":80,
 			"id":"46d3d367c3bba2a3",
 			"styleAttributes":{},
 			"text":"Altazor es fijón. Se cuestiona cuanto valen las cosas que usan los demás.",
 			"type":"text",
-			"width":360,
 			"x":-1260,
-			"y":-260
+			"y":-260,
+			"width":360,
+			"height":80,
+			"color":"3"
 		},
 		{
-			"color":"3",
-			"height":60,
 			"id":"1d0601ec71b8b664",
 			"styleAttributes":{},
 			"text":"Bueno para contestar.",
 			"type":"text",
-			"width":260,
 			"x":-1210,
-			"y":-100
+			"y":-100,
+			"width":260,
+			"height":60,
+			"color":"3"
 		},
 		{
-			"color":"3",
-			"height":120,
 			"id":"531245c850fe6ea7",
 			"styleAttributes":{},
 			"text":"Pero en el fondo un niño, que quiere ser mas fuerte para sobrevivir.",
 			"type":"text",
-			"width":260,
 			"x":-1210,
-			"y":80
+			"y":80,
+			"width":260,
+			"height":120,
+			"color":"3"
 		},
 		{
-			"height":60,
 			"id":"6cf5a7d1be7a8d46",
 			"styleAttributes":{},
 			"text":"Altazor esta en la feria",
 			"type":"text",
-			"width":260,
 			"x":-700,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"ec9b77fc27dceab3",
 			"styleAttributes":{},
 			"text":"Le cobra mas a una señora, que pilla adinerada",
 			"type":"text",
-			"width":420,
 			"x":-780,
-			"y":-250
+			"y":-250,
+			"width":420,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"9acd0bec28ef066f",
 			"styleAttributes":{},
 			"text":"Su pelea es interrumpida por una conmoción. ",
 			"type":"text",
-			"width":260,
 			"x":-20,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":90,
 			"id":"c879ecb635f7f80a",
 			"styleAttributes":{},
 			"text":"\"Es que es como una pasantía, vinen a buscar los huerfanos\"",
 			"type":"text",
-			"width":260,
 			"x":880,
-			"y":-100
+			"y":-100,
+			"width":260,
+			"height":90
 		},
 		{
-			"height":60,
 			"id":"0ddea9b43db37f8b",
 			"styleAttributes":{},
 			"text":"El es mas de estudios",
 			"type":"text",
-			"width":260,
 			"x":920,
-			"y":1256
+			"y":1256,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"3504dde296ff6725",
 			"styleAttributes":{},
 			"text":"Catalogar la fauna chilena",
 			"type":"text",
-			"width":260,
 			"x":920,
-			"y":1380
+			"y":1380,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"b584b6dbce65a2fd",
 			"styleAttributes":{},
 			"text":"Al menos una forma de hacerle honor al apellido ",
 			"type":"text",
-			"width":260,
 			"x":920,
-			"y":1620
+			"y":1620,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":85,
 			"id":"885eca539d1fc558",
 			"styleAttributes":{},
 			"text":"Viene de una familia elite. pero nunca demostró el carácter ni las características para ser un caballero",
 			"type":"text",
-			"width":300,
 			"x":500,
-			"y":1243
+			"y":1243,
+			"width":300,
+			"height":85
 		},
 		{
-			"height":60,
 			"id":"f6cace1fbe0780c7",
 			"styleAttributes":{},
 			"text":"Su familia rechaza sus ideas populares. ",
 			"type":"text",
-			"width":260,
 			"x":520,
-			"y":1480
+			"y":1480,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"db6f83132861428f",
 			"styleAttributes":{},
 			"text":"Me senti profundamente incomodo, viendo a un hombre doble de mi edad llorar como un niño,",
 			"type":"text",
-			"width":520,
 			"x":860,
-			"y":2420
+			"y":2420,
+			"width":520,
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"c42cd41fef8e8ddd",
 			"styleAttributes":{},
 			"text":"\"No soy gran guerrero, ni un buen político. Tampoco un botánico. Estoy en el medio de todo, haciendo poco con lo que tengo\"\n",
 			"type":"text",
-			"width":420,
 			"x":440,
-			"y":2240
+			"y":2240,
+			"width":420,
+			"height":100
 		},
 		{
-			"height":80,
 			"id":"6cd653dc4c674f0c",
 			"styleAttributes":{},
 			"text":"Quizás dejarlo bien instalado en la hacienda del don Joaquín ",
 			"type":"text",
-			"width":260,
 			"x":1610,
-			"y":-90
+			"y":-90,
+			"width":260,
+			"height":80
 		},
 		{
-			"height":80,
 			"id":"b9cbcaa51015158d",
 			"styleAttributes":{},
 			"text":"Quiere llevar a un joven huérfano local, como acompañante en la encomienda que le mandaron.",
 			"type":"text",
-			"width":360,
 			"x":1560,
-			"y":-530
+			"y":-530,
+			"width":360,
+			"height":80
 		},
 		{
-			"height":60,
 			"id":"10f78a608d5e6bf4",
 			"styleAttributes":{},
 			"text":"Claudio lo manejo imponiendo su autoridad.",
 			"type":"text",
-			"width":260,
 			"x":180,
-			"y":-15
+			"y":-15,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"a121a66ef42d8ccc",
 			"styleAttributes":{},
 			"text":"Ropa elegante. Manerismos fortificados.",
 			"type":"text",
-			"width":260,
 			"x":570,
-			"y":-180
+			"y":-180,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"2ee1914c1a44e2fa",
 			"styleAttributes":{},
 			"text":"Esto causa que se pelee con su mama. ",
 			"type":"text",
-			"width":260,
 			"x":-260,
-			"y":-250
+			"y":-250,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"80773031e6f60bb2",
 			"styleAttributes":{},
 			"text":"Ofrecerle un poco de escuela  y en torno el espera, recibir cariño. ",
 			"type":"text",
-			"width":360,
 			"x":1560,
-			"y":-220
+			"y":-220,
+			"width":360,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"e024a4b2cca0c5e6",
 			"styleAttributes":{},
 			"text":"Claudio 3w2",
 			"type":"text",
-			"width":260,
 			"x":260,
-			"y":890
+			"y":890,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"3c34f271d09fac78",
 			"styleAttributes":{},
 			"text":"No tenie vinculos significativos",
 			"type":"text",
-			"width":260,
 			"x":520,
-			"y":1065
+			"y":1065,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"5114bd50561dd65e",
 			"styleAttributes":{},
 			"text":"Su estatus se alinea de las personas comunes",
 			"type":"text",
-			"width":260,
 			"x":240,
-			"y":1380
+			"y":1380,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"3439ab5807763943",
 			"styleAttributes":{},
 			"text":"How",
 			"type":"text",
-			"width":260,
 			"x":-140,
-			"y":1095
+			"y":1095,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"6956e335dd8d7bb0",
 			"styleAttributes":{},
 			"text":"-**most basic desire is to be successful**",
 			"type":"text",
-			"width":260,
 			"x":1260,
-			"y":890
+			"y":890,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":110,
 			"id":"9bd7c3cf6289c9dd",
 			"styleAttributes":{},
 			"text":"-fear is to feel unworthy of love, so they spend a lot of energy accomplishing their goals.\n",
 			"type":"text",
-			"width":340,
 			"x":1460,
-			"y":1078
+			"y":1078,
+			"width":340,
+			"height":110
 		},
 		{
-			"height":194,
 			"id":"3558d92b8019e7d2",
 			"styleAttributes":{},
 			"text":"The appearance of success they build up around their lives is very functional for them to grow their self-esteem. Without it, they feel empty and impersonal. They dream about being admired like a red-carpet celebrity",
 			"type":"text",
-			"width":270,
 			"x":1495,
-			"y":1283
+			"y":1283,
+			"width":270,
+			"height":194
 		},
 		{
-			"height":60,
 			"id":"73e763088c5209d9",
 			"styleAttributes":{},
 			"text":"Social instinct",
 			"type":"text",
-			"width":260,
 			"x":1900,
-			"y":890
+			"y":890,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":85,
 			"id":"a3be8bab4695ac9c",
 			"styleAttributes":{},
 			"text":"Driven by prestige. \nThey go through everymeans to obtain respect and admiration ",
 			"type":"text",
-			"width":320,
 			"x":1870,
-			"y":1010
+			"y":1010,
+			"width":320,
+			"height":85
 		},
 		{
-			"height":60,
 			"id":"cb22d414e157371d",
 			"styleAttributes":{},
 			"text":"Por que a altazor le parece llamativo?",
 			"type":"text",
-			"width":260,
 			"x":880,
-			"y":120
+			"y":120,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":80,
 			"id":"432c0a7dcaa32966",
 			"styleAttributes":{},
 			"text":"Que pasa si una simple encomienda a un latifundio se transforma en detener la insurrección del terrateniente",
 			"type":"text",
-			"width":420,
 			"x":-1080,
-			"y":-1160
+			"y":-1160,
+			"width":420,
+			"height":80
 		},
 		{
-			"height":60,
 			"id":"52304ecce6fc054e",
 			"styleAttributes":{},
 			"text":"Esta es una historia de un tipo 3",
 			"type":"text",
-			"width":260,
 			"x":-570,
-			"y":-1150
+			"y":-1150,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"4e9e0bde5b9ba73e",
 			"styleAttributes":{},
 			"text":"Volviendo. Ya no ve el sentido en pretender y renuncia.",
 			"type":"text",
-			"width":260,
 			"x":1430,
-			"y":-1149
+			"y":-1149,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"8633afa482513ea0",
 			"styleAttributes":{},
 			"text":"Hasta que Altazor realmente lo necesita. ",
 			"type":"text",
-			"width":260,
 			"x":820,
-			"y":-960
+			"y":-960,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"8b0affde4e8255fe",
 			"styleAttributes":{},
 			"text":"Se vuelve en lo que debía representar",
 			"type":"text",
-			"width":260,
 			"x":1040,
-			"y":-1150
+			"y":-1150,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"d7f3e46d5779a6d0",
 			"styleAttributes":{},
 			"text":"Pero en realidad quiere cumplir su ambicion academica *catalogar la fauna*",
 			"type":"text",
-			"width":260,
 			"x":-165,
-			"y":-1390
+			"y":-1390,
+			"width":260,
+			"height":100
 		},
 		{
-			"height":80,
 			"id":"8ec7fb474756bdc2",
 			"styleAttributes":{},
 			"text":"Su forma de hacer honor a su apellido y ser aceptado por su familia",
 			"type":"text",
-			"width":280,
 			"x":170,
-			"y":-1380
+			"y":-1380,
+			"width":280,
+			"height":80
 		},
 		{
-			"height":86,
 			"id":"5a50f6d91cad102b",
 			"styleAttributes":{},
 			"text":"Claudio cumple con su trabajo deber familiar como caballero, pretende ser bravo e imponente.",
 			"type":"text",
-			"width":290,
 			"x":-180,
-			"y":-1163
+			"y":-1163,
+			"width":290,
+			"height":86
 		},
 		{
-			"height":60,
 			"id":"8f984e6737f6db63",
 			"styleAttributes":{},
 			"text":"Que la gente común lo  respete y admire. ",
 			"type":"text",
-			"width":260,
 			"x":180,
-			"y":-1149
+			"y":-1149,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"3247e13fa526c17f",
 			"styleAttributes":{},
 			"text":"In order to survive I need to **succed**, thus be **accepted and loved.**",
 			"type":"text",
-			"width":260,
 			"x":-570,
-			"y":-1440
+			"y":-1440,
+			"width":260,
+			"height":100
 		},
 		{
-			"height":112,
 			"id":"51d3cdb61caf8ec8",
 			"styleAttributes":{},
 			"text":"Hasta que se encuentra una situacion que no puede afrontar.\nAdmite su farsa e impotencia.",
 			"type":"text",
-			"width":260,
 			"x":560,
-			"y":-1176
+			"y":-1176,
+			"width":260,
+			"height":112
 		},
 		{
-			"height":60,
 			"id":"41760450a18c9b2d",
 			"styleAttributes":{},
 			"text":"Claudio quiere ser necesitado. \n(y recordado)",
 			"type":"text",
-			"width":340,
 			"x":1090,
-			"y":-220
+			"y":-220,
+			"width":340,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"23ee4d97bcdf8843",
 			"styleAttributes":{},
 			"text":"Altazor se escapa con el",
 			"type":"text",
-			"width":260,
 			"x":2100,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":140,
 			"id":"c3d05d9134667c38",
 			"styleAttributes":{},
 			"text":"Incluso podría hacer un trato con el don Joaquín -el trata excelente a sus inquilinos. \nO quizás te puedo llevar a mis tierras?",
 			"type":"text",
-			"width":260,
 			"x":3180,
-			"y":-1155
+			"y":-1155,
+			"width":260,
+			"height":140
 		},
 		{
-			"height":60,
 			"id":"a9caa99556133bc1",
 			"styleAttributes":{},
 			"text":"Claudio nota el rechazo. Ofrece mas cosas. ",
 			"type":"text",
-			"width":260,
 			"x":3180,
-			"y":-920
+			"y":-920,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":100,
 			"id":"f120bfc15e82923f",
 			"styleAttributes":{},
 			"text":"Mostrar a Claudio dejándose llevar por su interés en la flora/fauna",
 			"type":"text",
-			"width":280,
 			"x":2480,
-			"y":-675
+			"y":-675,
+			"width":280,
+			"height":100
 		},
 		{
-			"height":60,
 			"id":"7f0b5efef660f4a5",
 			"styleAttributes":{},
 			"text":"Le cuenta su (decepcionante) encomienda",
 			"type":"text",
-			"width":260,
 			"x":2490,
-			"y":-920
+			"y":-920,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"77408ae47c49cf73",
 			"styleAttributes":{},
 			"text":"Mostrar el viaje. ",
 			"type":"text",
-			"width":180,
 			"x":2530,
-			"y":-520
+			"y":-520,
+			"width":180,
+			"height":60
 		},
 		{
-			"height":90,
 			"id":"6fc594b92853c505",
 			"styleAttributes":{},
 			"text":"Altazor se amurra. **Mostrar el comienzo de su arrepentimiento.**",
 			"type":"text",
-			"width":260,
 			"x":2830,
-			"y":-935
+			"y":-935,
+			"width":260,
+			"height":90
 		},
 		{
-			"color":"2",
-			"height":80,
 			"id":"8532eceb2c97f56f",
 			"styleAttributes":{},
 			"text":"Aqui se dice la frase *\"los aguiluchos son de buen augurio\"*",
 			"type":"text",
-			"width":280,
 			"x":2760,
-			"y":-430
+			"y":-430,
+			"width":280,
+			"height":80,
+			"color":"2"
 		},
 		{
-			"height":60,
 			"id":"95ab0a33c7f1eb21",
 			"styleAttributes":{},
 			"text":"Altazor no esta interesado.",
 			"type":"text",
-			"width":260,
 			"x":2830,
-			"y":-780
+			"y":-780,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":80,
 			"id":"af258c148f96b8f2",
 			"styleAttributes":{},
 			"text":"Altazor se deja llevar por la apariencia y el porte del hombre",
 			"type":"text",
-			"width":310,
 			"x":1300,
-			"y":110
+			"y":110,
+			"width":310,
+			"height":80
 		},
 		{
-			"height":85,
 			"id":"81a12ab7225dca8a",
 			"styleAttributes":{},
 			"text":"Además Claudio (tiende a ser teatral) exagera la grandiosidad del asunto ",
 			"type":"text",
-			"width":260,
 			"x":2100,
-			"y":-162
+			"y":-162,
+			"width":260,
+			"height":85
 		},
 		{
-			"height":60,
 			"id":"7d69eb88f5ba0c8f",
 			"styleAttributes":{},
 			"text":"Altazor resentido. ",
 			"type":"text",
-			"width":260,
 			"x":3740,
-			"y":-920
+			"y":-920,
+			"width":260,
+			"height":60
 		},
 		{
-			"color":"2",
-			"height":200,
 			"id":"cceaedbbc001152e",
 			"styleAttributes":{},
 			"text":"\"Después del viaje no hable mucho. \nClaudio continuo escupiendo sus curiosidades, tomando apuntes y dibujando en ese cuaderno de cuero. \nYo me esforcé en ignorarlo. \"",
 			"type":"text",
-			"width":260,
 			"x":3740,
-			"y":-1440
+			"y":-1440,
+			"width":260,
+			"height":200,
+			"color":"2"
 		},
 		{
-			"height":60,
 			"id":"c46c8feb576dfac7",
 			"styleAttributes":{},
 			"text":"Mostrar que a la vuelta si le pone atención. ",
 			"type":"text",
-			"width":260,
 			"x":4160,
-			"y":-1370
+			"y":-1370,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"edbc6553b9954fd1",
 			"styleAttributes":{},
 			"text":"Buscan refugio, en una choza que encontraron cerca. ",
 			"type":"text",
-			"width":260,
 			"x":3800,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"b92eb276491e8c45",
 			"styleAttributes":{},
 			"text":"Lluvia. ",
 			"type":"text",
-			"width":260,
 			"x":3440,
-			"y":-430
+			"y":-430,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":80,
 			"id":"890e450ddc597aeb",
 			"styleAttributes":{},
 			"text":"No puede dejar que se enferme o se muera de hipotermia.",
 			"type":"text",
-			"width":260,
 			"x":3440,
-			"y":-220
+			"y":-220,
+			"width":260,
+			"height":80
 		},
 		{
-			"height":60,
 			"id":"ecda26a0ee3b17c0",
 			"styleAttributes":{},
 			"text":"Busca esa parte en Mistborn 2",
 			"type":"text",
-			"width":260,
 			"x":3800,
-			"y":-675
+			"y":-675,
+			"width":260,
+			"height":60
 		},
 		{
-			"color":"5",
-			"height":120,
 			"id":"bd532e8c6fd6d2fc",
 			"styleAttributes":{},
 			"text":"Si pasan una noche antes de esto. Por que no saldría el secreto antes? \nNo tendría ganas de volver?",
 			"type":"text",
-			"width":350,
 			"x":6715,
-			"y":-1025
+			"y":-1025,
+			"width":350,
+			"height":120,
+			"color":"5"
 		},
 		{
-			"height":60,
 			"id":"1d33e971432e1c54",
 			"styleAttributes":{},
 			"text":"Deben pasar la noche allí. ",
 			"type":"text",
-			"width":260,
 			"x":6760,
-			"y":-505
+			"y":-505,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"91ae3bc9c9a8677d",
 			"styleAttributes":{},
 			"text":"Claudio admite su farsa.",
 			"type":"text",
-			"width":260,
 			"x":7000,
-			"y":-385
+			"y":-385,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":80,
 			"id":"d6637f08ab6d136a",
 			"styleAttributes":{},
 			"text":"Claudio esta decidido:\n**Tiene que llevarlo de vuelta.** ",
 			"type":"text",
-			"width":260,
 			"x":7200,
-			"y":-515
+			"y":-515,
+			"width":260,
+			"height":80
 		},
 		{
-			"height":60,
 			"id":"4e8c0ca8f585db1b",
 			"styleAttributes":{},
 			"text":"Altazor no aguanta más. Revela su secreto. ",
 			"type":"text",
-			"width":260,
 			"x":7200,
-			"y":-225
+			"y":-225,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":80,
 			"id":"50dfe3111142f74c",
 			"styleAttributes":{},
 			"text":"De alguna forma, rescata la solución que aun no tengo clara. ",
 			"type":"text",
-			"width":280,
 			"x":7560,
-			"y":-515
+			"y":-515,
+			"width":280,
+			"height":80
 		},
 		{
-			"height":60,
 			"id":"bc85865dac159ae8",
 			"styleAttributes":{},
 			"text":"Multitudes peleándose por saquear",
 			"type":"text",
-			"width":240,
 			"x":6340,
-			"y":-325
+			"y":-325,
+			"width":240,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"887bc32e2670c8cb",
 			"styleAttributes":{},
 			"text":"Un patrón  encerrado",
 			"type":"text",
-			"width":280,
 			"x":6340,
-			"y":-245
+			"y":-245,
+			"width":280,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"1cb0b9e038f6a685",
 			"styleAttributes":{},
 			"text":"Bandoleros aprovechándose del caos",
 			"type":"text",
-			"width":260,
 			"x":6340,
-			"y":-165
+			"y":-165,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"51c1e3d2feed5776",
 			"styleAttributes":{},
 			"text":"Cuidar del niño que trajo a este caos",
 			"type":"text",
-			"width":260,
 			"x":6340,
-			"y":-65
+			"y":-65,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"e9c91aaa7ca02ae5",
 			"styleAttributes":{},
 			"text":"De ahi comienza a ir de mal en peor",
 			"type":"text",
-			"width":260,
 			"x":3090,
-			"y":-530
+			"y":-530,
+			"width":260,
+			"height":60
 		},
 		{
-			"color":"2",
-			"height":60,
 			"id":"694a897bc019c0f0",
 			"styleAttributes":{},
 			"text":"\"Saliste igual a tu papa\"",
 			"type":"text",
-			"width":260,
 			"x":-260,
-			"y":-95
+			"y":-95,
+			"width":260,
+			"height":60,
+			"color":"2"
 		},
 		{
-			"color":"2",
-			"height":55,
 			"id":"3ae3f81fcad1341b",
 			"styleAttributes":{},
 			"text":"\"Yo no soy un vago mal entretenido. \"",
 			"type":"text",
-			"width":260,
 			"x":-260,
-			"y":85
+			"y":85,
+			"width":260,
+			"height":55,
+			"color":"2"
 		},
 		{
-			"color":"2",
-			"height":60,
 			"id":"6de40f452598c935",
 			"styleAttributes":{},
 			"text":"Si estuviera el, no estarían vendiendo verduras robadas.",
 			"type":"text",
-			"width":260,
 			"x":-260,
-			"y":265
+			"y":265,
+			"width":260,
+			"height":60,
+			"color":"2"
 		},
 		{
-			"height":60,
 			"id":"78fbf219a0fa6052",
 			"styleAttributes":{},
 			"text":"La gente no recibió bien al hombre con pinta de patrón",
 			"type":"text",
-			"width":260,
 			"x":180,
-			"y":-180
+			"y":-180,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":85,
 			"id":"cb773235cadd2cd7",
 			"styleAttributes":{},
 			"text":"Claudio pasando por la feria por la tarde, en el momento que se torna en ocio. ",
 			"type":"text",
-			"width":300,
 			"x":160,
-			"y":-420
+			"y":-420,
+			"width":300,
+			"height":85
 		},
 		{
-			"height":60,
 			"id":"a527af23b53fda63",
 			"styleAttributes":{},
 			"text":"Se entera de por que vino el caballero a su pueblito ",
 			"type":"text",
-			"width":260,
 			"x":880,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":90,
 			"id":"cc5f87a311011d9e",
 			"styleAttributes":{},
 			"text":"Llegan a las tierras del don Joaquin",
 			"type":"text",
-			"width":260,
 			"x":5700,
-			"y":-520
+			"y":-520,
+			"width":260,
+			"height":90
 		},
 		{
-			"height":60,
 			"id":"18f11c337a020258",
 			"styleAttributes":{},
 			"text":"Hay caos.",
 			"type":"text",
-			"width":260,
 			"x":6160,
-			"y":-505
+			"y":-505,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"2290797d6e32a028",
 			"styleAttributes":{},
 			"text":"Los dejan entrar, mas que nada por cuidar de Altazor  ",
 			"type":"text",
-			"width":260,
 			"x":4160,
-			"y":-170
+			"y":-170,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"8f35b7abda235499",
 			"styleAttributes":{},
 			"text":"Con Claudio son muy *squiddish*",
 			"type":"text",
-			"width":260,
 			"x":4160,
-			"y":10
+			"y":10,
+			"width":260,
+			"height":60
 		},
 		{
-			"height":60,
 			"id":"dc077f1a8f2372d8",
 			"styleAttributes":{},
 			"text":"Mostrarlos evitando mencionar lo que ocurre en el fundo",
 			"type":"text",
-			"width":260,
 			"x":4540,
-			"y":10
+			"y":10,
+			"width":260,
+			"height":60
 		},
 		{
-			"color":"4",
-			"height":60,
 			"id":"7125877cd31ee70c",
 			"styleAttributes":{},
 			"text":"CUAL ES????",
 			"type":"text",
-			"width":260,
 			"x":2490,
-			"y":-1340
+			"y":-1340,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	]
 }

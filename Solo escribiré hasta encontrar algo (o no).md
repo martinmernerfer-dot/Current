@@ -1,4 +1,4 @@
-- Hoy reconsideré mi tipo de enneagram. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
+- Hoy reconsideré mi tipo de [[enneagram]]. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
 	- De todas formas, no quedo contento con el resultado. Sigue siendo de poca utilidad. Pareciera que cualquier resultado es incierto si considero el hecho de que no hablo con muchas personas. Sin esa faceta de information me es difícil evaluar como soy con otros. 
 		- Llevo harto tiempo solo. 
 	- No soy ni la primera ni la ultima persona persona que busca encasillarse *¿de donde viene esa tendencia? ¿Hay alguna utilidad aparte de sentirse parte de un grupo?*
@@ -22,20 +22,19 @@
 			- Calza mas que el 5w4. El iconoclasta que no estudia. Además, si quiero más personas en mi vida. El hecho de que me cueste mucho entablar las relaciones es otra cosa. 
 - Es frustrante que tanto de mis problemas podrían ser solucionados si tuviera solo una persona que me aliente o reafirme mi valor.
 	- Pero si no muestro estas necesidades (romper la paz) nunca nadie las verá, no podré exponerme a que alguien las acepte.
-		- Pareciera que la mayoría que me compele a escribir termina girando en circulos -Otra cosa frustrante. 
+		- Pareciera que la mayoría que me compele a escribir termina girando en círculos -Otra cosa frustrante. 
 - Particularmente esta mañana, es muy evidente que todo carece de propósito. 
-	- Aún asi todo me parece tan preciado e importante. 
+	- Aún así todo me parece tan preciado e importante. 
 	- Quiero que quede claro, esto es un gran problema. 
-		- Me beneficiaria la levedad.
-	- Incluso estas palabras. Con el esfuerzo que me toman, otros hombres han construido imperios.
+		- Me beneficiaria la [[levedad]].
+	- *Incluso estas palabras. Con el esfuerzo que me toman, otros hombres han construido imperios.*
 		- Personas menos estudiadas hablan por llenar silencio y llegan a algo que resuena en otros.
 	- Tanto he pensado, poco he hecho
-	- Lo que se siente como una eternidad esforzandome silenciosamente. Si paro de repente ¿Quien nota ls diferencia?
+	- Lo que se siente como una eternidad esforzándome silenciosamente. Si paro de repente ¿Quien nota ls diferencia?
 - Desperté cuestionando mi falta de religión. Intente recordar alguna filosofia -en algún momento me hicieron sentido.
 	- No salio nada.
 - Quizas mi problema completo es que quiero muy rapido. 
 	- Se que me cuesta. 
 	- Tengo que comenzar de abajo. 
 		- Un poco consistentemente. 
-- El problema es mantenerse con algo por harto tiempo. Ser malo me frustra y reconsidero mi existencia: termino probando **otra** cosa 
--  
+- El problema es mantenerse con algo por harto tiempo. Ser malo me frustra y reconsidero mi existencia: termino probando otra cosa 

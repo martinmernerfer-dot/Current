@@ -1,1 +1,6 @@
-- Seré mas *nonchalant*. Pero de la forma real. No como una proyección para otros por que no quiero ser honesto sobre mi estado mental.  
+- Seré mas *nonchalant*. Pero de la forma real. No como una proyección para otros por que no quiero ser honesto sobre mi estado mental. 
+- Me falta tomarme las cosas con mas calma. Soy muy fatalista. 
+- Se trata de hacer cosas.
+	- Sin darles importancia. 
+	- Sin pensar lo que signfican.
+	- 

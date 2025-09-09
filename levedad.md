@@ -3,4 +3,4 @@
 - Se trata de hacer cosas.
 	- Sin darles importancia. 
 	- Sin pensar lo que signfican.
-	- 
+- Cuanto mas pesada la carga, más a raz de tierra estará nuestra vida -mas rea

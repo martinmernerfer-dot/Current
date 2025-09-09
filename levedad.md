@@ -3,4 +3,7 @@
 - Se trata de hacer cosas.
 	- Sin darles importancia. 
 	- Sin pensar lo que signfican.
-- Cuanto mas pesada la carga, más a raz de tierra estará nuestra vida -mas rea
+- "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
+	- Por que yo me siento en el medio de ambos?
+	- 
+ 

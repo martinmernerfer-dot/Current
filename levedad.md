@@ -1,0 +1,1 @@
+- Seré mas *nonchalant*. Pero de la forma real. No como una proyección para otros por que no quiero ser honesto sobre mi estado mental.  

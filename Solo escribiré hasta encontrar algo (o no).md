@@ -1,0 +1,41 @@
+- Hoy reconsideré mi tipo de enneagram. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
+	- De todas formas, no quedo contento con el resultado. Sigue siendo de poca utilidad. Pareciera que cualquier resultado es incierto si considero el hecho de que no hablo con muchas personas. Sin esa faceta de information me es difícil evaluar como soy con otros. 
+		- Llevo harto tiempo solo. 
+	- No soy ni la primera ni la ultima persona persona que busca encasillarse *¿de donde viene esa tendencia? ¿Hay alguna utilidad aparte de sentirse parte de un grupo?*
+- Últimamente he tenido días frustrantes. Me invade este deseo maniático de crear algo y no puedo.  Por que no tengo ideas, por que no me decido en un medio, por que no se para que. 
+	- Es complicado. El fin de semana me paso por encima y estoy contento que se acabara. Noto el daño que me hace la falta de rutina. Mis hábitos diarios no son tan fuertes como para mantenerme erguido estos días donde vago laciamente desde la cama al escritorio. 
+	- Al menos me siento mas cómodo escribiendo. Aunque una parte de mi desea transformarlos en algo que pueda mostrar.
+- Sin nada mas que hacer, me siento a escribir y espero que pase algo bueno. Hoy he buscado desesperadamente algo interesante que me motive a investigar/reflexionar/escribir (en ningún orden particular). Lamentablemente aún no pasa nada y no entiendo muy bien el por que. 
+	- Le estoy dando mucha importancia - *¿pienso demasiado?* 
+- Todo lo que pienso en escribir se torna muy vago y existencial. Me siento perdido. No se como comenzar, mucho menos donde termina. No estoy preparado para algo tan grande. Mi entendimiento no sirve ni para generar preguntas que comiencen un proceso. *¿Quizás soy muy selectivo?*
+- ¿Que pasaría si se cumpliera todo lo que quiero?
+	- Un Substack lleno de ensayos.
+	- Cuadernos llenos de arte y practica.
+	- Amigos que aprecian mi arte.
+	- Una forma distinta de ver la vida. Algo más atento.
+- Nada pues, seria bueno. 
+- Por que me gusta la idea de "una carpeta que debía ser publica". Implica varias cosas: Son cosas que tenia de antes, estaban guardadas. Me di cuenta que seria mejor si alguien pudiera ver sus contenidos. Seguiré metiéndole cosas.
+- Los problemas que me plagan son efímeros, para bien y para mal. Hace unas semanas estaba profundamente afectado por la idea de que no tengo a nadie cercano en mi vida. Sentí que había fallado, el mundo se acababa y yo tenia un indicador muy claro de que desperdicie mi existencia. Impulsado por miedo busqué formas de cambiarlo, me imagine un mundo donde lo lograba. Temí quedarme con las cosas como eran.
+	- Aquí estoy ahora, básicamente donde mismo pero sin el sentido de urgencia. Ese pánico nunca evolucionó hacia la acción y ahora volví a mi falsa paz.
+	- Ese es el nuevo diagnostico de enneagram que encontré.
+		- Tipo 9w1. El soñador busca la paz interior aunque sea una falsa. Fantaseo para experimentar lo deseo sin exponerme al conflicto o el rechazo. 
+			- Calza mas que el 5w4. El iconoclasta que no estudia. Además, si quiero más personas en mi vida. El hecho de que me cueste mucho entablar las relaciones es otra cosa. 
+- Es frustrante que tanto de mis problemas podrían ser solucionados si tuviera solo una persona que me aliente o reafirme mi valor.
+	- Pero si no muestro estas necesidades (romper la paz) nunca nadie las verá, no podré exponerme a que alguien las acepte.
+		- Pareciera que la mayoría que me compele a escribir termina girando en circulos -Otra cosa frustrante. 
+- Particularmente esta mañana, es muy evidente que todo carece de propósito. 
+	- Aún asi todo me parece tan preciado e importante. 
+	- Quiero que quede claro, esto es un gran problema. 
+		- Me beneficiaria la levedad.
+	- Incluso estas palabras. Con el esfuerzo que me toman, otros hombres han construido imperios.
+		- Personas menos estudiadas hablan por llenar silencio y llegan a algo que resuena en otros.
+	- Tanto he pensado, poco he hecho
+	- Lo que se siente como una eternidad esforzandome silenciosamente. Si paro de repente ¿Quien nota ls diferencia?
+- Desperté cuestionando mi falta de religión. Intente recordar alguna filosofia -en algún momento me hicieron sentido.
+	- No salio nada.
+- Quizas mi problema completo es que quiero muy rapido. 
+	- Se que me cuesta. 
+	- Tengo que comenzar de abajo. 
+		- Un poco consistentemente. 
+- El problema es mantenerse con algo por harto tiempo. Ser malo me frustra y reconsidero mi existencia: termino probando **otra** cosa 
+-  

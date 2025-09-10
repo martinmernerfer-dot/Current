@@ -9,7 +9,7 @@
 	- Sin pensar lo que significa.
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Es realmente deseable planear por la vida?
-		- Sobretodo para alguien dado 
+		- Sobretodo para alguien dado a la inacción como yo?
 - Decisiones que me gustaría volver a tomar:
 	- Por que decidí llevar esa carga, no había otra mejor?
 	- Por que yo me siento en el medio de ambos?

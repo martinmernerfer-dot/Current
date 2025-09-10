@@ -4,12 +4,10 @@
 
 
 - A veces despierto y lo primero que noto es la carencia de sentido. Alguien se robó la importancia de todo lo que me rodea mientras dormía. 
-	- Aún así, todo me parece tan tremendamente importante y 
-	- 
-	- . Cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
-	- 
-- 
-
+	- Aún así, todo me parece tan tremendamente importante y preciado. 
+		- Quiero que quede claro, esto es algo malo. 
+	- Cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
+- Esos días todo importa menos. Yo soy mas pesado y me gustaria tomar las cosas con levedad. 
 - Me falta tomarme las cosas con mas calma. Soy muy fatalista. 
 - Se trata de hacer cosas.
 	- Sin darles importancia. 

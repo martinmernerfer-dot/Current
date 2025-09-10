@@ -26,7 +26,7 @@
 - Particularmente esta mañana, es muy evidente que todo carece de propósito. 
 	- Aún así todo me parece tan preciado e importante. 
 	- Quiero que quede claro, esto es un gran problema. 
-		- Me beneficiaria la [[levedad]].
+		- Me beneficiaria [[El incomprensible deseo de levedad]].
 	- *Incluso estas palabras. Con el esfuerzo que me toman, otros hombres han construido imperios.*
 		- Personas menos estudiadas hablan por llenar silencio y llegan a algo que resuena en otros.
 	- Tanto he pensado, poco he hecho

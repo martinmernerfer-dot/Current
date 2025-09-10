@@ -1,4 +1,4 @@
-- Hoy reconsideré mi tipo de [[enneagram]]. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
+- Hoy reconsideré mi tipo de [[Enneagram]]. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
 	- De todas formas, no quedo contento con el resultado. Sigue siendo de poca utilidad. Pareciera que cualquier resultado es incierto si considero el hecho de que no hablo con muchas personas. Sin esa faceta de information me es difícil evaluar como soy con otros. 
 		- Llevo harto tiempo solo. 
 	- No soy ni la primera ni la ultima persona persona que busca encasillarse *¿de donde viene esa tendencia? ¿Hay alguna utilidad aparte de sentirse parte de un grupo?*

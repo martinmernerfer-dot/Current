@@ -10,8 +10,10 @@
 	- No necesito a un dios. Solo menos de mí. 
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 
-- Para mi suerte, todo lo que me perturba ya fue pensado por otra persona alguna vez. Nietzsche en algún momento 
-
+- En realidad, Kundera se refiere al peso mas grande que carga el ser humano: Solo tenemos el momento actual -es nuestra mayor misión y conexión con el universo mantener eso en mente. 
+	- Se supone que eso nos debe hacer sentir mejor. Algunos días lo hace. 
+	- Más seguido, a mi me parece injusto. 
+- Nietzche  
 
 
 

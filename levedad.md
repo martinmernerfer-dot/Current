@@ -1,8 +1,15 @@
 
-# “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
+ “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
 
-- Seré mas *nonchalant*. Pero de la forma real. No como una proyección para otros por que no quiero ser honesto sobre mi estado mental. 
+
+- A veces despierto y lo primero que noto es la carencia de sentido. Alguien se robó la importancia de todo lo que me rodea mientras dormía. 
+	- Aún así, todo me parece tan tremendamente importante y 
+	- 
+	- . Cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
+	- 
+- 
+
 - Me falta tomarme las cosas con mas calma. Soy muy fatalista. 
 - Se trata de hacer cosas.
 	- Sin darles importancia. 

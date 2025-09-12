@@ -46,9 +46,12 @@
 - Mi viaje a Brazil se aproxima y solo pienso cosas buenas. Nadie de mi familia me ha mirado raro o mostrado malas vibras. Eso fue un miedo real en algún momento. 
 	- Ahora tengo todo listo y cualquier cosa que olvido considerar solo me parecera gracioso.
 - Me da curiosidad que tan poca planificación necesito hacer para la salida. Aparte de unos puntos de interés que conozco por nombre solamente, no tengo un itinerario. 
-	- Realmente voy a vagar pensar y perderme. 
+	- Realmente voy a vagar pensar y perderme. Como quien disfruta la cueva -*debería escribir más de eso*. Cual es el maldito interés en eso, las muertes se ven horríficas.
 		- Comer y tomar también, pero eso es otra cosa. 
 	- Tengo una lista de cosas que quiero cumplir en mi cabeza, pero no la escribiré hasta estar en el aeropuerto mañana en la noche. Puedo/quiero romantizar la cosa. 
-- Aún no le he contado a nadie aparte de mi familia -No se que dice eso de mi todavía.  
+- Aún no le he contado a nadie aparte de mi familia -No se que dice eso de mí todavía.  
 	- Quizás no dice nada. 
-- 
+- Por ahora, considero que será una excelente instancia para ver como actuó/ quien soy cuando en lo salvaje. 
+	- Estoy asegurado de aprender algo sobre mi mismo y eso es alentador. 
+	- También quiero tomarme fotos. No tendré vergüenza -aunque aún no se como le pediré fotos a los extraños. 
+- Conseguí un libro sobre el Enneagram. Espero tenga algo ut

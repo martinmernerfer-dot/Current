@@ -56,6 +56,7 @@
 	- También quiero tomarme fotos. No tendré vergüenza -aunque aún no se como le pediré fotos a los extraños. 
 - Conseguí un libro sobre el Enneagram. Pretendo sobrepasar la fase del conflicto a ser definido. Es tiempo de usar información para crecer y avanzar. 
 - Hoy veíamos el buen doctor. Usualmente veo reflejos de mi en el, pero esta vez extrañamente preciso. 
-	- Se trataba sobre la intimidad. El hombre no podía acostarse con su novia, el contacto y la vulnerabilidad le ponen histérico. 
-	- Intento mejorar, su pareja es muy paciente con el. Pero no pudo tener sexo con ella -ni siquiera tocarla de manera sexual. 
+	- Se trataba sobre la intimidad. El hombre no podía acostarse con su novia, el contacto y la vulnerabilidad le ponen **diaforético**. 
+	- Intento mejorar, su pareja es muy paciente con el. El buen doctor legítimamente quiere tener sexo con ella. Pero no puede manejar el contacto físico.
 	- Eventualmente la frustración fue demasiada y le dijo una verdad que me llego al pecho: "Tengo miedo a morir solo y se que si no supero esto mi miedo es más probable"
+- Es lo mismo. Inserta algo positivo aquí. 

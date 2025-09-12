@@ -40,5 +40,15 @@
 - El problema es mantenerse con algo por harto tiempo. Ser malo me frustra y reconsidero mi existencia: termino probando otra cosa 
 --------------------------------
 
-- Hoy Fabián mencionó el eterno retorno de la nada. Es curioso, a veces pongo atención y parece que todo en la vida esta conectado. Como si estuviera persiguiendo un billete que alguien tira con un hilo cada vez que estoy apunto de alcanzarlo. 
-	- Quizás como las cuerdas que usan los que investigan cuevas sumergidas -asi saben como volver cuando encuentran que no llega a ni
+- Hoy Fabián mencionó el eterno retorno de la nada -El tema que ayer estudie y escribí en mi cuaderno. Es curioso, a veces pongo atención y parece que todo en la vida esta conectado. Como si estuviera persiguiendo un billete que alguien tira con un hilo cada vez que estoy apunto de alcanzarlo. 
+	- Quizás como las cuerdas que usan los que investigan cuevas sumergidas -así saben como volver cuando encuentran que no llega a ningún lado. 
+		- Pero disfrutan la cueva de todas formas. Quien sabe por que. 
+- Mi viaje a Brazil se aproxima y solo pienso cosas buenas. Nadie de mi familia me ha mirado raro o mostrado malas vibras. Eso fue un miedo real en algún momento. 
+	- Ahora tengo todo listo y cualquier cosa que olvido considerar solo me parecera gracioso.
+- Me da curiosidad que tan poca planificación necesito hacer para la salida. Aparte de unos puntos de interés que conozco por nombre solamente, no tengo un itinerario. 
+	- Realmente voy a vagar pensar y perderme. 
+		- Comer y tomar también, pero eso es otra cosa. 
+	- Tengo una lista de cosas que quiero cumplir en mi cabeza, pero no la escribiré hasta estar en el aeropuerto mañana en la noche. Puedo/quiero romantizar la cosa. 
+- Aún no le he contado a nadie aparte de mi familia -No se que dice eso de mi todavía.  
+	- Quizás no dice nada. 
+- 

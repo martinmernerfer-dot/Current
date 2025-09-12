@@ -38,3 +38,7 @@
 	- Tengo que comenzar de abajo. 
 		- Un poco consistentemente. 
 - El problema es mantenerse con algo por harto tiempo. Ser malo me frustra y reconsidero mi existencia: termino probando otra cosa 
+--------------------------------
+
+- Hoy Fabián mencionó el eterno retorno de la nada. Es curioso, a veces pongo atención y parece que todo en la vida esta conectado. Como si estuviera persiguiendo un billete que alguien tira con un hilo cada vez que estoy apunto de alcanzarlo. 
+	- Quizás como las cuerdas que usan los que investigan cuevas sumergidas -asi saben como volver cuando encuentran que no llega a ni

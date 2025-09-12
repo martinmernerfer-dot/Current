@@ -15,6 +15,10 @@
 	- Más seguido, a mi me parece injusto. 
 - Nietzche  
 
+He realized now that to be afraid of this death he was staring at with animal terror meant to be afraid of life. Fear of dying justified a limitless attachment to what is alive in man. And all those who had not made the gestures necessary to live their lives, all those who feared and exalted impotence — they were afraid of death because of the sanction it gave to a life in which they had not been involved. They had not lived enough, never having lived at all.” -Camus
+- What if the terror we feel before death is not truly about the ending of life, but rather about the unsettling recognition that we never fully lived it
+	- El miedo a tener que vivirlo de nuevo exactamente igual
+	- 
 
 
 - Se trata de hacer cosas.

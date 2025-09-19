@@ -2,8 +2,8 @@
  “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
 
-- A veces despierto y lo primero que noto es la carencia de propósito. El viento desordeno el sentido que le di a mi vida mientras dormía -debí cerrar mi ventana. 
-	- Aún así, todo me parece tan tremendamente importante y preciado. 
+- A veces despierto y lo primero que noto es la carencia de propósito. El viento sopló de noche desordeno el sentido que le di a la vida. Debí cerrar mi ventana. 
+	- Nada tiene s
 		- Quiero que quede claro, esto es algo malo. 
 	- Cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
 - Esos días la perdida supera a la ganancia y yo -*responsable gambler*- pierdo las ganas de jugar. Simplemente quiero existir un poco menos. 
@@ -35,6 +35,6 @@ He realized now that to be afraid of this death he was staring at with animal te
 ----------------------------------------------------------------------------
 
 
-A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a mi vida. Debería cerrar la ventana. 
-Aun asi, todo se sigue moviendo. 
+
+
  

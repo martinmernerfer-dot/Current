@@ -60,3 +60,10 @@
 	- Intento mejorar, su pareja es muy paciente con el. El buen doctor legítimamente quiere tener sexo con ella. Pero no puede manejar el contacto físico.
 	- Eventualmente la frustración fue demasiada y le dijo una verdad que me llego al pecho: "Tengo miedo a morir solo y se que si no supero esto mi miedo es más probable"
 - Es lo mismo. Inserta algo positivo aquí. 
+- En la noche, me despertó una oleada de ansiedad y no supe como lidiar.
+
+Para ver el viaje a brazil y continuar esta linea de pensamiento ve a [[2025-09-13 brasil 1]]
+
+- 
+
+- Continua la tedencia en notas diarias.

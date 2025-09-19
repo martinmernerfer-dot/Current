@@ -6,7 +6,8 @@ Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente
 [[Nietzsche]] escribió un hipotético al que retorno cada vez que necesito lidiar con algo que no quiero: 
 “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
-- En esta situación Nietzsche alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la unica que tenemos. Experimentarla *como se debe* 
+- Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Experimentarla *como se debe* requiere vivirla de manera que estemos dispuestos a hacerlo de nuevo.  A esto lo llamo, la carga mas pesada del ser. 
+- 
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 
 - En realidad, Kundera se refiere al peso mas grande que carga el ser humano: Solo tenemos el momento actual -es nuestra mayor misión y conexión con el universo mantener eso en mente. 

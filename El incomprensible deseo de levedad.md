@@ -3,8 +3,7 @@
 
 
 - A veces despierto y lo primero que noto es la carencia de propósito. El viento sopló de noche desordeno el sentido que le di a la vida. Debí cerrar mi ventana. 
-	- Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. Todo es arbitrario. Aún así, me parece que todo tiene un peso tremendo:  brazos de plastilina. 
-
+	- Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. Todo es arbitrario. Aún así, me parece que todo tiene un peso tremendo:  cualquier tonteria es increíblemente difícil y un simple error podría traer daño irreparable. 
 	- cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
 - Esos días la perdida supera a la ganancia y yo -*responsable gambler*- pierdo las ganas de jugar. Simplemente quiero existir un poco menos. 
 	- No necesito a un dios. Solo menos de mí. 

@@ -35,5 +35,6 @@ He realized now that to be afraid of this death he was staring at with animal te
 ----------------------------------------------------------------------------
 
 
-A veces despierto y lo primero que noto es la carencia de propósito. Como si el vie
+A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a mi vida. Debería cerrar la ventana. 
+Aun asi, todo se sigue moviendo. 
  

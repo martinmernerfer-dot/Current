@@ -2,9 +2,11 @@
  “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
 
-- A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche desordeno el orden que le di a la vida. Debí cerrar mi ventana. Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. El mundo se muestra lleno de contradicciones: tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
-- Esos días la perdida supera a la ganancia y yo -*responsable gambler*- pierdo las ganas de jugar. Simplemente quiero existir un poco menos, moverme con levedad.
-	- ![[Pasted image 20250919175355.png]]
+A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche desordeno el orden que le di a la vida. Debí cerrar mi ventana. 
+Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. El mundo se muestra lleno de contradicciones: tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. Esos días la perdida supera a la ganancia y yo -responsable gambler- pierdo las ganas de jugar. Simplemente quiero existir un poco menos, moverme con levedad.
+
+![[Pasted image 20250919175355.png]]
+
 - 
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 

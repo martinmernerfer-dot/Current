@@ -6,7 +6,7 @@
 	- Aún así, todo me parece tan tremendamente importante y preciado. 
 		- Quiero que quede claro, esto es algo malo. 
 	- Cualquier cosa podría salir mal y seria un daño irreparable, con repercusiones tan grandes que no soy capaz ni de expresar. El final de todo lo que he trabajado por mantener. 
-- Esos días la perdida supera a la ganancia y yo -apostador responsable- pierdo las ganas de jugar. Simplemente quiero existir un poco menos. 
+- Esos días la perdida supera a la ganancia y yo -*responsable gambler*- pierdo las ganas de jugar. Simplemente quiero existir un poco menos. 
 	- No necesito a un dios. Solo menos de mí. 
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 
@@ -19,8 +19,6 @@ He realized now that to be afraid of this death he was staring at with animal te
 - What if the terror we feel before death is not truly about the ending of life, but rather about the unsettling recognition that we never fully lived it
 	- El miedo a tener que vivirlo de nuevo exactamente igual
 	- 
-
-
 - Se trata de hacer cosas.
 	- Sin darles importancia. 
 	- Sin pensar lo que significa.
@@ -33,6 +31,9 @@ He realized now that to be afraid of this death he was staring at with animal te
 		- No por que sea pesado vale la pena cargarlo
 			-
 		- Tampoco se puede llevar nada. 
-		
 
+----------------------------------------------------------------------------
+
+
+A veces despierto y lo primero que noto es la carencia de propósito. Como si el vie
  

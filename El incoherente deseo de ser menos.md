@@ -1,6 +1,9 @@
 A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a la vida.
-Esas mañanas nada me hace sentido y no tengo deseo de buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante corriente. Tengo que trabajar de todas formas. Los días así igual tienen su gracia, las contradicciones de la vida se me hacen mas aparentes. Tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
-Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Me gustaría existir un poco menos. Moverme con mas levedad. 
+Esas mañanas nada me hace sentido y no tengo deseo de buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante corriente.  "Hay que  trabajar igual" me digo resignado, pero en el fondo me parece injusto.
+
+
+Tengo que trabajar de todas formas. Los días así igual tienen su gracia, las contradicciones de la vida se me hacen mas aparentes. Tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
+Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Me gustaría existir un poco menos. 
 
 
 

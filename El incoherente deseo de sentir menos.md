@@ -7,7 +7,8 @@
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Ósea, este momento podría experimentarlo infinitas veces (quien sabe) entonces lo que ocurre no es lo que importa. Lo que nos debe preocupar entonces, es como reaccionamos a lo que pasa. 
-	- En mi caso, querer ser meno
+	- En mi caso, querer ser menos es una reacción?
+	- 
 	
 
 

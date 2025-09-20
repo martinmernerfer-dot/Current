@@ -1,4 +1,6 @@
-A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche desordeno el orden que le di a la vida. Debí cerrar mi ventana. 
+A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a la vida.
+Esas mañanas nada me hace sentid y no me interesa buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante 
+
 Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. El mundo se muestra lleno de contradicciones: tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Simplemente quiero existir un poco menos, moverme con levedad.
 - Que es la levedad? 
 

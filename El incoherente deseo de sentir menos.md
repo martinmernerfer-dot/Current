@@ -3,6 +3,7 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
+**Diría que necesita un poco mas de set up**
 ---some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
@@ -15,8 +16,6 @@
 
 
 
-
-“What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
 -  Experimentarla *como se debe* requiere vivirla de manera que estemos dispuestos a hacerlo de nuevo. Vivir con esto en mente es entonces, la carga mas pesada del ser. 
 - Así que, si lo fuera a hacer de nuevo ¿conviene hacerlo con mas levedad?

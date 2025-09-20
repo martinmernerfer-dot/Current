@@ -2,12 +2,12 @@
 	- Todo es igual que ayer y eso me parece injusto. 
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
-- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos. 
-
-
+- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos.
+---some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Ósea, no importa realmente lo que esta pasando, por qué pasara después exactamente igual. Lo que nos debe preocupar entonces, es como reaccionamos a lo que pasa. 
+	- Entonces  ¿es correcto querer existir menos?
 - 
 
 

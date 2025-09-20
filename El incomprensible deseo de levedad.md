@@ -1,7 +1,9 @@
 A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a la vida.
-Esas mañanas nada me hace sentid y no me interesa buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante 
+Esas mañanas nada me hace sentido y no tengo deseo buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante corriente. Tengo que trabajar igual. Los días así igual tienen su gracia, las contradicciones de la vida se me hacen mas aparentes. Tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
+Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Me gustaría existir un poco menos. Moverme con mas levedad. 
 
-Nada tiene sentido y la rutina te arrastra como una gentil e innegable corriente. El mundo se muestra lleno de contradicciones: tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Simplemente quiero existir un poco menos, moverme con levedad.
+
+
 - Que es la levedad? 
 
 ![[Pasted image 20250919175355.png]]

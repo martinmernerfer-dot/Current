@@ -1,7 +1,13 @@
-A veces despierto y lo primero que noto es la falta de propósito. Todo es igual que ayer y eso me parece injusto. 
-"Hay que trabajar  igual" pienso resignado. La rutina me arrastra reacio como una incesante corriente. Esas mañanas todo amerita a nada, aun así estar despierto es abrumante  y yo quiero existir un poco menos. 
-Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así:  Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
-pienso en esto por que para bien o para mal, solo existe este preciso momento. Lo que importa de este no es lo que este ocurriendo si no mi reacción a ello. 
+- A veces despierto y lo primero que noto es la falta de propósito. 
+	- Todo es igual que ayer y eso me parece injusto. 
+	- "Hay que ir trabajar igual" pienso resignado. 
+		- La rutina me arrastra reacio como una incesante corriente. 
+- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos. 
+
+- Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
+	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
+- 
+
 
 
 

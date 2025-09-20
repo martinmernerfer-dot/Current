@@ -4,9 +4,11 @@
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos. 
 
+
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
-- Para bien o para mal el momento actual es lo único que realmente tenemos. Ósea, no importa realmente lo que esta pasando, por qué pasara después exactamente igual. 
+- Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Ósea, no importa realmente lo que esta pasando, por qué pasara después exactamente igual. Lo que nos debe preocupar entonces, es como reaccionamos a lo que pasa. 
+- 
 
 
 
@@ -15,15 +17,7 @@
 
 “What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
-Tengo que trabajar de todas formas. Los días así igual tienen su gracia, las contradicciones de la vida se me hacen mas aparentes. Tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
-Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Me gustaría existir un poco menos. 
-
-
-
-
-[[Nietzsche]] escribió un hipotético al que retorno cada vez que necesito lidiar con algo que no quiero: 
-
-- Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Experimentarla *como se debe* requiere vivirla de manera que estemos dispuestos a hacerlo de nuevo. Vivir con esto en mente es entonces, la carga mas pesada del ser. 
+-  Experimentarla *como se debe* requiere vivirla de manera que estemos dispuestos a hacerlo de nuevo. Vivir con esto en mente es entonces, la carga mas pesada del ser. 
 - Así que, si lo fuera a hacer de nuevo ¿conviene hacerlo con mas levedad?
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 

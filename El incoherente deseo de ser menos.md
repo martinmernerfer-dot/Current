@@ -1,7 +1,7 @@
-A veces despierto y lo primero que noto es la carencia de propósito. Como si el viento sopló de noche y desordeno el orden que le di a la vida. Esas mañanas nada me hace sentido y no tengo deseo de buscarlo. Aún así la vida sigue y la rutina me lleva como una incesante corriente.  
-"Hay que  trabajar igual" me digo resignado, pero en el fondo me parece injusto.
-Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así:  
+A
 
+
+What if a demon were to creep after you one night, in your loneliest loneliness, and say, 'This life which you live must be lived by you once again and innumerable times more; and every pain and joy and thought and sigh must come again to you, all in the same sequence..." - Nietzche
 
 Tengo que trabajar de todas formas. Los días así igual tienen su gracia, las contradicciones de la vida se me hacen mas aparentes. Tontearías inconsequentes con el peso de una tonelada de concreto y yo me levante hecho de plastilina. 
 Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las ganas de participar. Me gustaría existir un poco menos. 
@@ -10,7 +10,8 @@ Esos días la perdida supera a la ganancia y yo -jugador precavido- pierdo las g
 
 - Que es la levedad? 
 
-![[Pasted image 20250919175355.png]]
+
+
 
 [[Nietzsche]] escribió un hipotético al que retorno cada vez que necesito lidiar con algo que no quiero: 
 

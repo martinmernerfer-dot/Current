@@ -17,7 +17,7 @@
 - Por que me gusta la idea de "una carpeta que debía ser publica". Implica varias cosas: Son cosas que tenia de antes, estaban guardadas. Me di cuenta que seria mejor si alguien pudiera ver sus contenidos. Seguiré metiéndole cosas.
 - Los problemas que me plagan son efímeros, para bien y para mal. Hace unas semanas estaba profundamente afectado por la idea de que no tengo a nadie cercano en mi vida. Sentí que había fallado, el mundo se acababa y yo tenia un indicador muy claro de que desperdicie mi existencia. Impulsado por miedo busqué formas de cambiarlo, me imagine un mundo donde lo lograba. Temí quedarme con las cosas como eran.
 	- Aquí estoy ahora, básicamente donde mismo pero sin el sentido de urgencia. Ese pánico nunca evolucionó hacia la acción y ahora volví a mi falsa paz.
-	- Ese es el nuevo diagnostico de enneagram que encontré.
+	- Ese es el nuevo diagnostico de [[enneagram]] que encontré.
 		- Tipo 9w1. El soñador busca la paz interior aunque sea una falsa. Fantaseo para experimentar lo deseo sin exponerme al conflicto o el rechazo. 
 			- Calza mas que el 5w4. El iconoclasta que no estudia. Además, si quiero más personas en mi vida. El hecho de que me cueste mucho entablar las relaciones es otra cosa. 
 - Es frustrante que tanto de mis problemas podrían ser solucionados si tuviera solo una persona que me aliente o reafirme mi valor.
@@ -54,7 +54,7 @@
 - Por ahora, considero que será una excelente instancia para ver como actuó/ quien soy cuando en lo salvaje. 
 	- Estoy asegurado de aprender algo sobre mi mismo y eso es alentador. 
 	- También quiero tomarme fotos. No tendré vergüenza -aunque aún no se como le pediré fotos a los extraños. 
-- Conseguí un libro sobre el Enneagram. Pretendo sobrepasar la fase del conflicto a ser definido. Es tiempo de usar información para crecer y avanzar. 
+- Conseguí un libro sobre el [[Enneagram]]. Pretendo sobrepasar la fase del conflicto a ser definido. Es tiempo de usar información para crecer y avanzar. 
 - Hoy veíamos el buen doctor. Usualmente veo reflejos de mi en el, pero esta vez extrañamente preciso. 
 	- Se trataba sobre la intimidad. El hombre no podía acostarse con su novia, el contacto y la vulnerabilidad le ponen **diaforético**. 
 	- Intento mejorar, su pareja es muy paciente con el. El buen doctor legítimamente quiere tener sexo con ella. Pero no puede manejar el contacto físico.

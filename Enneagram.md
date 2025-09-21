@@ -1,2 +1,2 @@
 - Camino a entenderse 
-- Amor fati
+- [[Amor fati]]

@@ -3,13 +3,32 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir un poco menos. 
-	- Algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
+	- Por que algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
 	- El peso de que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
 - Quiero vivir más liviano.
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
+- Me ayuda a pensar como haría estos días, de fatiga existencial, disfrutables, si le fuera a dar otra vuelta. 
+	- ¿Cuantas de mis mañanas me han recibido de la misma manera? 
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Dias como estos no son escasos tampoco. 
 - Mi tarea es idear como estos días serian disfrutables, si los fuera a vivir de nuevo. 
 	- Entonces, 

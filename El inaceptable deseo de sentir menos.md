@@ -18,8 +18,11 @@
 	- Hacer oídos sordos a este ruido es hacer la vida más ligera a costo de su importancia. Lamentaría repetir estos Dias con ojos entumecidos. 
 		- Estar desasociado es imitar estar en calma
 ------
-- Nietzsche en su hipotético aludía a la idea de amar y aceptar tu destino (Amor fati). 
-
+- Nietzsche en su hipotético aludía a la idea de amar y aceptar tu destino (Amor fati) sea bueno o malo.
+	- Es la idea de que puedes encontrar valor profundo a través de la presencia. 
+		- Yo todavía trabajo en ello. 
+	- Pero me imagino los momentos que sobreviví escondiendome de mi experiencia, desconectado de lo que sentia 
+- Si llega el momento de comenzar otra vez, podrias verlo de esa manera?
 
 He realized now that to be afraid of this death he was staring at with animal terror meant to be afraid of life. Fear of dying justified a limitless attachment to what is alive in man. And all those who had not made the gestures necessary to live their lives, all those who feared and exalted impotence — they were afraid of death because of the sanction it gave to a life in which they had not been involved. They had not lived enough, never having lived at all.” -Camus
 - What if the terror we feel before death is not truly about the ending of life, but rather about the unsettling recognition that we never fully lived it

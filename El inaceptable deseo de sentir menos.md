@@ -3,7 +3,7 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
-	-  
+	-  Mi instinto es desconectar, ponerle pausa a mi consciencia y esperar que lo que sea que fallo se arregle solo. 
 	
 	- Soy incapaz de pedir y/o recibir ayuda 
 ---some image--- 

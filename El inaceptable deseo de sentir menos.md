@@ -3,8 +3,10 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir un poco menos. 
-	- Algo que no entiendo como expresar consume mi perspectiva y aún ni desayuno. Estoy muy derrotado para pelear contra mi instinto. Quiero ponerle pausa a la consciencia y espear
+	- Algo que no entiendo como expresar consume mi perspectiva y aún ni desayuno.
+	- Mi instinto es desconectar y esperar que se arregle solo. En veces como esta no tengo voluntad de actuar en su contra. 
 - Quiero vivir más liviano.
+	- 
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?

@@ -21,7 +21,8 @@
 - Nietzsche en su hipotético aludía a la idea de amar y aceptar tu destino (Amor fati) sea bueno o malo.
 	- Es la idea de que puedes encontrar valor profundo a través de la presencia. 
 		- Yo todavía trabajo en ello. 
-- En esos momentos que sobreviví escapando de mi experiencia, imagino la parte de que los esta reviviendo. El esta atrás de un grueso vidrio, gritando que lo haga distinto. 
-- Si llega el momento de comenzar otra vez, ¿no seria 
+	- En esos momentos que sobreviví  desconectándome de mi experiencia, imagino la parte de mi que los esta reviviendo. El esta atrás de un grueso vidrio, gritando que lo haga distinto. 
+- Cuando me venga una oleada de fatiga y el peso sea asfixiante, lo llevare con orgullo. 
+- Cuando tenga que hacerlo de nuevo ¿no sera precioso verme tomar la decision correcta?
 
 

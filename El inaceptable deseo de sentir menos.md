@@ -13,7 +13,9 @@
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Entonces lo que ocurre no es lo que importa, si no como reaccionamos. 
 	- ¿como haría de esas mañanas de fatiga existencial disfrutables? Hipotéticamente, las tendría que vivir de nuevo y quien sabe cuantas acumulo durante esta vida. 
-	- Así que reevaluó mis mecanismos de defensa. En esos momentos cuanto hay fricción en todo, 
+-E
+	- Así que reevaluó mis mecanismos de defensa. En esos momentos cuando todo causa fricción, me enorgullezco de sentir el peso.
+- El hipotético 
 
 
 

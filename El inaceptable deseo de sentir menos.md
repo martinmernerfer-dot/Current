@@ -6,14 +6,15 @@
 	- Por que algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
 	- El peso de que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
 	- Mi instinto es desconectarme, volver más rato y esperar que el sentimiento ya no este. 
-		- Intento seguirlo menos.
+		- Intento seguirlo menos. A veces no tengo la voluntad. 
 - Quiero vivir más liviano, eliminar fricción. 
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
-- Me ayuda a pensar como haría estos días, de fatiga existencial, disfrutables, si le fuera a dar otra vuelta. 
-	- Me imagino cuanto de lo mismo tendría que revivir.
-- 
+- Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Lo que ocurre no es lo que importa, si no como reaccionamos. 
+	- ¿como haría esas mañanas de fatiga existencial disfrutables? Las tendría que vivir de nuevo y quien sabe cuantas acumulo durante mi vida. 
+	- Reevaluó mis mecanismos de defensa. 
+
 
 
 

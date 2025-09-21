@@ -2,20 +2,25 @@
 	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
-- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir un poco menos. 
+- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir con más levedad. 
 	- Por que algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
 	- El peso de que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
 	- Mi instinto es desconectarme, volver más rato y esperar que el sentimiento ya no este. 
 		- Intento seguirlo menos. A veces no tengo la voluntad. 
-- Quiero vivir más liviano, eliminar fricción. 
+- Quiero existir un poco menos, eliminar fricción. 
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Entonces lo que ocurre no es lo que importa, si no como reaccionamos. 
 	- ¿como haría de esas mañanas de fatiga existencial disfrutables? Hipotéticamente, las tendría que vivir de nuevo y quien sabe cuantas acumulo durante esta vida. 
 - El hipotético es una gran herramienta para evaluar mi experiencia. Usualmente me lleva a reconocer (y repudiar) mis mecanismos de defensa. 
+	- Al encontrar incomodidad o adversidad es inaceptable desconectarse. El peso de la incertidumbre y la angustia hacen la vida real. Mientras mas pesada, más a ras de tierra.
 	- 
-	- Estar desasociado y entumecido es imitar estar en calma. 
+	
+	
+	Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
+	- Estar desasociado y entumecido es imitar estar en calma.
+- 
 
 
 

@@ -5,12 +5,14 @@
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir un poco menos. 
 	- Por que algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
 	- El peso de que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
-- Quiero vivir más liviano.
+	- Mi instinto es desconectarme, volver más rato y esperar que el sentimiento ya no este. 
+		- Intento seguirlo menos.
+- Quiero vivir más liviano, eliminar fricción. 
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Me ayuda a pensar como haría estos días, de fatiga existencial, disfrutables, si le fuera a dar otra vuelta. 
-	- ¿Cuantas de mis mañanas me han recibido de la misma manera? 
+	- Me imagino cuanto de lo mismo tendría que revivir.
 - 
 
 

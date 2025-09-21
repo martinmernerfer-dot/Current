@@ -3,7 +3,8 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
-	- Por que hay algo que me cuesta
+	- Por que algo que soy incapaz de expresar consume mi perspectiva, aún ni desayuno. 
+	- Soy incapaz de pedir y/o recibir ayuda. Mi instinto es poner pausa a la consciencia y esperar, a que se arregle solo.
 
 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 

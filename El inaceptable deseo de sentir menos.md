@@ -1,9 +1,11 @@
 - A veces despierto y lo primero que noto es la falta de propósito. 
-	- Todo es igual que ayer, a pesar de mi esfuerzo.  En ese momento me cuesta mantener la postura. 
+	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  En ese momento me cuesta mantener la postura. 
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
-	- 
+	-  
+	
+	- Soy incapaz de pedir y/o recibir ayuda 
 ---some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?

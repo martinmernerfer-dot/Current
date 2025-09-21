@@ -11,9 +11,15 @@
 --- some image--- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
-- Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Lo que ocurre no es lo que importa, si no como reaccionamos. 
-	- ¿como haría esas mañanas de fatiga existencial disfrutables? Las tendría que vivir de nuevo y quien sabe cuantas acumulo durante mi vida. 
-	- Reevaluó mis mecanismos de defensa. 
+- Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Entonces lo que ocurre no es lo que importa, si no como reaccionamos. 
+	- ¿como haría de esas mañanas de fatiga existencial disfrutables? Las tendría que vivir de nuevo y quien sabe cuantas acumulo durante esta vida. 
+	- Así que reevaluó mis mecanismos de defensa. Existir me recibe con un terrible peso,  
+
+
+
+He realized now that to be afraid of this death he was staring at with animal terror meant to be afraid of life. Fear of dying justified a limitless attachment to what is alive in man. And all those who had not made the gestures necessary to live their lives, all those who feared and exalted impotence — they were afraid of death because of the sanction it gave to a life in which they had not been involved. They had not lived enough, never having lived at all.” -Camus
+- What if the terror we feel before death is not truly about the ending of life, but rather about the unsettling recognition that we never fully lived it
+	- El miedo a tener que vivirlo de nuevo exactamente igual
 
 
 
@@ -21,31 +27,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-- Dias como estos no son escasos tampoco. 
-- Mi tarea es idear como estos días serian disfrutables, si los fuera a vivir de nuevo. 
-	- Entonces, 
-
-- Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Ósea, este momento podría experimentarlo infinitas veces (quien sabe) entonces lo que ocurre no es lo que importa.
-	- 
-
-
-
-
-
-
-
--  Experimentarla *como se debe* requiere vivirla de manera que estemos dispuestos a hacerlo de nuevo. Vivir con esto en mente es entonces, la carga mas pesada del ser. 
 - Así que, si lo fuera a hacer de nuevo ¿conviene hacerlo con mas levedad?
 - "Cuanto mas pesada la carga, más a ras de tierra estará nuestra vida -más real y verdadera será. Por el contrario la ausencia de la carga vuelve a uno mas ligero que el aire, es real solo a medias y sus movimientos sean tan libres como insignificantes. " -La insoportable levedad del ser. 
 	- Me gusta esta cita, por que va en contra de lo que quiero. 
@@ -54,9 +35,7 @@
 	- Más seguido, a mi me parece injusto. 
 - Nietzche 
 
-He realized now that to be afraid of this death he was staring at with animal terror meant to be afraid of life. Fear of dying justified a limitless attachment to what is alive in man. And all those who had not made the gestures necessary to live their lives, all those who feared and exalted impotence — they were afraid of death because of the sanction it gave to a life in which they had not been involved. They had not lived enough, never having lived at all.” -Camus
-- What if the terror we feel before death is not truly about the ending of life, but rather about the unsettling recognition that we never fully lived it
-	- El miedo a tener que vivirlo de nuevo exactamente igual
+
 	- 
 - Se trata de hacer cosas.
 	- Sin darles importancia. 

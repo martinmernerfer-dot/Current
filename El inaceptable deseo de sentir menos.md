@@ -1,10 +1,15 @@
 - A veces despierto y lo primero que noto es la falta de propósito. 
-	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  En ese momento me cuesta mantener la postura. 
+	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
-- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
-	- Por que algo que soy incapaz de expresar consume mi perspectiva, aún ni desayuno. 
-	- Soy incapaz de pedir y/o recibir ayuda. Mi instinto es poner pausa a la consciencia y esperar, a que se arregle solo.
+- Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir un poco menos. 
+	- 
+	- Algo que no entiendo como expresar consume mi perspectiva y aún ni desayuno. 
+	- Soy incapaz de pedir y/o recibir ayuda. Mi instinto es poner pausa a la consciencia
+- Quiero vivir más liviano. 
+
+
+
 
 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 

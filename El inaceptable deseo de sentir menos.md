@@ -3,15 +3,14 @@
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo quiero existir un poco menos, ser mas liviano.
+	- Por que hay algo que me cuesta
 
-	
-	- Soy incapaz de pedir y/o recibir ayuda 
 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Esta situación alude a la prueba mas básica e importante con la que lidia todo humano: Esta vida es la única que tenemos. Ósea, este momento podría experimentarlo infinitas veces (quien sabe) entonces lo que ocurre no es lo que importa.
 	- 
-	
+
 
 
 
@@ -50,4 +49,4 @@ He realized now that to be afraid of this death he was staring at with animal te
 
 
  
-![[RDT_20250917_0201314088738612747381988.jpg]]
+

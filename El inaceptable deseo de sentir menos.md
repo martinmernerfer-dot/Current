@@ -12,8 +12,8 @@
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?
 - Para bien o para mal, el momento actual es lo único que hay. Este momento podría volver a experimentarlo infinitas veces (quien sabe). Entonces lo que ocurre no es lo que importa, si no como reaccionamos. 
-	- ¿como haría de esas mañanas de fatiga existencial disfrutables? Las tendría que vivir de nuevo y quien sabe cuantas acumulo durante esta vida. 
-	- Así que reevaluó mis mecanismos de defensa. Existir me recibe con un terrible peso,  
+	- ¿como haría de esas mañanas de fatiga existencial disfrutables? Hipotéticamente, las tendría que vivir de nuevo y quien sabe cuantas acumulo durante esta vida. 
+	- Así que reevaluó mis mecanismos de defensa. En esos momentos cuanto hay fricción en todo, 
 
 
 

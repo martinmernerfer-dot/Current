@@ -1,1 +1,4 @@
-- hace poco fui a Brasil y tuve la suerte de toparme con una exhibición de Maria Bonomi. Vi "Paris Hilton" una obra que representa el consumismo desenfrenado que plaga nuestra sociedad.  Es un huevo de metal 
+- hace poco fui a Brasil y tuve la suerte de toparme con una exhibición de Maria Bonomi. Vi "Paris Hilton" una obra que representa el consumismo desenfrenado que plaga nuestra sociedad.  Es un huevo de aluminio. 
+		- Imagina foto
+	- Estoy de acuerdo -hasta cierto punto. El consumismo es una forma de mantenerse ocupado y callar lo que sea que grita dentro de ti mismo.
+- Estaba leyendo un ensayo, sobre como 

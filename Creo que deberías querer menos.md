@@ -1,0 +1,1 @@
+- hace poco fui a Brasil y tuve la suerte de toparme con una exhibición de Maria Bonomi. Vi "Paris Hilton" una obra que representa el consumismo desenfrenado que plaga nuestra sociedad.  Es un huevo de metal 

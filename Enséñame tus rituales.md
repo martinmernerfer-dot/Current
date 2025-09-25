@@ -1,0 +1,13 @@
+
+- Los rituales son muy cool: Patron para reforzar una ética.
+	- Nos conectan al momento. 
+		- Inconsciente al consiente. 
+			- por ejemplo, las bebidas saben mejor luego de hacer salud. 
+	- Reducen ansiedad
+- Te ofrezco el mío. 
+- Alguna vez lei que 95% de los pensamientos del día son los mismos que los de ayer. 
+	- Resulta que es mentira (ligeramente)
+- Igualmente sirve.
+	- Por que me dio pena. ¿tan poco de lo que ocurre en mi mente es original?
+		- El 95% mas vale sea algo bueno. 
+		

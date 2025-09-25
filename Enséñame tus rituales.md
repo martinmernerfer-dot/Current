@@ -9,5 +9,5 @@
 	- Resulta que es mentira (ligeramente)
 - Igualmente sirve.
 	- Por que me dio pena. ¿tan poco de lo que ocurre en mi mente es original?
-		- El 95% mas vale sea algo bueno. 
-		
+		- El 95% mas vale sea algo bueno. En mi caso no lo es. 
+		- 

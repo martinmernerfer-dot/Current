@@ -14,13 +14,13 @@ Yo te enseño un truco neurótico mío.
 - El 95% mas vale sea algo bueno. En mi caso no lo es. 
 - En el 5% esta la magia. El ticket dorado y heredar la fabrica. 
 	- Pero si se pierde en el ruido, nosotros también. 
-- Mi ritual: escribir un poco todos los días. 
+- Mi ritual: Levántate 20 min mas temprano. Hazte un te. Escribe un poco. 
 	- Es un 5% que ojala tienes que atrapar, solo cuesta 5 minutos. 
-		- Puedes hacerlo en el telefono, una servilleta, en las paredes con tu sangre. 
+		- Puedes hacerlo en el teléfono, una servilleta, en las paredes con tu sangre. 
 		- Hay harta creatividad.
 	- Tienes que hacerlo privado. Solo para ti. Nadie más puede ver lo que sale en ese momento. 
 		- Ese es el punto, si no fuera discreto no seria el 5%. 
-	- Poco a poco, saldra más.
+	- Poco a poco, saldrá más.
 - De que sirve?
 	- Puedes sacar los pedacitos de oro del rio. 
 	- Puedes implantar cosas en tu forma de pensar. 

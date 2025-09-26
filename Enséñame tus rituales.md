@@ -19,4 +19,15 @@ Yo te enseño un truco neurótico mío.
 		- Puedes hacerlo en el telefono, una servilleta, en las paredes con tu sangre. 
 		- Hay harta creatividad.
 	- Tienes que hacerlo privado. Solo para ti. Nadie más puede ver lo que sale en ese momento. 
-		- Ese es el punto, si el 5% fuera mas 
+		- Ese es el punto, si no fuera discreto no seria el 5%. 
+	- Poco a poco, saldra más.
+- De que sirve?
+	- Puedes sacar los pedacitos de oro del rio. 
+	- Puedes implantar cosas en tu forma de pensar. 
+		- Si la mayoria se repite, el 5% de hoy sera el 95% de pasado mañana. 
+		- Puedes escribir algo conscientemente y poner algo en circulación.
+			- Asi funciona meditar y las afirmaciones positivo.
+------
+- Cultiva tu cabeza. Vive mas consciente. 
+	- Se más inteligente, piensa sin IA's.
+		- Te quieren mas tonto.

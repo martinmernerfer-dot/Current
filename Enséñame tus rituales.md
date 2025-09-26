@@ -1,14 +1,22 @@
-
+Yo te enseño un truco neurótico mío. 
 - Los rituales son muy cool: Patron para reforzar una ética.
 	- Nos conectan al momento. 
 		- Inconsciente al consiente. 
 			- por ejemplo, las bebidas saben mejor luego de hacer salud. 
 	- Reducen ansiedad
-- Te ofrezco el mío. 
+---
+
+- Te ofrezco el mío.
 - Alguna vez lei que 95% de los pensamientos del día son los mismos que los de ayer. 
-	- Resulta que es mentira (ligeramente)
+	- Resulta que es mentira (ligeramente). Aún asi usare la idea del 5%.
 - Igualmente sirve.
 	- Por que me dio pena. ¿tan poco de lo que ocurre en mi mente es original?
-		- El 95% mas vale sea algo bueno. En mi caso no lo es. 
-		- En el 5% esta la magia. El ticket dorado y heredar la fa
-	- 
+- El 95% mas vale sea algo bueno. En mi caso no lo es. 
+- En el 5% esta la magia. El ticket dorado y heredar la fabrica. 
+	- Pero si se pierde en el ruido, nosotros también. 
+- Mi ritual: escribir un poco todos los días. 
+	- Es un 5% que ojala tienes que atrapar, solo cuesta 5 minutos. 
+		- Puedes hacerlo en el telefono, una servilleta, en las paredes con tu sangre. 
+		- Hay harta creatividad.
+	- Tienes que hacerlo privado. Solo para ti. Nadie más puede ver lo que sale en ese momento. 
+		- Ese es el punto, si el 5% fuera mas 

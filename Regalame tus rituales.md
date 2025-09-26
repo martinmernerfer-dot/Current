@@ -1,5 +1,7 @@
 Yo te enseño un truco neurótico mío. 
-- Los rituales son muy cool: Patron para reforzar una ética.
+- Somos un reciclaje constante de pensamientos. 
+	- Esto es un problema. 
+- Los rituales son muy cool.
 	- Nos conectan al momento. 
 		- Inconsciente al consiente. 
 			- por ejemplo, las bebidas saben mejor luego de hacer salud. 

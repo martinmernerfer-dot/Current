@@ -28,6 +28,4 @@ Yo te enseño un truco neurótico mío.
 		- Puedes escribir algo conscientemente y poner algo en circulación.
 			- Asi funciona meditar y las afirmaciones positivo.
 ------
-- Cultiva tu cabeza. Vive mas consciente. 
-	- Se más inteligente, piensa sin IA's.
-		- Te quieren mas tonto.
+-  

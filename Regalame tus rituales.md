@@ -1,3 +1,10 @@
+20250928 / 1336
+Status: #Ideas
+Tags:
+
+#Regalame tus rituales
+
+
 Yo te enseño un truco neurótico mío. 
 - Somos un reciclaje constante de pensamientos. 
 	- Esto es un problema. 

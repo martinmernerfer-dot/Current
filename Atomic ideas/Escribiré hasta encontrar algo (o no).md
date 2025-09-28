@@ -1,3 +1,6 @@
+20250928 / 1348
+Status: #Ideas
+Tags:[[Mundano]]
 - Hoy reconsideré mi tipo de [[Enneagram]]. Creo que me evalué basándome en las consecuencias negativas y no en las razones por las que actúo.
 	- De todas formas, no quedo contento con el resultado. Sigue siendo de poca utilidad. Pareciera que cualquier resultado es incierto si considero el hecho de que no hablo con muchas personas. Sin esa faceta de information me es difícil evaluar como soy con otros. 
 		- Llevo harto tiempo solo. 
@@ -17,7 +20,7 @@
 - Por que me gusta la idea de "una carpeta que debía ser publica". Implica varias cosas: Son cosas que tenia de antes, estaban guardadas. Me di cuenta que seria mejor si alguien pudiera ver sus contenidos. Seguiré metiéndole cosas.
 - Los problemas que me plagan son efímeros, para bien y para mal. Hace unas semanas estaba profundamente afectado por la idea de que no tengo a nadie cercano en mi vida. Sentí que había fallado, el mundo se acababa y yo tenia un indicador muy claro de que desperdicie mi existencia. Impulsado por miedo busqué formas de cambiarlo, me imagine un mundo donde lo lograba. Temí quedarme con las cosas como eran.
 	- Aquí estoy ahora, básicamente donde mismo pero sin el sentido de urgencia. Ese pánico nunca evolucionó hacia la acción y ahora volví a mi falsa paz.
-	- Ese es el nuevo diagnostico de [[enneagram]] que encontré.
+	- Ese es el nuevo diagnostico de [[Enneagram]] que encontré.
 		- Tipo 9w1. El soñador busca la paz interior aunque sea una falsa. Fantaseo para experimentar lo deseo sin exponerme al conflicto o el rechazo. 
 			- Calza mas que el 5w4. El iconoclasta que no estudia. Además, si quiero más personas en mi vida. El hecho de que me cueste mucho entablar las relaciones es otra cosa. 
 - Es frustrante que tanto de mis problemas podrían ser solucionados si tuviera solo una persona que me aliente o reafirme mi valor.
@@ -64,6 +67,3 @@
 
 Para ver el viaje a brazil y continuar esta linea de pensamiento ve a [[2025-09-13 brasil 1]]
 
-- 
-
-- Continua la tedencia en notas diarias.

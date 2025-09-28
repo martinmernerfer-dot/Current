@@ -2,6 +2,17 @@
 Status: #Ideas
 Tags: [[Ensayo]]
 
+
+
+
+
+
+
+
+
+
+
+
 Yo te enseño un truco neurótico mío. 
 - Somos un reciclaje constante de pensamientos. 
 	- Esto es un problema. 
@@ -30,8 +41,8 @@ Yo te enseño un truco neurótico mío.
 - De que sirve?
 	- Puedes sacar los pedacitos de oro del rio. 
 	- Puedes implantar cosas en tu forma de pensar. 
-		- Si la mayoria se repite, el 5% de hoy sera el 95% de pasado mañana. 
+		- Si la mayoría se repite, el 5% de hoy sera el 95% de pasado mañana. 
 		- Puedes escribir algo conscientemente y poner algo en circulación.
-			- Asi funciona meditar y las afirmaciones positivo.
+			- Así funciona meditar y las afirmaciones positivo.
 ------
 -  

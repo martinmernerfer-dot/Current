@@ -1,3 +1,6 @@
+20250928 / 1339
+Status: #Ideas
+Tags: [[Ensayo]]
 - A veces despierto y lo primero que noto es la falta de propósito. 
 	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  
 	- "Hay que ir trabajar igual" pienso resignado. 

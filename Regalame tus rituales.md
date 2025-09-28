@@ -1,9 +1,6 @@
 20250928 / 1336
 Status: #Ideas
-Tags:
-
-#Regalame tus rituales
-
+Tags: [[Ensayo]]
 
 Yo te enseño un truco neurótico mío. 
 - Somos un reciclaje constante de pensamientos. 

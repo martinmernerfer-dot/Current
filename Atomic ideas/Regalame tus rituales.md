@@ -4,7 +4,6 @@ Tags: [[Ensayo]]
 
 
 - Hace tiempo leí que el 90% de nuestros pensamientos diarios son los mismos que los de ayer. 
-	- Me pareció alarmante. 
 	- [En realidad es un mito](https://policyviz.com/2024/10/16/fact-checking-60000-thoughts-the-mystery-behind-a-misleading-statistic/?srsltid=AfmBOopH4oA_SXV_RX9KQfAVZn937gb_Lpg9foLsal51RfN_KDpE4Bkv). Aunque la verdad no es tan distinta. 
 - 
 

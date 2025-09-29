@@ -30,7 +30,7 @@ Tags: [[Mundano]]
 	- Asi me siento atemporal. Disfruto sus memorias.
 
 
-Anterior: [[2025-09-28]] 
+Anterior: [[2025-09-23]] 
 Siguiente:
 
 

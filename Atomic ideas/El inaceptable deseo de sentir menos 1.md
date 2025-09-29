@@ -8,7 +8,7 @@
 	- Mi instinto es desconectarme, volver más rato y esperar que el sentimiento ya no este. 
 		- Intento seguirlo menos. A veces no tengo la voluntad. 
 - Quiero existir un poco menos, eliminar fricción. 
-![[RDT_20250917_0201314088738612747381988.jpg]]
+![[RDT_20250917_0201314088738612747381988 1.jpg]]
 ----- 
 - Nietzsche escribió un hipotético que recuerdo cada vez que tengo que lidiar con algo que no quiero hacer, dice así: 
 	- Un demonio se te acerca y te explica "esta existencia que tienes, las tendrás que revivir infinitas veces. Todo dolor y placer que sentirás en tu vida vendrá nuevamente, exactamente igual". Si esto te pasara ¿saltarías de felicidad o tu corazón se llenaría de desolación?

@@ -3,8 +3,9 @@ Status: #Ideas
 Tags: [[Ensayo]]
 
 
-- Me parece que el proposito de la vida es vivir intencionalmente.
-	- Mucho se nos impone. Lo demas es arbitrario. *algo mas queda*
+- La vida se gasta y mas claro se me hace que el objetivo es vivir de manera intencional. 
+	- El absurdismo en convincente. 
+
 - Hace tiempo leí que el 90% de lo que pensamos a diario es lo mismo que ayer.
 	- Me sentí alarmado. Pareciera que somos un monton de piloto automatico.
 - Un infinito de cosas pasan a nuestro alrededor. Constantes principios y finales que pasan desapercibos. 

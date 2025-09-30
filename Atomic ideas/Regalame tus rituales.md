@@ -3,6 +3,13 @@ Status: #Ideas
 Tags: [[Ensayo]]
 
 
+- Me parece que el proposito de la vida es vivir intencionalmente.
+	- Mucho se nos impone. Lo demas es arbitrario. *algo mas queda*
+- Hace tiempo leí que el 90% de lo que pensamos a diario es lo mismo que ayer.
+	- Me sentí alarmado. Pareciera que somos un monton de piloto automatico.
+- Un infinito de cosas pasan a nuestro alrededor. Constantes principios y finales que pasan desapercibos. 
+- los rituales cambien eso.
+
 - Hace tiempo leí que el 90% de nuestros pensamientos diarios son los mismos que los de ayer. 
 	- [En realidad es un mito](https://policyviz.com/2024/10/16/fact-checking-60000-thoughts-the-mystery-behind-a-misleading-statistic/?srsltid=AfmBOopH4oA_SXV_RX9KQfAVZn937gb_Lpg9foLsal51RfN_KDpE4Bkv). Aunque la verdad no es tan distinta. 
 - 

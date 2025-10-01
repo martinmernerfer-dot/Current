@@ -1,5 +1,5 @@
 20250929 / 2123
-Status: #Ideas
+Status: #References 
 Tags:[[Enneagram]]
 - Type 5: The certainty of suffering vs the uncertainty of participation.
 	- Quiere predecir lo que pasara. por que le asusta todo y ~sabe~ que saldra mal.

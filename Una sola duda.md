@@ -21,6 +21,3 @@ Camus me arruino el suicidio.
 Altamente cagado de la cabeza hoy. 
 
 Me encantaría tener una template para destilar los contenidos.  Quizas un par de conectores. 
-
----
- ***References 

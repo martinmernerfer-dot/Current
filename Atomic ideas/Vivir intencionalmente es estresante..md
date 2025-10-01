@@ -1,6 +1,6 @@
 20250930 / 2058
 Status: #Ideas
-Tags: [[Ensayo]] [[]]
+Tags: [[Ensayo]] [[Vida intencional]]
 
 ------
 

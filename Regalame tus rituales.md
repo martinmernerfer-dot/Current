@@ -1,0 +1,33 @@
+Yo te enseño un truco neurótico mío. 
+- Somos un reciclaje constante de pensamientos. 
+	- Esto es un problema. 
+- Los rituales son muy cool.
+	- Nos conectan al momento. 
+		- Inconsciente al consiente. 
+			- por ejemplo, las bebidas saben mejor luego de hacer salud. 
+	- Reducen ansiedad
+---
+
+- Te ofrezco el mío.
+- Alguna vez lei que 95% de los pensamientos del día son los mismos que los de ayer. 
+	- Resulta que es mentira (ligeramente). Aún asi usare la idea del 5%.
+- Igualmente sirve.
+	- Por que me dio pena. ¿tan poco de lo que ocurre en mi mente es original?
+- El 95% mas vale sea algo bueno. En mi caso no lo es. 
+- En el 5% esta la magia. El ticket dorado y heredar la fabrica. 
+	- Pero si se pierde en el ruido, nosotros también. 
+- Mi ritual: Levántate 20 min mas temprano. Hazte un te. Escribe un poco. 
+	- Es un 5% que ojala tienes que atrapar, solo cuesta 5 minutos. 
+		- Puedes hacerlo en el teléfono, una servilleta, en las paredes con tu sangre. 
+		- Hay harta creatividad.
+	- Tienes que hacerlo privado. Solo para ti. Nadie más puede ver lo que sale en ese momento. 
+		- Ese es el punto, si no fuera discreto no seria el 5%. 
+	- Poco a poco, saldrá más.
+- De que sirve?
+	- Puedes sacar los pedacitos de oro del rio. 
+	- Puedes implantar cosas en tu forma de pensar. 
+		- Si la mayoria se repite, el 5% de hoy sera el 95% de pasado mañana. 
+		- Puedes escribir algo conscientemente y poner algo en circulación.
+			- Asi funciona meditar y las afirmaciones positivo.
+------
+-  

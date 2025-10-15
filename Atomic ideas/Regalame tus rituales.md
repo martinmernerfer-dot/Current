@@ -10,3 +10,5 @@ Por que nos conectan al presente y no se pueden elegir de la nada.
 		- Esto es parcialmente un mito (agrega el link), aunque la realidad no deja de ser alarmante. 
 		- El cerebro recicla patrones y algo más. 
 	- Pareciera que somos un montón de piloto automático. 
+		- A veces cuestiono a las moscas cuando vuelan en círculos la tarde completa, pero quizás hacemos lo mismo -solo con más adornos. 
+- He estado pensa

@@ -3,7 +3,7 @@ Status: #Ideas
 Tags: [[Ensayo]]
 
 Por que nos conectan al presente y no se pueden elegir de la nada. 
-- Los días se gastan y cada vez es más evidente que el objetivo es vivir intencionalmente. 
+- Los días pasan y mi temor más grande es que nada se recuerde de ellos. Mis cuadr
 	- El absurdismo es muy convincente.
 - Existir a propósito es sorprendentemente difícil. 
 	- De hecho, hace tiempo leí que el 95% de lo que pensamos a diario es lo mismo que el día anterior.  
@@ -13,6 +13,7 @@ Por que nos conectan al presente y no se pueden elegir de la nada.
 		- A veces cuestiono a las moscas cuando vuelan en círculos la tarde completa, pero quizás hacemos lo mismo -solo con más adornos. 
 - He estado estudiando formas de adherirse al presente. Siento que mucho se me escapa. 
 	- Hay procesos, ciclos o momentos que terminan y comienzan constantemente a nuestro alrededor, sin alguna señal clara. 
+	- Quiero presenciar más inicios, aprender de lo que termina. 
 		- ¿Como darse cuenta?
 
 -----

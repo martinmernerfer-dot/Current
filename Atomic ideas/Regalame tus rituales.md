@@ -3,9 +3,9 @@ Status: #Ideas
 Tags: [[Ensayo]]
 
 Por que nos conectan al presente y no se pueden elegir de la nada. 
-- Los días pasan y mi temor más grande es que nada se recuerde de ellos. Mis cuadr
+- Los días pasan y mi temor más grande es que no haya algo que los diferencie. Mis cuadernos no se llenan de anécdotas, lo que veo no inspira una imagen que quiera ilustrar.
 	- El absurdismo es muy convincente.
-- Existir a propósito es sorprendentemente difícil. 
+- Se me hace cada vez más obvio, que el objetivo es vivir de manera intencional -es sorprendentemente difícil. 
 	- De hecho, hace tiempo leí que el 95% de lo que pensamos a diario es lo mismo que el día anterior.  
 		- Esto es parcialmente un mito (agrega el link), aunque la realidad no deja de ser alarmante. 
 		- El cerebro recicla patrones y algo más. 

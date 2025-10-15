@@ -11,4 +11,10 @@ Por que nos conectan al presente y no se pueden elegir de la nada.
 		- El cerebro recicla patrones y algo más. 
 	- Pareciera que somos un montón de piloto automático. 
 		- A veces cuestiono a las moscas cuando vuelan en círculos la tarde completa, pero quizás hacemos lo mismo -solo con más adornos. 
-- He estado pensa
+- He estado estudiando formas de adherirse al presente. Siento que mucho se me escapa. 
+	- Hay procesos, ciclos o momentos que terminan y comienzan constantemente a nuestro alrededor, sin alguna señal clara. 
+	- ¿Como darse cuenta?
+
+-----
+
+- 

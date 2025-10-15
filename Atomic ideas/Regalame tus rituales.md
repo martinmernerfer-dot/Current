@@ -2,20 +2,35 @@
 Status: #Ideas
 Tags: [[Ensayo]]
 
-Por que nos conectan al presente y no se pueden elegir de la nada. 
-- Los días pasan y mi temor más grande es que no haya algo que los diferencie. Mis cuadernos no se llenan de anécdotas, lo que veo no inspira una imagen que quiera ilustrar.
-	- El absurdismo es muy convincente.
-- Se me hace cada vez más obvio, que el objetivo es vivir de manera intencional -es sorprendentemente difícil. 
-	- De hecho, hace tiempo leí que el 95% de lo que pensamos a diario es lo mismo que el día anterior.  
-		- Esto es parcialmente un mito (agrega el link), aunque la realidad no deja de ser alarmante. 
-		- El cerebro recicla patrones y algo más. 
-	- Pareciera que somos un montón de piloto automático. 
-		- A veces cuestiono a las moscas cuando vuelan en círculos la tarde completa, pero quizás hacemos lo mismo -solo con más adornos. 
-- He estado estudiando formas de adherirse al presente. Siento que mucho se me escapa. 
-	- Hay procesos, ciclos o momentos que terminan y comienzan constantemente a nuestro alrededor, sin alguna señal clara. 
-	- Quiero presenciar más inicios, aprender de lo que termina. 
-		- ¿Como darse cuenta?
+- La vida se gasta y más claro se me hace que el objetivo es vivir de manera intencional.
+	- Pero por la chucha que es dificil. Cosas terminan y comienzan sin algun marcador aparente. 
+- De hecho, ​​hace tiempo leí que el 90% de lo que pensamos a diario es lo mismo que lo de ayer.
+	- Pareciera que somos un monton de piloto automatico. 
+		- [En realidad es un mito](https://policyviz.com/2024/10/16/fact-checking-60000-thoughts-the-mystery-behind-a-misleading-statistic/?srsltid=AfmBOopH4oA_SXV_RX9KQfAVZn937gb_Lpg9foLsal51RfN_KDpE4Bkv). Aunque la verdad no es tan distinta. 
+	- 
 
 -----
+1. Los rituales se traspasan. 
+	1. Leer HDT antes de comenzar a escribir por que una mente impresionable vio dead poets society. 
+2. Nos conectan al momento. (intención)
+3. Unen
 
-- 
+
+
+
+
+
+Acciones bañadas en significado e intención. 
+
+Yo te enseño un truco neurótico mío. - pensamientos. 
+	- Esto es un problema. 
+- Los rituales son muy cool.
+	- Nos conectan al momento. 
+		- Inconsciente al consiente. 
+			- por ejemplo, las bebidas saben mejor luego de hacer salud. 
+	- Reducen ansiedad
+---
+
+- El 95% mas vale sea algo bueno. En mi caso no lo es. 
+- En el 5% esta la magia. El ticket dorado y heredar la fabrica. 
+	

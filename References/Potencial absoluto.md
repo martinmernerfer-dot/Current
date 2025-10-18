@@ -1,5 +1,5 @@
 20250930 / 2121
-Status: #Ideas
+Status: #referencias
 Tags: [[Enneagram]]
 
 ------

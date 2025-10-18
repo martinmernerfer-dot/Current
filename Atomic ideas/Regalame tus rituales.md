@@ -21,5 +21,14 @@ Por que no vivo en el momento y no salen de la nada.
 	- Siento que todo son distintas versiones de una introduccion. Como michael scott en la boda de philly.
 - Realmente hoy me he sentido sin direccion. Es evidente que algo deberia estar haciendo pero no se que es. El sonido de mi teclado se siente tan especial este dia. Que nunca quiero parar de hacerlo. 
 - Por que no estaba en esto antes. es una lastima que no tenga nada que decir para escribir mas seguido. Tampoco hago el intento. No he estado leyendo cosas que contribuyan a construir una conversacion, tampoco me he dado el tiempo de meditar o de encontrar algo en mi cabeza.
-- Mis esfuerzos no son nada coherentes con mis objetivos. Espero que eso sea normal. 
-- 
+- Mis esfuerzos no son nada coherentes con mis objetivos. Espero que eso sea normal. Lo cual seria tremendamente triste, pero de una manera diferente. 
+	- Por eso me fuerzo a extirpar estas palabras,  aunque no tengan sentido. Asi pretendo hacer algo util con mi tiempo. EN vez de jugar videojuegos todo el dia. 
+	- Mi alma pide ayuda y no se que debo hacerle. 
+- Ultimamente siento que estoy en el hoyo. En la parte mas profunda que he estado jamas. Creo que seria util admitir algunas cosas que me duelen, para comenzar a sanar. 
+	- To be fixed, you must be broken. 
+		- No tengo muchas opiniones. No se que aportar en conversaciones, si me dieran un momento para compartir un mensaje a todo el mundo no sabria que decir. siento que eso tiene un profundo impacto en mi personalidad y quizas sea la razon por la cual no tengo amigos. 
+	- No soy bueno escribiendo. quizas no soy bueno siendo determinado. por que nunca puedo mantener algo constantenmente sobretodo si es dificiil.
+	- Me dejo llevar rapidamente por la duda y dudo mucho de mis habilidades. 
+	- Me averguenza mi condicion actual. tanto que me impide ser claro con lo que me ocurre y  asi conseguir ayuda. 
+	- Siempre he soñado con alguien que me salve. pero ahora no tengo a nadie y no se como ponerme frente al mundo.
+		- Recuerdo ese dia de la presentacion en la universidad. Mostre mi mind map de la tesis, hice un buen trabaj

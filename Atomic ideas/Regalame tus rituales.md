@@ -31,4 +31,16 @@ Por que no vivo en el momento y no salen de la nada.
 	- Me dejo llevar rapidamente por la duda y dudo mucho de mis habilidades. 
 	- Me averguenza mi condicion actual. tanto que me impide ser claro con lo que me ocurre y  asi conseguir ayuda. 
 	- Siempre he soñado con alguien que me salve. pero ahora no tengo a nadie y no se como ponerme frente al mundo.
-		- Recuerdo ese dia de la presentacion en la universidad. Mostre mi mind map de la tesis, hice un buen trabaj
+		- Recuerdo ese dia de la presentacion en la universidad. Mostre mi mind map de la tesis, hice un buen trabajo. Interactue con mis compañeros, comparti con mi polola y cuando era tiempo de irse me invitaron a tomar algo a un estupido restobar como siempre. 
+		- No quise ir. Volvi a mi casa y compre una cerveza, quizas tenia un pito y alguna tonteria vi en youtube. Pense "soy muy genial. fui me luci y ahora estoy en casa disfrtutando por mi mismo"
+		- En retrospectiva es bastante idiota de mi parte. Por esa clase de pensamiento estoy tan solo. 
+	- En realidad, si hay personas que me hablan pero no les quiero responder. No se cual es mi maldito problema. 
+	- No puedo hacer este ensayo. no se me ocurre otra cosa que escribir y si me siento a soltar lo que tengo lo unico que tengo es odio propio. No hay nada bello en ello. No me orgullese soltarlo, no lo quiero compartir. Solo quiero sacarmelo de encima. 
+	- No se como. Nunca he entendido como soltar esta mierda que tengo. Quiero inmolar mi mente. comenzar desde cero. 
+		- Tabula Rasa. 
+	- Pero no se puede. Es lo unico que tengo y quiero crear este pequeño ensayo sobre los rituales. por que necesito evaluar los que tengo en mi vida. 
+
+
+La idea es la siguiente: 
+- Creo que el objetivo de la vida es vivir de manera intencional. 
+	- Por que me da miedo llegar al final de mi vida solo para darme cuenta que no alcance a hacer nadad 

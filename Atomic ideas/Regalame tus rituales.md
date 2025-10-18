@@ -16,7 +16,7 @@ Por que no vivo en el momento y no salen de la nada.
 	- Pero es estúpidamente difícil. 
 - Ultimamente he visto muchas cosas de romantizar la vida. 
 	- No se como se relaciona exactamente, pero tambien hablan de rituales. Pequeñas cositas para darle un cariño especial a lo que hacemos siempre sin prestar atención. 
-- Me averguenza admitir que no puedo comer sin algúna forma de entretenimiento.
+- Me avergüenza admitir que no puedo comer sin alguna forma de entretenimiento.
 - Asi que estoy intentando buscar maneras de manterme mas presente. Es algo sencillo de alcanzar un rato, al estar sentado mientras nada pasa. pero luego en el mundo real es mas dificil de mantener. 
 	- Siento que todo son distintas versiones de una introduccion. Como michael scott en la boda de philly.
 - Realmente hoy me he sentido sin direccion. Es evidente que algo deberia estar haciendo pero no se que es. El sonido de mi teclado se siente tan especial este dia. Que nunca quiero parar de hacerlo. 
@@ -43,4 +43,11 @@ Por que no vivo en el momento y no salen de la nada.
 
 La idea es la siguiente: 
 - Creo que el objetivo de la vida es vivir de manera intencional. 
-	- Por que me da miedo llegar al final de mi vida solo para darme cuenta que no alcance a hacer nadad 
+	- Por que me da miedo llegar al final de mi vida solo para darme cuenta que no alcance a hacer nadad de lo que queria. 
+		- Al parecer es algo comun en los 5.
+- Asi que he estado leyendo harto sobre disfrutar el presente. 
+	- Esto me ha llevado a varias tonterias de "romantizar la vida"
+	- Tenemos que hacer mierda que no queremos, la unica solucion parece ser disfrazarla.
+- Asi he encontrado los rituales y me parecen algo lindo. 
+	- Por que te conectan al momento. Le dan algo espiritual a lo mundano. 
+- Pero no creo que puedan salir de la nada. Si no, cualquier cosa seria un ritual. pero no todo lo es. 

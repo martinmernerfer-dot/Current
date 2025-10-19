@@ -1,8 +1,5 @@
 (Si nadie lo leerá. ¿Cual es mi objetivo haciendo esto?)
-- Hoy, a mis 26 años, por primera vez, elegí mi propio olor y tuve que reevaluar quien soy. 
-	-  
-- Siempre he usado perfumes que no elegí. 
-- Karol G. 
+- Hoy, a mis 26 años, por primera vez, elegí mi propio olor y me 
 - Yo siempre (hasta hoy) he usado perfumes que no elegí. 
 	- Regalos.
 	- Me gusta usar los perfumes de mi pareja. pero no quiero elaborar eso ahora -si no me pongo mas triste.

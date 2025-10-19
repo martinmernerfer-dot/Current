@@ -29,7 +29,7 @@ Tags:[[Mundano]]
 - Particularmente esta mañana, es muy evidente que todo carece de propósito. 
 	- Aún así todo me parece tan preciado e importante. 
 	- Quiero que quede claro, esto es un gran problema. 
-		- Me beneficiaria [[El inaceptable deseo de sentir menos 1]].
+		- Me beneficiaria [[El inaceptable deseo de sentir menos]].
 	- *Incluso estas palabras. Con el esfuerzo que me toman, otros hombres han construido imperios.*
 		- Personas menos estudiadas hablan por llenar silencio y llegan a algo que resuena en otros.
 	- Tanto he pensado, poco he hecho
@@ -49,7 +49,7 @@ Tags:[[Mundano]]
 - Mi viaje a Brazil se aproxima y solo pienso cosas buenas. Nadie de mi familia me ha mirado raro o mostrado malas vibras. Eso fue un miedo real en algún momento. 
 	- Ahora tengo todo listo y cualquier cosa que olvido considerar solo me parecera gracioso.
 - Me da curiosidad que tan poca planificación necesito hacer para la salida. Aparte de unos puntos de interés que conozco por nombre solamente, no tengo un itinerario. 
-	- Realmente voy a vagar pensar y perderme. Como [[quien disfruta la cueva]] -*debería escribir más de eso*. Cual es el maldito interés en eso, las muertes se ven horríficas.
+	- Realmente voy a vagar pensar y perderme. Como quien disfruta la cueva -*debería escribir más de eso*. Cual es el maldito interés en eso, las muertes se ven horríficas.
 		- Comer y tomar también, pero eso es otra cosa. 
 	- Tengo una lista de cosas que quiero cumplir en mi cabeza, pero no la escribiré hasta estar en el aeropuerto mañana en la noche. Puedo/quiero romantizar la cosa. 
 - Aún no le he contado a nadie aparte de mi familia -No se que dice eso de mí todavía.  

@@ -1,7 +1,5 @@
 (Si nadie lo leerá. ¿Cual es mi objetivo haciendo esto?)
 
-Explicar mi experiencia. La cual fue esta: 
- - Por primera ve
 
 
 - Karol G. 

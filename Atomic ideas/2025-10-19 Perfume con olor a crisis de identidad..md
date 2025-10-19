@@ -1,7 +1,12 @@
-(Si nadie lo leera. ¿Cual es mi objetivo haciendo esto?)
+(Si nadie lo leerá. ¿Cual es mi objetivo haciendo esto?)
 
+Explicar mi experiencia. La cual fue esta: 
+ - Por primera ve
+
+
+- Karol G. 
 - Yo siempre (hasta hoy) he usado perfumes que no elegí. 
-	- Regalos navideño
+	- Regalos.
 	- Me gusta usar los perfumes de mi pareja. pero no quiero elaborar eso ahora -si no me pongo mas triste.
 		- Es en parte tacaño y romántico quizás sea una buena fragancia. 
 		- Lamentablemente, ahora no tengo a quien robarle. 

@@ -31,6 +31,6 @@ Tags: [[Mundano]]
 
 
 Anterior: [[2025-09-23]] 
-Siguiente:
+Siguiente:[[2025-10-19 cual es la solución]]
 
 

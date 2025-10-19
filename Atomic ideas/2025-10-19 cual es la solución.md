@@ -4,4 +4,3 @@
 - He estado cerca. Pero nunca logro sentirme satisfecho. Siempre se torna en tormento. Tronando el teclado lo que soy queda suelto. Tengo muchas dudas y no se como tratarlas. 
 	- Quiero un prologo inspirado y un final repentino. Ser Tarantino y quizás ser alabado por miles. 
 - Mis opiniones que olvido, así se me siento trabado.  Estresado la paso haciendome remolinos... en el pelo. 
-- 

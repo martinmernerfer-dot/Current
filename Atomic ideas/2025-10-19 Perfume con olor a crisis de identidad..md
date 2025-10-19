@@ -2,8 +2,6 @@
 - Hoy, a mis 26 años, por primera vez, elegí mi propio olor y tuve que reevaluar quien soy. 
 	-  
 - Siempre he usado perfumes que no elegí. 
-	- Algunos los eligieron conmigo en mente, otros eran botel
-
 - Karol G. 
 - Yo siempre (hasta hoy) he usado perfumes que no elegí. 
 	- Regalos.

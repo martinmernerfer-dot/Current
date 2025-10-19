@@ -1,8 +1,7 @@
 (Si nadie lo leera. ¿Cual es mi objetivo haciendo esto?)
 
-- Karol G. 
-- Yo 
-	- Regalos de navidad
+- Yo siempre (hasta hoy) he usado perfumes que no elegí. 
+	- Regalos navideño
 	- Me gusta usar los perfumes de mi pareja. pero no quiero elaborar eso ahora -si no me pongo mas triste.
 		- Es en parte tacaño y romántico quizás sea una buena fragancia. 
 		- Lamentablemente, ahora no tengo a quien robarle. 

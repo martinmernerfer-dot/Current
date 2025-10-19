@@ -1,6 +1,7 @@
-- No soy muy consciente de mi presentación personal. 
-- La importancia que entiendo de los perfumes la saco de la musica.
-	- Letras de una olor que marca a la persona
+(Si nadie lo leera. ¿Cual es mi objetivo haciendo esto?)
+
+
+- Karol G. 
 - Siempre he usado perfumes que no elegí.
 	- Regalos de navidad
 	- Me gusta usar los perfumes de mi pareja. pero no quiero elaborar eso ahora -si no me pongo mas triste.

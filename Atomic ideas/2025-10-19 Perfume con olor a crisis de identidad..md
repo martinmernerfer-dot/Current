@@ -1,15 +1,14 @@
-- La mayoria de lo que se sobre perfumes viene de la musica
+- No soy muy consciente de mi presentación personal. 
+- La importancia que entiendo de los perfumes la saco de la musica.
 	- Letras de una olor que marca a la persona
-- Es dificil admitirlo pero no soy muy dedicado en mi apariencia. No soy sucio pero no pongo el esfuerzo para sobresalir.
-- Siempre he usado perfumes que no elegi.
+- Siempre he usado perfumes que no elegí.
 	- Regalos de navidad
 	- Me gusta usar los perfumes de mi pareja. pero no quiero elaborar eso ahora -si no me pongo mas triste.
-		- Es en parte tacaño y romantico quizas sea una buena fragancia. 
+		- Es en parte tacaño y romántico quizás sea una buena fragancia. 
 		- Lamentablemente, ahora no tengo a quien robarle. 
-- Hoy fui decidido a encontrar una fragancia que fuera.. mia. Fue más dificil de lo que pense.
-	- Son caros! Ridiculamente caros. todos los que tenian un olor memorable eran carisimo.
-		- es como comprar libros de poesia.
+- Hoy fui decidido a encontrar una fragancia que fuera.. mía. Fue más difícil de lo que pensé.
+	- Son caros! Ridículamente caros. todos los que tenían un olor memorable eran carísimo.
+		- es como comprar libros de poesía.
 	- No se cual me gusta. se siente como una compra definitiva. 
 	- Los vendedores no ayudan, por que te miran raro cuando les dices que quieres oler como un cuaderno de cuero lleno de apuntes.
-		- potencialmente alguien podria asociarme a este olor. 
-- podria ser relacionado a algun tema mas grande... lo seguire pensando. 
+		- potencialmente alguien podría asociarme a este olor. 

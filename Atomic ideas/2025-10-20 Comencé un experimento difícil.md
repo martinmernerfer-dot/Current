@@ -1,0 +1,8 @@
+- Me plantee escribir 4 ensayos en 4 semanas. Para confirmar de una vez por todas si puedo hacer esto o no. 
+	- Mientras más rápido mejor. Así puedo probar otras cosas. 
+- No quiero evaluar/confirmar mi habilidad. Solo quiero verificar si es una forma valuable de enriquecer mi manera de pensar y fortalecer mis habilidades comunicativas. 
+	- Noto mi falencias en esta ultima. 
+- Hoy es mi primer día y el objetivo es simple: Solo debo plantearme una pregunta. 
+	- Solo ahora noto que esta experiencia completa puede ser un ensayo en si. 
+		- Quizás el 5to. Si se me permite soñar. 
+- De todas formas, por más simple que sea, 

@@ -12,4 +12,7 @@
 	- Inmediatamente, noto que sin YouTube el día es más largo. 
 	- Sin la distracciones, esto parece más fácil de lo normal. Ósea, no me queda de otra -es esto o mirar el techo. De hecho quizás hago eso más tarde, probablemente salga algo mejor. 
 	- Aún así, tengo impulsos de usar el teléfono. Al no tener YouTube, no me mantiene mucho rato, principalmente por que no tengo más que hacer. Mis dedos quieren scrollear algo -he estado revisando más seguido la aplicación del banco.
-- Con lo que respecta al otro habito, creo que lo haré en el cuaderno dedicado. Pero aquí te cuento que aún no puedo decidir sobre que escribir. Aunque he escrito bastante. 
+- Con lo que respecta al otro habito, creo que lo haré en el cuaderno dedicado. Pero aquí te cuento que aún no puedo decidir sobre que escribir. Aunque he escrito bastante.
+- Comienzo oficialmente una lista [[ensayos que me hubiese gustado escribir]] para ideas que me hacen pensar "me encantaría haber creado eso"
+
+An

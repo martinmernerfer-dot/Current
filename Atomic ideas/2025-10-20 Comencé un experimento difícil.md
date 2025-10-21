@@ -1,3 +1,9 @@
+20251020 / 2115
+Status: #Proyecto
+Tags: [[Mundano]]
+
+-----
+
 - Me plantee escribir 4 ensayos en 4 semanas. Para confirmar de una vez por todas si puedo hacer esto o no. 
 	- Mientras más rápido mejor. Así puedo probar otras cosas. 
 - No quiero evaluar/confirmar mi habilidad. Solo quiero verificar si es una forma valuable de enriquecer mi manera de pensar y fortalecer mis habilidades comunicativas. 
@@ -11,6 +17,9 @@
 - He pensado en que valdría la pena abordar. Pero tampoco ha ayudado. 
 	- Usar Obsidian nunca me ha parecido evidentemente util. La idea del segundo cerebro suena interesante, pero ¿para que usa?
 		- Con este experimento, quizás Obsidian encuentra un lugar entre medio de mis amados cuadernos análogos. 
+
+
+--- Linea de la potencialidad
 - Debería elegir algo sobre lo que quiero saber más. Aquí van algunas ideas: 
 	- Quiero saber más sobre la mitología griega. Siempre que examino algo encuentro algún paralelo interesante. 
 		- ¿Por que la mitología griega sigue explicando cosas actuales? 
@@ -19,4 +28,5 @@
 - Debería expandir una reflexión que ya tuve. 
 	- Hay personas tenedor, muchas cucharas y algunos cuchillo. 
 		- La cuchara es la más versátil. 
-- 
+
+Anterior:[[perfume]]

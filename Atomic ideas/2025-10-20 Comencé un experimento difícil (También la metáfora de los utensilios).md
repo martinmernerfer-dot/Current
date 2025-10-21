@@ -41,9 +41,9 @@ La icónica metáfora de los utensilios.
 	- Expandí la teoría. "y tu eres tenedor" le dije a mi hermana. Ella también, miro como si fuera insultada.  
 		- Pero mi madre asintió fuertemente. Finalmente, mi hermana acepto su categoría.
 	- Juntos pusimos en palabras lo que nos parecía tan obvio. 
-			- Las cucharas son mas pacificas. "Son las únicas que pueden tomar sopa" decía mi madre. Tiene razón. Es algo mas sereno y cauteloso. 
+			- Las cucharas son mas pacificas. "Son las únicas que pueden tomar sopa" decía mi madre. Tiene razón. Parece sereno y cauteloso. 
 				- Acordamos que si se movieran, las cucharas lo harían en ondulaciones. 
-			- Mientras tanto los tenedores son mas directos, cargan mas energía, por eso pueden cargar al perforar. 
+			- Mientras tanto los tenedores son más directos, conlleva más energía, por eso pueden cargar al perforar. 
 				- Concluimos que si se movieran, lo harían como un pogo - o la lampara de Pixar.
 			-Los cuchillos son derechamente mas agresivos y directos. Son más imponentes, por eso rebanan.
 				- Si se movieran, lo harían en estocadas, punta guiando el camino. 

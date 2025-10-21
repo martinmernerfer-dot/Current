@@ -1,1 +1,4 @@
- 
+- Por alguna razón se borró. Por suerte da lo mismo, ese dia realmente me dio una crisis y odiaba todo lo que aparecia en esta pantalla. 
+- Te cuento ahora (21/10/25) rápidamente: 
+	- A mis 26 años, compre un perfume por primera vez. 
+		- Me hace parecer un fetid

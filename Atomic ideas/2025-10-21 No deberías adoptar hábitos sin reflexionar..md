@@ -2,7 +2,8 @@
 	- No logré encontrarlo pero me hace mucho sentido. 
 		Básicamente, adoptar un habito sin reflexión no pega, por que es solo adoptar un comportamiento dejando de lado el impacto que tendría en la personalidad.
 		Quizás James Clear lo proponía. No es solo adoptar el habito, pero convertirse en la persona que tiene ese habito.
-	- Puedes pintar el auto distinto, pero el motor sigue siendo el mismo.  Solo que el motor no evoluciona por si solo... si pudiera cambiar mi mente por una con menos caballos lo habría hecho. El punto es este: puedes forzarte a tener un habito solo por un rato. Si tu identidad no se alinea con la acción que quieres adoptar, eventualmente la resistencia saldrá. 
+*Sidenote solo para mí, si el libro ese de james clear estuviera archivado aquí, podría sacar fácilmente la cita que necesito.*  
+	-Puedes pintar el auto distinto, pero el motor sigue siendo el mismo.  Solo que el motor no evoluciona por si solo... si pudiera cambiar mi mente por una con menos caballos lo habría hecho. El punto es este: puedes forzarte a tener un habito solo por un rato. Si tu identidad no se alinea con la acción que quieres adoptar, eventualmente la resistencia saldrá. 
 	- Quizás a esto se refiere este meme: 
 ![[bb1a2bcb-a21b-4103-9b0c-d38642d8ff0d_736x663.jpg]]
 
@@ -15,4 +16,5 @@
 - Con lo que respecta al otro habito, creo que lo haré en el cuaderno dedicado. Pero aquí te cuento que aún no puedo decidir sobre que escribir. Aunque he escrito bastante.
 - Comienzo oficialmente una lista [[ensayos que me hubiese gustado escribir]] para ideas que me hacen pensar "me encantaría haber creado eso"
 
-An
+Anterior: [[2025-10-20 Comencé un experimento difícil (También la metáfora de los utensilios)]]
+Siguiente:

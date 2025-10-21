@@ -52,4 +52,4 @@ La icónica metáfora de los utensilios.
 		- ¿Que implica que te digan cuchillo de mantequilla?
 
 Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
-Siguiente: 
+Siguiente: [[2025-10-21 No deberías adoptar hábitos sin reflexionar.]]

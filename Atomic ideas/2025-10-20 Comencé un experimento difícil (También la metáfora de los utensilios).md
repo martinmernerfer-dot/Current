@@ -28,10 +28,14 @@ Tags: [[Mundano]]
 - Debería expandir una reflexión que ya tuve. 
 	- Hoy tomaba once con mi madre y le pedí que me acercara el cuchillo. 
 		- "yo?" me dijo -solo estábamos los dos. 
-		- "No, tu eres una cuchara." dije. Ella tardo en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
-		-  "¿Como que cuchara!?"
-		- Como si fuera un insulto.  "Yo también soy cuchara" 
-	- 
+		- "No, tu eres una cuchara." dije. Ella tardó en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
+			-  "¿Como que cuchara!?"
+		- Como si la hubiese insultado. Me explique, pero solo un poco "Yo también soy cuchara" 
+	- Luego se unió mi hermana. "¿Como cuchara?
+		- A mi me pareció obvio así que solo hice una mueca y lo deje reposar. Quería evaluar el poder de la analogía. 
+		- De a poco les hizo sentido. 
+	- Expandí la teoría. "y tu eres tenedor" le dije a mi hermana. Ella también, miro como si fuera insultada.  
+		- Mi madre asintió fuertemente. 
 	- Hoy dije eso al tomar once. Me encanta decir algo que deja pensando. 
 
 Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]

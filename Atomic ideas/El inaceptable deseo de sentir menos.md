@@ -2,12 +2,12 @@
 Status: #Ideas
 Tags: [[Ensayo]]
 - A veces despierto y lo primero que noto es la falta de propósito. 
-	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto.  
+	- Todo es igual que ayer, a pesar de mi esfuerzo. Me he movido y peleado tanto por encontrar algo novedoso sin ningún fruto. 
 	- "Hay que ir trabajar igual" pienso resignado. 
 		- La rutina me arrastra reacio como una incesante corriente y mi día comienza como siempre. 
 - Esas mañanas todo amerita a nada, aun así estar despierto es abrumante y yo deseo existir con más levedad. 
 	- Por que algo que no entiendo como expresar consume mi perspectiva -aún ni desayuno.
-	- El peso de que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
+	- El peso que conlleva existir es más evidente que nunca y yo me levante hecho de plastilina. 
 	- Mi instinto es desconectarme, volver más rato y esperar que el sentimiento ya no este. 
 		- Intento seguirlo menos. A veces no tengo la voluntad. 
 - Quiero existir un poco menos, eliminar fricción. 

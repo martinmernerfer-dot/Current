@@ -3,7 +3,6 @@ Status: #Ideas
 Tags: [[Ensayo]]
 
 Por que no vivo en el momento y no salen de la nada. 
-
 - Hace tiempo leí que el 90% de lo que pensamos a diario es lo mismo que el dia anterior.
 	- Me pareció tremendamente alarmante. Por que pienso muchas cosas aburridas y self hating. 
 		- Resulta que es parcialmente mentira. El cerebro si recicla patrones pero no hay tanta precision en medir la cantidad o la calidad de los pensamientos. 

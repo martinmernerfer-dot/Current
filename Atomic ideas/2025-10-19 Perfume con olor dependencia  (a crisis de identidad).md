@@ -13,6 +13,10 @@
 		- Esto seria el olor que me marcaria. Podría arruinarle esta esencia a una persona, solo por asociarla con mi imagen.
 		- Mas importante nunca había considerado como me gustaría ser percibido. 
 			- Los vendedores no ayudan tampoco. Cuando les decía que quería oler como un cuaderno de cuero lleno de ideas me procesaban un rato y luego me mostraban un perfume que no se parecía en nada. Creo que sin importar lo que quisiera, ellos hubiesen mostrado el mismo perfume -solo lo quieren vender.
-			- El precio tampoco incentiva a probar. No tengo miedo a experimentar, pero estas personas recomiendan perfumes con los que podría echarle bencina al auto para el mes y eso serian muchos mas litros. 
+			- El precio tampoco incentiva a probar. No tengo miedo a experimentar, pero estas personas recomiendan perfumes con los que podría echarle bencina al auto para el mes y eso serian muchos mas litros. [
+
+Explore
+
+](https://substack.com/explore?)
 				- No tiene sentido, uno es dinosaurios muertos y el otro fue hecho por un hombre japonés mezclando canela y otras tonterias. Uno suena mucho mas exclusivo. De coincidencia, también huele mejor. 
 - Holy fuck I just stumbled into a great reflection. This is just about being absorbed in a relationship. 

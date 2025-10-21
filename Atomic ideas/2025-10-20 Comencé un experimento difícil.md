@@ -29,4 +29,5 @@ Tags: [[Mundano]]
 	- Hay personas tenedor, muchas cucharas y algunos cuchillo. 
 		- La cuchara es la más versátil. 
 
-Anterior:[[perfume]]
+Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
+Siguiente: 

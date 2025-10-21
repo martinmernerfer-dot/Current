@@ -28,15 +28,19 @@ Tags: [[Mundano]]
 - Debería expandir una reflexión que ya tuve. 
 	- Hoy tomaba once con mi madre y le pedí que me acercara el cuchillo. 
 		- "yo?" me dijo -solo estábamos los dos. 
-		- "No, tu eres una cuchara." dije. Ella tardó en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
+		- Obviamente. "No, tu eres una cuchara." le dije. Ella tardó en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
 			-  "¿Como que cuchara!?"
 		- Como si la hubiese insultado. Me explique, pero solo un poco "Yo también soy cuchara" 
-	- Luego se unió mi hermana. "¿Como cuchara?
+	- Luego se unió mi hermana. "¿Por que tu eres cuchara?
 		- A mi me pareció obvio así que solo hice una mueca y lo deje reposar. Quería evaluar el poder de la analogía. 
-		- De a poco les hizo sentido. 
+		- Para mi agrado, de a poco les hizo sentido. 
 	- Expandí la teoría. "y tu eres tenedor" le dije a mi hermana. Ella también, miro como si fuera insultada.  
-		- Mi madre asintió fuertemente. 
-	- Hoy dije eso al tomar once. Me encanta decir algo que deja pensando. 
+		- Pero mi madre asintió fuertemente. Finalmente, mi hermana acepto su categoría.
+	- Juntos pusimos en palabras lo que nos parecia tan obvio. 
+			- Las cucharas son mas pacificas. "Son las unicas que pueden tomar sopa" decia mi madre. Tiene razón. Es algo mas sereno y cauteloso. 
+	- Luego nos pasamos el resto de la comida catalogando al resto de la familia. También usamos la metáfora para crear insultos. 
+		- Tu eres palillos chinos. 
+		- ¿Que implica que te digan cuchillo de mantequilla?
 
 Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
 Siguiente: 

@@ -26,8 +26,13 @@ Tags: [[Mundano]]
 - Debería ser algo que me he preguntado hace mucho.
 	- ¿Por que el sol no es tu Dios? Si lo es, dame los cinco. 
 - Debería expandir una reflexión que ya tuve. 
-	- Hay personas tenedor, muchas cucharas y algunos cuchillo. 
-		- La cuchara es la más versátil. 
+	- Hoy tomaba once con mi madre y le pedí que me acercara el cuchillo. 
+		- "yo?" me dijo -solo estábamos los dos. 
+		- "No, tu eres una cuchara." dije. Ella tardo en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
+		-  "¿Como que cuchara!?"
+		- Como si fuera un insulto.  "Yo también soy cuchara" 
+	- 
+	- Hoy dije eso al tomar once. Me encanta decir algo que deja pensando. 
 
 Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
 Siguiente: 

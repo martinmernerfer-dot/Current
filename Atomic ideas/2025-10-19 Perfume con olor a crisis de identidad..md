@@ -1,4 +1,10 @@
 - Por alguna razón se borró. Por suerte da lo mismo, ese dia realmente me dio una crisis y odiaba todo lo que aparecia en esta pantalla. 
 - Te cuento ahora (21/10/25) rápidamente: 
 	- A mis 26 años, compre un perfume por primera vez. 
-		- Me hace parecer un fetid
+		- Me hace parecer un fétido pero no es el caso. Bueno, parcialmente. 
+	- Nunca me he fijado mucho en mi apariencia personal. No ando sucio por la vida pero tampoco el esfuerzo que otros parecen poner. Me gusta más mi pelo cuando esta despeinado, la ropa cuando esta gastada -cosas así. 
+	- Si he usado perfumes también. Realmente no soy hediondo, al menos realmente me preocupa no serlo. 
+		- Solamente nunca lo he elegido por mi cuenta. Siempre he tenido un perfume regalado por ahí. 
+		- Lo que realmente me gusta(ba) es usar el perfume de mi (ex) pareja.
+			- No por que fuera particularmente bueno. Solo quiero oler como ella.
+		- Pero bueno. Ahora, por fín, 

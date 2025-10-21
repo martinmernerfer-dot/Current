@@ -11,5 +11,12 @@
 - He pensado en que valdría la pena abordar. Pero tampoco ha ayudado. 
 	- Usar Obsidian nunca me ha parecido evidentemente util. La idea del segundo cerebro suena interesante, pero ¿para que usa?
 		- Con este experimento, quizás Obsidian encuentra un lugar entre medio de mis amados cuadernos análogos. 
-- Debería ser algo que quiera saber mas? 
+- Debería elegir algo sobre lo que quiero saber más. Aquí van algunas ideas: 
+	- Quiero saber más sobre la mitología griega. Siempre que examino algo encuentro algún paralelo interesante. 
+		- ¿Por que la mitología griega sigue explicando cosas actuales? 
+- Debería ser algo que me he preguntado hace mucho.
+	- ¿Por que el sol no es tu Dios? Si lo es, dame los cinco. 
+- Debería expandir una reflexión que ya tuve. 
+	- Hay personas tenedor, muchas cucharas y algunos cuchillo. 
+		- La cuchara es la más versátil. 
 - 

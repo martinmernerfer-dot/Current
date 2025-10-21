@@ -9,5 +9,10 @@
 			- No por que fuera particularmente bueno. Solo quiero oler como ella.
 		- Pero bueno. Ahora, por fin, me toca comprar uno por mi cuenta y no tengo idea que olor me gustaría tener. 
 	- Fue inesperado lo existencial que seria elegir "mi fragancia"
-		- En mi cabeza sonaban las canciones que tratan sobre el perfume de alguna ex pareja. Sentí que estaba tomando una dec
+		- En mi cabeza sonaban las canciones que tratan sobre el perfume de alguna ex pareja. Sentí que estaba tomando una decision gravísima.
+		- Esto seria el olor que me marcaria. Podría arruinarle esta esencia a una persona, solo por asociarla con mi imagen.
+		- Mas importante nunca había considerado como me gustaría ser percibido. 
+			- Los vendedores no ayudan tampoco. Cuando les decía que quería oler como un cuaderno de cuero lleno de ideas me procesaban un rato y luego me mostraban un perfume que no se parecía en nada. Creo que sin importar lo que quisiera, ellos hubiesen mostrado el mismo perfume -solo lo quieren vender.
+			- El precio tampoco incentiva a probar. No tengo miedo a experimentar, pero estas personas recomiendan perfumes con lo
+		
 	- 

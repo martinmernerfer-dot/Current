@@ -25,8 +25,12 @@ Tags: [[Mundano]]
 		- ¿Por que la mitología griega sigue explicando cosas actuales? 
 - Debería ser algo que me he preguntado hace mucho.
 	- ¿Por que el sol no es tu Dios? Si lo es, dame los cinco. 
-- Debería expandir una reflexión que ya tuve. 
-	- Hoy tomaba once con mi madre y le pedí que me acercara el cuchillo. 
+
+----------------------------------
+
+La icónica metáfora de los utensilios. 
+
+- Hoy tomaba once con mi madre y le pedí que me acercara el cuchillo. 
 		- "yo?" me dijo -solo estábamos los dos. 
 		- Obviamente. "No, tu eres una cuchara." le dije. Ella tardó en registrarlo, por que después de entregarme el cuchillo me frunció el ceño.
 			-  "¿Como que cuchara!?"
@@ -36,8 +40,13 @@ Tags: [[Mundano]]
 		- Para mi agrado, de a poco les hizo sentido. 
 	- Expandí la teoría. "y tu eres tenedor" le dije a mi hermana. Ella también, miro como si fuera insultada.  
 		- Pero mi madre asintió fuertemente. Finalmente, mi hermana acepto su categoría.
-	- Juntos pusimos en palabras lo que nos parecia tan obvio. 
-			- Las cucharas son mas pacificas. "Son las unicas que pueden tomar sopa" decia mi madre. Tiene razón. Es algo mas sereno y cauteloso. 
+	- Juntos pusimos en palabras lo que nos parecía tan obvio. 
+			- Las cucharas son mas pacificas. "Son las únicas que pueden tomar sopa" decía mi madre. Tiene razón. Es algo mas sereno y cauteloso. 
+				- Acordamos que si se movieran, las cucharas lo harían en ondulaciones. 
+			- Mientras tanto los tenedores son mas directos, cargan mas energía, por eso pueden cargar al perforar. 
+				- Concluimos que si se movieran, lo harían como un pogo - o la lampara de Pixar.
+			-Los cuchillos son derechamente mas agresivos y directos. Son más imponentes, por eso rebanan.
+				- Si se movieran, lo harían en estocadas, punta guiando el camino. 
 	- Luego nos pasamos el resto de la comida catalogando al resto de la familia. También usamos la metáfora para crear insultos. 
 		- Tu eres palillos chinos. 
 		- ¿Que implica que te digan cuchillo de mantequilla?

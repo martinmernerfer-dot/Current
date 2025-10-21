@@ -5,4 +5,11 @@
 - Hoy es mi primer día y el objetivo es simple: Solo debo plantearme una pregunta. 
 	- Solo ahora noto que esta experiencia completa puede ser un ensayo en si. 
 		- Quizás el 5to. Si se me permite soñar. 
-- De todas formas, por más simple que sea, 
+- Aunque sea simple, me esta dando problemas. 
+	- No se por donde comenzar! Hoy particularmente, siento que rebalso ideas. Aunque no parezcan muy "jugosas" ahora mismo.
+	- Una parte de mi exclama por seguir preparándose. Quiere leer más para inspirar una perspectiva. Pero a este punto tengo dolorosamente claro que esto es una falacia. 
+- He pensado en que valdría la pena abordar. Pero tampoco ha ayudado. 
+	- Usar Obsidian nunca me ha parecido evidentemente util. La idea del segundo cerebro suena interesante, pero ¿para que usa?
+		- Con este experimento, quizás Obsidian encuentra un lugar entre medio de mis amados cuadernos análogos. 
+- Debería ser algo que quiera saber mas? 
+- 

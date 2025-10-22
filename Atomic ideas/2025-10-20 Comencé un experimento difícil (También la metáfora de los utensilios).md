@@ -25,6 +25,7 @@ Tags: [[Mundano]]
 		- ¿Por que la mitología griega sigue explicando cosas actuales? 
 - Debería ser algo que me he preguntado hace mucho.
 	- ¿Por que el sol no es tu Dios? Si lo es, dame los cinco. 
+	- Las peliculas de terror tienen rewatchability? 
 
 ----------------------------------
 
@@ -51,5 +52,5 @@ La icónica metáfora de los utensilios.
 		- Tu eres palillos chinos. 
 		- ¿Que implica que te digan cuchillo de mantequilla?
 
-Anterior: [[2025-10-19 Perfume con olor dependencia  (a crisis de identidad)]]
-Siguiente: [[2025-10-21 No deberías adoptar hábitos sin reflexionar.]]
+Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
+Siguiente: 

@@ -13,4 +13,4 @@ Tags: [[Mundano]]
 
 
 Anterior: [[2025-09-28 Volví a un habito que deje]]
-Siguiente: 
+Siguiente: [[2025-10-19 Perfume con olor dependencia  (a crisis de identidad)]]

@@ -1,2 +1,6 @@
 - Quieres saborear el progreso?
-	- Hace un tiempo, mi parte más despreciada del día laboral era el almuerzo. Era
+	- Hace un tiempo, mi parte más despreciada del día laboral era el almuerzo. Era como una prueba social que siempre fallaba. No tenia nadie que me hablara y pensaba tanto sobre que podia conversar que nunca decía nada. 
+		- Cuando terminaba rápido me encerraba en el baño para sentarme en el piso y concentrarme en mi respiración. 
+	- Hoy el Fabián me dijo "¿donde nos sentamos?" y de inmediato  note el placer del progreso. A veces ni siquiera procesamos que superamos un problema. Creo que mi razón de escribir es evitar que eso ocurra. 
+	- 
+	- 

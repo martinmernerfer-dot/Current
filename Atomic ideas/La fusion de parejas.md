@@ -15,17 +15,16 @@ Tags: [[Fusión de identidad]]
 			- *Seria entonces, ¿falta de amor propio?*
 			- *producto de amar más a la pareja que a uno mismo* No era Tyler que dice "taking a bullet is easy but living for you is hard as fuck"
 	- Tampoco tiene que ser intencional. Vivir cosas transformativas juntos te pondrá en el mismo camino evolutivo. 
+	- Puede ser también, que realmente no se parecen tanto como creen. Las parejas tienden a tener versiones idealizadas del otro. Explícitamente pueden pensar que tienen las mismas paradas morales pero no es necesariamente la realidad.
+
+- Según el articulo este, esta fusión no es algo que mantenga la relación. En cambio es señal de una buena. 
+	- Obviamente hay limites e intensidades, pero creo que no es bueno perseguirlo -inconscientemente o no. 
 	- 
-
-
-
-
-
-
-
 
 
 ---
  ***References 
- https://dictionary.apa.org/michelangelo-phenomenon
- https://www.theatlantic.com/family/archive/2024/02/relationship-convergence-similar-personality/677534/
+1.  https://dictionary.apa.org/michelangelo-phenomenon
+ 2. https://www.theatlantic.com/family/archive/2024/02/relationship-convergence-similar-personality/677534/   --- no paywall   https://archive.is/NuBl5
+ 3. 
+ 

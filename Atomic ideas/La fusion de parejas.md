@@ -9,7 +9,13 @@ Tags: [[Fusión de identidad]]
 	- Esto puede ser para bien y para mal. Por ejemplo, la persona más alegre de la relación se puede volver más triste gracias a su pareja.
 
 - Realmente evolucionan a parecerse o creen que lo hacen por resultado de amor
-	- Las personas comunes se atraen. Tiene sentido que por sus
+	- Las personas comunes se atraen. Tiene sentido que por sus similitudes crezcan de manera similar por causalidad. 
+	- Otras son como lo del Miguel Angel. Las parejas se moldean para volverse más como ellos mismos. 
+		-  *Al final, a que puedes amar más a parte de tí mismo. Cierto? Cierto? Cierto?*
+			- *Seria entonces, ¿falta de amor propio?*
+			- *producto de amar más a la pareja que a uno mismo* No era Tyler que dice "taking a bullet is easy but living for you is hard as fuck"
+	- Tampoco tiene que ser intencional. Vivir cosas transformativas juntos te pondrá en el mismo camino evolutivo. 
+	- 
 
 
 

@@ -52,5 +52,5 @@ La icónica metáfora de los utensilios.
 		- Tu eres palillos chinos. 
 		- ¿Que implica que te digan cuchillo de mantequilla?
 
-Anterior: [[2025-10-19 Perfume con olor a crisis de identidad.]]
-Siguiente: 
+Anterior: [[2025-10-19 Perfume con olor dependencia  (a crisis de identidad)]]
+Siguiente: [[2025-10-21 No deberías adoptar hábitos sin reflexionar.]]

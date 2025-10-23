@@ -16,3 +16,6 @@
 			- El precio tampoco incentiva a probar. No tengo miedo a experimentar, pero estas personas recomiendan perfumes con los que podría echarle bencina al auto para el mes y eso serian muchos mas litros. 
 				- No tiene sentido, uno es dinosaurios muertos y el otro fue hecho por un hombre japonés mezclando canela y otras tonterias. Uno suena mucho mas exclusivo. De coincidencia, también huele mejor. 
 - Holy fuck I just stumbled into a great reflection. This is just about being absorbed by the relationship
+
+Anterior: [[2025-10-19 cual es la solución]]
+Siguiente:[[2025-10-20 Comencé un experimento difícil (También la metáfora de los utensilios)]]

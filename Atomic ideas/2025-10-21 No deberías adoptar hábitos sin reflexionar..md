@@ -17,4 +17,4 @@
 - Comienzo oficialmente una lista [[ensayos que me hubiese gustado escribir]] para ideas que me hacen pensar "me encantaría haber creado eso"
 
 Anterior: [[2025-10-20 Comencé un experimento difícil (También la metáfora de los utensilios)]]
-Siguiente:
+Siguiente:[[2025-10-22 A veces ni siquiera procesamos que superamos un problema.]]

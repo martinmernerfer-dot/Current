@@ -1,6 +1,6 @@
 20251022 / 2133
 Status: #referencias 
-Tags: [[Enneagram]] [[]]
+Tags: [[Enneagram]] [[Fusión de identidad]]
 
 ------
 In chapter 5: The investigator

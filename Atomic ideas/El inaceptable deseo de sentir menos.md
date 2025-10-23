@@ -21,7 +21,7 @@ Tags: [[Ensayo]]
 	- Hacer oídos sordos a este ruido es hacer la vida más ligera a costo de su importancia. Lamentaría repetir estos Dias con ojos entumecidos. 
 		- Estar desasociado es imitar estar en calma
 ------
-- Nietzsche en su hipotético aludía a la idea de amar y aceptar tu destino ([[Amor fati]]) sea bueno o malo.
+- Nietzsche en su hipotético aludía a la idea de amar y aceptar tu destino sea bueno o malo.
 	- Es la idea de que puedes encontrar valor profundo a través de la presencia. 
 		- Yo todavía trabajo en ello. 
 	- En esos momentos que sobreviví  desconectándome de mi experiencia, imagino la parte de mi que los esta reviviendo. El esta atrás de un grueso vidrio, gritando que lo haga distinto. 

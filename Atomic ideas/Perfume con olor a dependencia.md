@@ -15,7 +15,9 @@ Tags: [[Ensayo]]
 - La verdad es que 
 - Ahora debo decidir como quiero ser percibido por mi mismo y no se que olor tengo. 
 	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
-		- Sospecho que sin importar lo q
+		- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese dia. 
+	- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos mas litros. 
+		- No tiene sentido. Uno es un
 - 
 
 

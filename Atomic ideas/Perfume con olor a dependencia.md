@@ -13,7 +13,10 @@ Tags: [[Ensayo]]
 - Usaba su perfume por que quería llevar conmigo su energía. 
 	- Esto te puede parecer romántico. Quizás en otro contexto lo seria. 
 - La verdad es que 
-- Ahora debo decidir como quiero ser percibido por mi mismo y
+- Ahora debo decidir como quiero ser percibido por mi mismo y no se que olor tengo. 
+	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
+		- Sospecho que sin importar lo q
+- 
 
 
 
@@ -21,12 +24,6 @@ Tags: [[Ensayo]]
 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
-
-
-
-
-
-
 
 ---
  ***References 

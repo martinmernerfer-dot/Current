@@ -14,7 +14,9 @@ Tags: [[Ensayo]]
 - Usaba su perfume por que quería llevar conmigo su energía. 
 	- Esto te puede parecer romántico, en el momento para mi lo era: quería su olor para sentirme parte de ella. 
 	- Por que lo que me atrajo a ella fue su energía. Sin esfuerzo carga con una vitalidad que a mi cuerpo le faltaba y yo quería absorberla. 
-	- 
+- Eso es lo que se hace en parejas en realidad. 
+	- Se tiende a evolucionar para parecerse a su pareja.
+		- Disfrutar de la compañía ligeramente demasiado. 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
 *Esto mismo*

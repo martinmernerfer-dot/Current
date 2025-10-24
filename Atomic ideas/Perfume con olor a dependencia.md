@@ -9,13 +9,14 @@ Tags: [[Ensayo]]
 - A mis 26 años, compre un perfume por primera vez. 
 	- No soy fétido, lo prometo. Solo dependiente. 
 - He usado perfumes antes. Solamente nunca los he elegido por mi cuenta. 
-	- Siempre he tenido un perfume regalado por ahi. 
+	- Siempre he tenido un perfume regalado por ahi.
 	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno. Solo quería oler como ella. 
-- Usaba su perfume por que quería llevar conmigo su energía. Me atraen las personas que tienen algo de lo que puedo aprender.  
-	- Esto te puede parecer romántico. Quizás en otro contexto lo seria. 
+- Usaba su perfume por que quería llevar conmigo su energía. 
+	- Esto te puede parecer romántico, en el momento para mi lo era. Quizás en otro contexto lo seria. Querer tener a la pareja siempre 
+		- Disfrutar de su compañía ligeramente demasiado.
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
-¨Esto mismo. 
+*Esto mismo*
 
 - La verdad es que 
 - Ahora debo decidir como quiero ser percibido por mi mismo y no se que olor tengo.

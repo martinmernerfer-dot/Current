@@ -11,7 +11,7 @@ Tags: [[Ensayo]]
 - He usado perfumes antes. Solamente nunca los he elegido por mi cuenta. 
 	- Siempre he tenido un perfume regalado por ahi. 
 	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno. Solo quería oler como ella. 
-- Usaba su perfume por que quería llevar conmigo su energía. 
+- Usaba su perfume por que quería llevar conmigo su energía. Me atraen las personas que tienen algo de lo que puedo aprender.  
 	- Esto te puede parecer romántico. Quizás en otro contexto lo seria. 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]

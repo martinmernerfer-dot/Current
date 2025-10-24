@@ -13,7 +13,8 @@ Tags: [[Ensayo]]
 	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno. Solo quería oler como ella. 
 - Usaba su perfume por que quería llevar conmigo su energía. 
 	- Esto te puede parecer romántico, en el momento para mi lo era: quería su olor para sentirme parte de ella. 
-	- Por que lo que me atrajo a ella fue su energía, carga con una vitalidad que a mi cuerpo le falta.
+	- Por que lo que me atrajo a ella fue su energía. Sin esfuerzo carga con una vitalidad que a mi cuerpo le faltaba y yo quería absorberla. 
+	- 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
 *Esto mismo*

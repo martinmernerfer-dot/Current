@@ -21,7 +21,8 @@ Tags: [[Ensayo]]
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
 *Esto mismo*
 
-- La verdad es que 
+- La verdad es que ahora cuestiono la razón de mi amor. 
+	- Disolverse en tu pareja no es amor. No viene de una conexión presente con esa persona, sino del miedo a estar solo y evadir la tensión de ser una persona propia. 
 - Ahora debo decidir como quiero ser percibido por mi mismo y no se que olor tengo.
 	- Reflexión real. 
 		- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 

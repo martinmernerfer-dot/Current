@@ -3,9 +3,10 @@ Status: #Proyecto
 Tags: [[Ensayo]]
 
 ------
+# Perfume con  olor a dependencia
+--
 - A mis 26 años, compre un perfume por primera vez. 
 	- No soy fétido, lo prometo. Solo dependiente. 
-- Nunca me he preocupado mucho en mi apariencia personal. No voy sucio por la vida pero tampoco me esmero por estar perfecto. Me agrada el desgaste: me gusta más el pelo despeinado, la ropa gastada, cosas así.
 - He usado perfumes. Solamente nunca los he elegido por mi cuenta. 
 	- Siempre he tenido un perfume regalado por ahi. 
 - Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. 
@@ -14,6 +15,7 @@ Tags: [[Ensayo]]
 	- Esto te puede parecer romántico. Quizás en otro contexto lo seria. 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
+¨Esto mismo. 
 
 - La verdad es que 
 - Ahora debo decidir como quiero ser percibido por mi mismo y no se que olor tengo.
@@ -21,8 +23,9 @@ Tags: [[Ensayo]]
 		- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
 			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese dia. 
 	- Reflexión real. 
-		- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos mas litros. 
-			- No tiene sentido. Una se hace al consumir materia orgánica que ha estado bajo tierra por millones de años. La otra la hizo un señor japonés mezclando canela y otras cosas. Una de esas suena mucho mas *exclusiva*. De coincidencia, también huele mejor. 
+		- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos más litros. 
+			- No tiene sentido. Una se hace al consumir materia orgánica que ha estado bajo tierra por millones de años. La otra la hizo un señor japonés mezclando canela y otras cosas. 
+			- Una de esas suena mucho mas *exclusiva*. De coincidencia, también huele mejor.
 
 
 ---

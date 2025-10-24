@@ -12,9 +12,9 @@ Tags: [[Ensayo]]
 	- Siempre he tenido un perfume regalado por ahi.
 	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno. Solo quería oler como ella. 
 - Usaba su perfume por que quería llevar conmigo su energía. 
-	- Esto te puede parecer romántico, en el momento para mi lo era. Quizás en otro contexto lo seria. 
-	- Quiero vestir de su olor por la misma razón 
-		- Disfrutar de su compañía ligeramente demasiado.
+	- Esto te puede parecer romántico, en el momento para mi lo era: quería su olor para sentirme parte de ella. 
+	- Por que ella carga energia 
+	- 
 
 ![[standard-protocol-v0-bayaxj13s7xe1.png|500 ]]
 *Esto mismo*

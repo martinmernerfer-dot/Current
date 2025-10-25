@@ -1,5 +1,5 @@
 20251021 / 1800
-Status: #Compilacion
+Status: #referencias
 Tags:[[Ensayo]] 
 
 Para ideas que me hacen pensar "me encantaría haber creado eso". 

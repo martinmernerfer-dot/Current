@@ -1,0 +1,21 @@
+- A mis 26 años, compré un perfume por primera vez.
+	- No soy fétido. Solo dependiente.
+- He usado perfumes antes. Solamente nunca los he elegido por mi cuenta.  
+	- Siempre he tenido perfumes que me dieron de regalo, pero no los uso. 
+	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularme bueno, solo queria usar su escencia como escudo. 
+- Usaba su perfume por que quiera ser una extensión de ella. 
+	- Las parejas tienden a transformarse para parecerse a la otra persona(1). Uno espera que sus mejores cualidades se conserven y combinen. 
+	- Por eso me sentí tan atraído, cómo polilla a una lampara. Ella transmitía una vitalidad que mi cuerpo había olvidado hace tiempo. 
+- Ahora debo decidir como quiero oler y al no estar ella, solo huelo a dependencia. 
+	- Me doy cuenta que la razón de mi amor no era auténtica. No venia de una conexión real, sino del impulso a evadir la tension que conlleva ser uno mismo. Por que no lo se, por que quizás la quería a ella más de lo que me quiero a mi mismo. 
+- Disolverse en la otra persona no es romántico. Ahora debo ir a alguna tienda y afrontar como quiero ser percibido. 
+	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
+			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese día. 
+	- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos más litros. 
+			- No tiene sentido. Una se hace al consumir materia orgánica que ha estado bajo tierra por millones de años. La otra la hizo un señor japonés mezclando canela y otras cosas. 
+			- Una de esas suena mucho mas *exclusiva*. De coincidencia, también huele mejor.
+- y que? que aprendiste?
+	- Aún no se a que quiero oler. Que quiero recordar. 
+	- Esto es resultado de estar oculto en otra persona. Por que existir es difícil y en vez de afrontarlo me aproveche de otra persona.
+	- Pero...
+ 

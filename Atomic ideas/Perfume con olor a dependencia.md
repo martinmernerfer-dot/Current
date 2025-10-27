@@ -14,7 +14,7 @@ Tags: [[Ensayo]]
 - Usaba su perfume por que quiera ser una extensión de ella. 
 	- Las parejas tienden a transformarse en un reflejo de la otra persona(1). Las cualidades que deseamos son atractivas por esta razón. 
 	- Al menos por eso yo me sentí tan atraído, cómo polilla a una lampara. Ella transmitía una vitalidad que mi cuerpo había olvidado hace tiempo. 
-- Pero ella ya no está y notó que nunca me preocupe en mi propia esencia. 
+- En su ausencia me doy cuenta que no reconozco mi propio olor. 
 	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
 			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese día.
 	- Mi infatuación por ella no venia por que me agradara su olor. Si no por el impulso de evadir la tensión que conlleva ser uno mismo. 

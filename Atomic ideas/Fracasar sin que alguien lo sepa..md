@@ -4,15 +4,17 @@ He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y n
 El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para no hacerlo. Aún así, yo me arriesgo. 
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *what happened*
-Hoy es lunes y me preguntaron sobre mi fin de semana. Yo engancho el filtro que uso frecuentemente en estos casos: recuento lo que hice dejando de lado el trabajo que me parece tan importante para integridad espiritual. 
-
-
+--
+Hoy es lunes y me preguntaron sobre mi fin de semana. Yo engancho el filtro que uso frecuentemente en estos casos: recuento lo que hice dejando de lado el trabajo que me parece tan importante para integridad espiritual, obviamente. Limpiar, pasar
+A mi compañero de trabajo le pareció extraño que -supuestamente- gastara mi tiempo en "nada interesante."
 
 *why it matters*
-
+-- 
+Por que hay tanta contradicción. 
 
 
 *what it says about the human experience*
+--
 
 
 

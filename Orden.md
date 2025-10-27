@@ -9,16 +9,12 @@
 - Pero ella ya no está y notó que nunca me preocupe en mi propia esencia. 
 	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
 			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese día.
-	- Mi infatuación por ella no venia por que me agrada su olor. Si no por el impulso de evadir la tensión que conlleva ser uno mismo. 
-	- Quizás la quería más 
-	- Me doy cuenta que la razón de mi amor no era auténtica. No venia de una conexión real, sino del impulso a evadir la tension que conlleva ser uno mismo. Por que no lo se, por que quizás la quería a ella más de lo que me quiero a mi mismo. 
+	- Mi infatuación por ella no venia por que me agradara su olor. Si no por el impulso de evadir la tensión que conlleva ser uno mismo. 
+	- Quizás la quería más de lo que me quiero a mi mismo. Quiero ser recordado como si fuera ella. 
 - Disolverse en la otra persona no es romántico. Ahora debo ir a alguna tienda y afrontar como quiero ser percibido. 
-	-  
 	- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos más litros. 
 			- No tiene sentido. Una se hace al consumir materia orgánica que ha estado bajo tierra por millones de años. La otra la hizo un señor japonés mezclando canela y otras cosas. 
 			- Una de esas suena mucho mas *exclusiva*. De coincidencia, también huele mejor.
-- y que? que aprendiste?
-	- Aún no se a que quiero oler. Que quiero recordar. 
-	- Esto es resultado de estar oculto en otra persona. Por que existir es difícil y en vez de afrontarlo me aproveche de otra persona.
-	- Pero...
+- Ahora, llevo tiempo por mí cuenta y aún no comprendo quien soy. Que olor tengo o como quiero ser recordado. 
+	- Imaginé que la identidad se aclararía naturalmente. Pero llegue a mi adultez 
  

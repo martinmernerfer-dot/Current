@@ -1,3 +1,6 @@
 
 He tenido muchas conversaciones donde alguien pregunta sobre mi fin de semana y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que mantengo un secreto. Algo que guardo muy cercano a mi corazón, por que me recuerda a mis más grandes y locos sueños.  
-El mero hecho de intentar me parece iluso. Las señales de que no se me dan son much
+El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para no hacerlo. Aún así, yo me arriesgo. 
+Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
+
+

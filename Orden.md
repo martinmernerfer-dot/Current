@@ -2,11 +2,11 @@
 	- No soy fétido. Solo dependiente.
 - He usado perfumes antes. Solamente nunca los he elegido por mi cuenta.  
 	- Siempre he tenido perfumes que me dieron de regalo, pero no los uso. 
-	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularme bueno, solo queria usar su escencia como escudo. 
+	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno, solo quería usar su esencia como escudo. 
 - Usaba su perfume por que quiera ser una extensión de ella. 
-	- Las parejas tienden a transformarse para parecerse a la otra persona(1). Uno espera que sus mejores cualidades se conserven y combinen. 
+	- Las parejas tienden a transformarse en un reflejo de la otra persona(1). Las cualidades que deseamos son atractivas por la ilusión 
 	- Por eso me sentí tan atraído, cómo polilla a una lampara. Ella transmitía una vitalidad que mi cuerpo había olvidado hace tiempo. 
-- Ahora debo decidir como quiero oler y al no estar ella, solo huelo a dependencia. 
+-  
 	- Me doy cuenta que la razón de mi amor no era auténtica. No venia de una conexión real, sino del impulso a evadir la tension que conlleva ser uno mismo. Por que no lo se, por que quizás la quería a ella más de lo que me quiero a mi mismo. 
 - Disolverse en la otra persona no es romántico. Ahora debo ir a alguna tienda y afrontar como quiero ser percibido. 
 	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 

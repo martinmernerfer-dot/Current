@@ -4,13 +4,16 @@
 	- Siempre he tenido perfumes que me dieron de regalo, pero no los uso. 
 	- Lo que realmente me gusta(ba) es usar el perfume de mi (ex)pareja. No por que fuera particularmente bueno, solo quería usar su esencia como escudo. 
 - Usaba su perfume por que quiera ser una extensión de ella. 
-	- Las parejas tienden a transformarse en un reflejo de la otra persona(1). Las cualidades que deseamos son atractivas por la ilusión 
-	- Por eso me sentí tan atraído, cómo polilla a una lampara. Ella transmitía una vitalidad que mi cuerpo había olvidado hace tiempo. 
--  
+	- Las parejas tienden a transformarse en un reflejo de la otra persona(1). Las cualidades que deseamos son atractivas por esta razón. 
+	- Al menos por eso yo me sentí tan atraído, cómo polilla a una lampara. Ella transmitía una vitalidad que mi cuerpo había olvidado hace tiempo. 
+- Pero ella ya no está y notó que nunca me preocupe en mi propia esencia. 
+	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
+			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese día.
+	- Mi infatuación por ella no venia por que me agrada su olor. Si no por el impulso de evadir la tensión que conlleva ser uno mismo. 
+	- Quizás la quería más 
 	- Me doy cuenta que la razón de mi amor no era auténtica. No venia de una conexión real, sino del impulso a evadir la tension que conlleva ser uno mismo. Por que no lo se, por que quizás la quería a ella más de lo que me quiero a mi mismo. 
 - Disolverse en la otra persona no es romántico. Ahora debo ir a alguna tienda y afrontar como quiero ser percibido. 
-	- Los vendedores no ayudan. Diles que quieres oler como un cuaderno de cuero lleno de ideas y te miran como si hablaras otro idioma. 
-			- Sospecho que sin importar lo que explicara,  ellos recomendarían lo que les toca vender ese día. 
+	-  
 	- El precio tampoco incentiva a experimentar. Estas personas con completa sinceridad te recomiendan un frasco de 50ml por el precio que le pondría gasolina a mi auto por un mes -serian muchos más litros. 
 			- No tiene sentido. Una se hace al consumir materia orgánica que ha estado bajo tierra por millones de años. La otra la hizo un señor japonés mezclando canela y otras cosas. 
 			- Una de esas suena mucho mas *exclusiva*. De coincidencia, también huele mejor.

@@ -21,3 +21,11 @@ A veces tenemos miedo de soltar eso que nos importa, pero eso es más razón de 
 
 
 
+
+
+Imagenes/citas que quiero usar:
+
+![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.jpg]]
+
+![[Screenshot_20251028_183853_Firefox.jpg]]
+![[Screenshot_20251028_183442_Substack.jpg]]

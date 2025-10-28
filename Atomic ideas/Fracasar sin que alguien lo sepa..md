@@ -5,12 +5,14 @@ El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para n
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *what happened*
 --
-Hoy es lunes y me preguntaron sobre mi fin de semana. Yo engancho el filtro que uso frecuentemente en estos casos: recuento lo que hice dejando de lado el trabajo que me parece tan importante para integridad espiritual, obviamente. Limpiar, pasar
+Hoy es lunes y me preguntaron sobre mi fin de semana. Yo engancho el filtro que uso frecuentemente en estos casos: recuento lo que hice dejando de lado el trabajo que me parece tan importante para integridad espiritual, obviamente. Limpiar,
 A mi compañero de trabajo le pareció extraño que -supuestamente- gastara mi tiempo en "nada interesante."
 
 *why it matters*
 -- 
-Por que hay tanta contradicción. 
+Imagino que ocurre por que pensamos lo peor de otros.
+Por que soy un tipo 5 y baso mi autoestima en como resultan mis proyectos.
+
 
 
 *what it says about the human experience*

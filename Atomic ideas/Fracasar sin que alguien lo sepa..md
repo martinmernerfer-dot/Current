@@ -10,13 +10,14 @@ A mi compañero de trabajo le pareció extraño que -supuestamente- gastara mi t
 
 *why it matters*
 -- 
-Imagino que ocurre por que pensamos lo peor de otros.
 Por que soy un tipo 5 y baso mi autoestima en como resultan mis proyectos.
+A veces tenemos miedo de soltar eso que nos importa, pero eso es más razón de soltarlo. Esa es la clase de incertidumbre que plaga a mi gente. 
 
 
 
 *what it says about the human experience*
 --
+
 
 
 

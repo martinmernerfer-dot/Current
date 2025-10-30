@@ -1,3 +1,7 @@
+20251030 / 0911
+Status: #Enproceso 
+Tags: [[Ensayo]] 
+
 Cuando importa tanto que ni siquiera quiero que me vean. 
 
 He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que mantengo un proyecto secreto. Poco a poco trabajo en ello, en algo que guardo muy cercano a mi corazón, por que me recuerda a mis más grandes y locos sueños. Algo tan frágil que lo hace precioso. Unas ganas tan enterradas y desesperadas que  pierdo mi propio respeto al no acudir a su grito cada dia. 

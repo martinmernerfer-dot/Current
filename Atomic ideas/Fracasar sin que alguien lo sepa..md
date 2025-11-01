@@ -12,13 +12,12 @@ El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para n
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *why it matters*
 -- 
-*Miedo a ser percibido mal*
-Mi vida esta plagada por un miedo a ser percibido como incompetente. Tanto así, que me detiene de intentar. 
+- *Miedo a ser percibido mal*
 No puedes controlar como tus esfuerzos son percibidos.
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros.
 
-*Participación a medias*
+- *Participación a medias*
 
 
 
@@ -27,7 +26,8 @@ A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo 
 --
 
 "Embarrasment is an underexplored emotion"
-Algunos se atreven a 
+Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
+
 
 
 

@@ -6,7 +6,7 @@ Cuando importa tanto que ni siquiera quiero que me vean.
 *what happened*
 --
 He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que gasto mi tiempo en un hobby que mantengo estrictamente secreto (ya no -ojala-), 
-por que responde a un grito desesperado que esta enterrado dentro de mi espíritu. Me pase el fin de semana creando algo tan torpe, tierno e intimo que solo dejaría que alguien lo viera con la misma sutileza que rescatan a un perro callejero. Por que me tomo todo en mi cuerpo ignorar mi propia negatividad  para apostar en mi mismo. El mero hecho de que alguien lo pueda recibir mal destruye mis ganas de hacerlo y eso se  me hace profundamente alarmante.
+por que responde a un grito desesperado que esta enterrado dentro de mi espíritu. Me pase el fin de semana creando algo tan torpe, tierno e intimo que solo dejaría que alguien lo viera con la misma gentileza que rescatan a un perro callejero. Por que me tomo todo en mi cuerpo ignorar mi propia negatividad  para apostar en mi mismo. El mero hecho de que alguien lo pueda recibir mal destruye mis ganas de hacerlo y eso se  me hace profundamente alarmante.
 El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para no hacerlo. Aún así, yo me arriesgo. 
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *why it matters*
@@ -14,7 +14,11 @@ Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 - *Miedo a ser mal percibido*
 ![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.webp|500x284]]
 
-A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. 
+A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
+Personalmente esa es una de mis mayores barreras. Por que yo, más que nadie, creo que no soy bueno para esto.  Si cualquiera otra persona reafirmara esta creencia me parti
+
+
+
 - *Participación a medias*
 
 

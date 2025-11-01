@@ -1,6 +1,6 @@
 20251030 / 0858
 Status: #referencias 
-Tags: #MentalModel #Estoicismo
+Tags: [[Mental Model]] [[Estoicismo]]
 
 ------
 Los filosofos estoicos remediaban su miedo al futuro haciendo un ejercicio llamado

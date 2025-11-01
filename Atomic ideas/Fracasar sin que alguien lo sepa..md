@@ -25,6 +25,10 @@ A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo 
 *what it says about the human experience*
 --
 
+- *Deja de controlar*
+
+![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]
+
 "Embarrasment is an underexplored emotion"
 Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
 

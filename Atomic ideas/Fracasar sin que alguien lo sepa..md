@@ -3,6 +3,7 @@ Status: #Enproceso
 Tags: [[Ensayo]] 
 
 Cuando importa tanto que ni siquiera quiero que me vean. 
+--------
 *what happened*
 --
 He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que gasto mi tiempo en un hobby que mantengo estrictamente secreto (ya no -ojala-), 
@@ -18,9 +19,11 @@ El dolor de ser mal percibido
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
 
-Hay una tensión entonces, entre lo que queremos ser y como somos vistos.  
+Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Nos pasamos el tiempo 
 
-Cada persona se ve reflejada en lo que lo rodea. Nos la pasamos cultivando la identidad ideal, a veces cuesta tremendamente convencerse a uno mismo y después ser malinterpretado puede ser muy doloroso. Siempre hay una tensión entonces, entre lo que queremos ser y como somos vistos, a veces quizás no participar en esa tension suena como la mejor manera. 
+ 
+ 
+ Nos la pasamos cultivando la identidad ideal, a veces cuesta tremendamente convencerse a uno mismo y después ser malinterpretado puede ser muy doloroso. Siempre hay una tensión entonces, entre lo que queremos ser y como somos vistos, a veces quizás no participar en esa tension suena como la mejor manera. 
 
 
 

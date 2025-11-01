@@ -13,6 +13,7 @@ Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *why it matters*
 -- 
 - *Miedo a ser percibido mal*
+
 No puedes controlar como tus esfuerzos son percibidos.
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros.
@@ -38,7 +39,7 @@ Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos s
 
 Imagenes/citas que quiero usar:
 
-![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.jpg]]
+
 
 ![[Screenshot_20251028_183853_Firefox.jpg]]
 ![[Screenshot_20251028_183442_Substack.jpg]]

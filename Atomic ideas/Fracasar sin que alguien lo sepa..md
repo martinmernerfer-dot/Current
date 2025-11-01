@@ -13,6 +13,7 @@ Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *why it matters*
 -- 
 - *Miedo a ser percibido mal*
+![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.webp|500x284]]
 
 No puedes controlar como tus esfuerzos son percibidos.
 
@@ -21,14 +22,12 @@ A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo 
 - *Participación a medias*
 
 
-
-
 *what it says about the human experience*
 --
 
 - *Deja de controlar*
 
-![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]
+
 
 "Embarrasment is an underexplored emotion"
 Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
@@ -42,4 +41,4 @@ Imagenes/citas que quiero usar:
 
 
 ![[Screenshot_20251028_183853_Firefox.jpg]]
-![[Screenshot_20251028_183442_Substack.jpg]]
+![[Screenshot_20251028_183442_Substack.jpg]]![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]

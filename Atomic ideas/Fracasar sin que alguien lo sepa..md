@@ -12,11 +12,13 @@ Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 
 -----------
 Why it matters
-Miedo a ser mal percibido 
+El dolor de ser mal percibido 
 -- 
 ![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.webp|500x284]]
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
+
+
 
 
 Participación a medias

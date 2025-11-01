@@ -17,7 +17,8 @@ El dolor de ser mal percibido
 ![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.webp|500x284]]
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
-¿Se convence a uno mismo primero o a los otros?
+
+Cada persona se ve reflejada en lo que lo rodea. Nos la pasamos cultivando la identidad ideal, a veces cuesta tremendamente convencerse a uno mismo y despues ser malinterpretado puede ser muy doloroso. Siempre hay una tensión entonces, entre lo que queremos ser y como somos vistos, a veces quizas no participar en esa tension suena como la mejor manera. 
 
 
 

@@ -13,15 +13,21 @@ Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 *why it matters*
 -- 
 *Miedo a ser percibido mal*
+Mi vida esta plagada por un miedo a ser percibido como incompetente. Tanto así, que me detiene de intentar. 
+No puedes controlar como tus esfuerzos son percibidos.
 
-No puedes controlar como tus esfuerzos son perivi
-
+A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros.
 
 *Participación a medias*
+
+
+
+
 *what it says about the human experience*
 --
 
-
+"Embarrasment is an underexplored emotion"
+Algunos se atreven a 
 
 
 
@@ -31,4 +37,4 @@ Imagenes/citas que quiero usar:
 ![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.jpg]]
 
 ![[Screenshot_20251028_183853_Firefox.jpg]]
-![[Screenshot_20251028_183442_Substack.jpg]]
+![[Screenshot_20251028_183442_Substack.jpg]]![](https://substackcdn.com/image/fetch/$s_!IUZu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.jpeg)

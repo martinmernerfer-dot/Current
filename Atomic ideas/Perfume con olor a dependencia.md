@@ -37,3 +37,6 @@ Tags: [[Ensayo]]
 ---
  ***References 
 
+Estaba en el mall, con al intención de comprar un perfume -el que me dieron en navidad hace 3 años ya se acabo. Primero fui a la tienda donde los compraba Ella. Todas las cajas parecen de dulces y huelen como eso, tengo entendido que tienden a ser esencias de mujer. De que sirve oler a mujer si no es la tuya. 
+
+

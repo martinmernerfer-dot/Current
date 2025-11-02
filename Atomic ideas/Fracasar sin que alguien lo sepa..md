@@ -30,11 +30,11 @@ Esto se trata sobre la tension de
 
 Participación a medias.
 -- 
-Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar a pesar de errar o fracasar. Me deja claro que c
+Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar, a pesar de errar o fracasar. Lo que esta en juego no es triunfar/fracasar. De hecho es mas simple que eso, hay dos clases de personas esos que toman acción y ellos que solo observan. Uno de ellos son los que realmente importan. 
 
 ![[Screen-Shot-2021-10-03-at-9.25.11-PM.webp|500x500]]
 
-
+Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace parte del grupo que actúan. No realmente. 
 
 --------------------
 what it says about the human experience

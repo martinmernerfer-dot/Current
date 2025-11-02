@@ -30,7 +30,7 @@ Esto se trata sobre la tension de
 
 Participación a medias.
 -- 
-Theodore Roosevelt tiene este discurso, es largo y poderoso, donde resalta el valor de quienes realmente se atreven a participar. El fragmento deja claro, exis
+Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar a pesar de errar o fracasar. Me deja claro que c
 
 ![[Screen-Shot-2021-10-03-at-9.25.11-PM.webp|500x500]]
 

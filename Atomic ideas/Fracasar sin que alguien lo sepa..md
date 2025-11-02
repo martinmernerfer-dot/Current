@@ -8,7 +8,9 @@ Cuando importa tanto que ni siquiera quiero que lo vean.
 Oculto mis esfuerzos. 
 --
 He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que gasto mi tiempo en un hobby que mantengo estrictamente secreto (ya no -ojala-), 
-por que responde a un grito desesperado que esta enterrado dentro de mi espíritu. Me pase el fin de semana creando algo tan torpe, tierno e intimo que solo dejaría que alguien lo viera con la misma gentileza que rescatan a un perro callejero. Por que me tomo todo en mi cuerpo ignorar mi propia negatividad  para apostar en mi mismo. El mero hecho de que alguien lo pueda recibir mal destruye mis ganas de hacerlo y eso se me hace profundamente alarmante.
+por que responde a un grito desesperado que esta enterrado dentro de mi espíritu. 
+
+Me pase el fin de semana creando algo tan torpe, tierno e intimo que solo dejaría que alguien lo viera con la misma gentileza que rescatan a un perro callejero. Por que me tomo todo en mi cuerpo ignorar mi propia negatividad para apostar en mi mismo. El mero hecho de que alguien lo pueda recibir mal destruye mis ganas de hacerlo y eso se me hace profundamente alarmante.
 El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para no hacerlo. Aún así, yo me arriesgo. 
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 

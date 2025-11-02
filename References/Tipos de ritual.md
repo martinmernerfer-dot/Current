@@ -3,4 +3,10 @@ Status: #referencias
 Tags: [[Rituales]]
 
 -----
-La filosofia confuicionsista de Xunzi entiende dos tipos de ritual 
+La filosofía confucionista de Xunzi entiende dos tipos de ritual.
+
+Li "Ritual" (禮) - Rituales "sociales": Son rituales que mantienen el orden y la jerarquía social. Se usan para distinguir personas (como joven/viejo) y para organizar la sociedad.
+I.E. Saludar de la mano, ceremonias de funerales etc.
+
+Yue "Música" (樂) - Rituales "expresivos": Estos rituales se usan para canalizar energías de manera ordenada y constructiva. 
+rITUAL 

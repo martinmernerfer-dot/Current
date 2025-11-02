@@ -28,10 +28,9 @@ Esto se trata sobre la tension de
  
  Nos la pasamos cultivando la identidad ideal, a veces cuesta tremendamente convencerse a uno mismo y después ser malinterpretado puede ser muy doloroso. 
 
-
-
 Participación a medias.
 -- 
+Theodore Roosevelt tiene un fa
 
 
 

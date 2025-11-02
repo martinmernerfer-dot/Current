@@ -20,13 +20,10 @@ El dolor de ser mal percibido.
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
 
-Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos.
+Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Para bien o para esta tensión es absolutamente necesaria. Quien eres no es un monologo, sino un dialogo con el mundo. Cuano
 
-Esto se trata sobre la tension de 
 
- 
- 
- Nos la pasamos cultivando la identidad ideal, a veces cuesta tremendamente convencerse a uno mismo y después ser malinterpretado puede ser muy doloroso. 
+
 
 Participación a medias.
 -- 

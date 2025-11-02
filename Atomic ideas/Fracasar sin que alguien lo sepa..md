@@ -20,11 +20,7 @@ El dolor de ser mal percibido.
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
 
-Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Para bien o para esta tensión es absolutamente necesaria. Quien eres no es un monologo, sino un dialogo con el mundo. Cuano
-
-
-
-
+Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Para bien o para esta tensión es absolutamente necesaria. Quien eres no es un monologo, sino un dialogo con el mundo. Si no expones como quieres ser percibido, quizás realmente no lo seas.  En realidad, mantener todo esto oculto puede ser una forma de protección. Pase todo este tiempo esperando a setnrime seguro, convencerme a mi mismo de esto que queria presentar al mundo antes de ser mal entendido
 Participación a medias.
 -- 
 Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar, a pesar de errar o fracasar. Lo que esta en juego no es triunfar/fracasar. De hecho es mas simple que eso, hay dos clases de personas esos que toman acción y ellos que solo observan. Uno de ellos son los que realmente importan. 

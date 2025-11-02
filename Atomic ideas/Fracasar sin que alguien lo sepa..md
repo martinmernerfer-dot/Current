@@ -29,7 +29,7 @@ Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento do
 
 ![[Screen-Shot-2021-10-03-at-9.25.11-PM.webp|500x500]]
 
-Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace parte del grupo que actúan. No realmente. Crear en secreto es un extraño limbo. No eres un observador (estás creando) pero no estas en el dialogo (nadie te observa).
+Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace parte del grupo que actúan. No realmente. Crear en secreto es un extraño limbo. No eres un observador (estás creando) pero no estas en el dialogo (nadie te observa). Rec
 
 
 --------------------

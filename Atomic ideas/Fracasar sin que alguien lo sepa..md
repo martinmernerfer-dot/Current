@@ -30,7 +30,8 @@ Esto se trata sobre la tension de
 
 Participación a medias.
 -- 
-Theodore Roosevelt tiene un fa
+Theodore Roosevelt tiene un famoso discurso, hay una parte muy poderosa -se trata sobre el "hombre en la arena". 
+>No es el critico quien cuenta (...) El reconocimiento pertenece al humano que esta en la arena, con el rostro desfigurado por el polvo, sudor y sangre (...) quien se esfuerza valientemente (...)
 
 
 

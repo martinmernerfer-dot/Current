@@ -35,6 +35,10 @@ Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace 
 what it says about the human experience
 Deja de controlar.
 --
+Es obvio leer esto y catalogarlo como producto de ser inseguro, tener falta de confianza o autoestima -no puede
+
+
+
 
 >You must learn to proceed without certainty
 

@@ -34,7 +34,7 @@ Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace 
 --------------------
 Deja de controlar.
 --
-Es obvio leer esto y catalogarlo como producto de ser inseguro, tener falta de confianza o autoestima -no puedo hacer nada al respecto. Pero esto no me parece accionable (no se que mierda). Mi entendimiento y capaz de actuar en torno a estas cosas cambió cuando aprendí que todo estos impulsos son estrategias para mantenerse seguro maquinadas por un cerebro muy estresado. 
+Es obvio leer esto y catalogarlo como producto de ser inseguro, tener falta de confianza o autoestima -no puedo hacer nada al respecto. Pero esto no me parece accionable (no se que mierda). Mi entendimiento y capacidad de actuar en torno a estas cosas cambió cuando aprendí que todo estos impulsos son estrategias para mantenerse seguro maquinadas por un cerebro muy estresado. 
 La mente imagina peligros en el impulso a protegerse. Soltar lo que nos es preciado es incierto, muy potencialmente doloroso y el instinto a mantenerse a salvo aberra lo que no conoce. Te convence que hacerse invisible es algo sabio para quedarse en la comodidad de lo poco que conoce. 
 
 ![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]

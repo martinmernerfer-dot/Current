@@ -44,17 +44,16 @@ Más que nadie, me toca aprender a saltar a lo desconocido. Estuve mucho tiempo 
 
 "Embarrasment is an underexplored emotion"
 
-La vergüenza es una herramienta poco utilizada y el sabor a arrepentimiento es muy familiar. 
+La vergüenza es una herramienta poco utilizada y el sabor a arrepentimiento es muy familiar. Parecemos ser victima de la vergüenza. Nos dejamos llevar por amenazas y el pánico, nos convencemos que 
 
-Lo bacán del fracaso.
--- 
+
 
 Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
 
 En fin
 -- 
 
-Suficiente racionalización. Espero que esta sea a ultima vez que lidiamos con este tema. Intentaré a abrirme al mundo -le mostraré lo q
+Suficiente racionalización. Espero que esta sea a ultima vez que lidiamos con este tema. Intentaré a abrirme al mundo -le mostraré lo que hago a algunos conocidos. 
 
 
 

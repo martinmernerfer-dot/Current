@@ -40,23 +40,21 @@ La mente imagina peligros en el impulso a protegerse. Soltar lo que nos es preci
 
 >You must learn to proceed without certainty
 
-Más que nadie, me toca aprender a saltar a lo desconocido. Estuve mucho tiempo esperando a sentirme preparado y solo tome la iniciativa cuando la incesante frustración de no estarlo se volvió demasiado. 
+Más que nadie, me toca aprender a saltar a lo desconocido. Estuve mucho tiempo esperando a sentirme preparado y solo tome la iniciativa cuando la incesante frustración de esperar tanto se volvió demasiado. 
 
 "Embarrasment is an underexplored emotion"
+
+La vergüenza es una herramienta poco utilizada y el sabor a arrepentimiento es muy familiar. 
 
 Lo bacán del fracaso.
 -- 
 
 Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
 
-Todo esto es una forma malgeniada de protegerse
--- 
-
-
 En fin
 -- 
 
-
+Suficiente racionalización. Espero que esta sea a ultima vez que lidiamos con este tema. Intentaré a abrirme al mundo -le mostraré lo q
 
 
 

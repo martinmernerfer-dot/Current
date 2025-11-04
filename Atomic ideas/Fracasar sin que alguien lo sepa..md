@@ -21,17 +21,17 @@ El dolor de ser mal percibido.
 
 A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
 
-Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Para bien o para esta tensión es absolutamente necesaria. Quien eres no es un monologo, sino un dialogo con el mundo. Si no expones como quieres ser percibido, quizás realmente no lo seas.  En realidad, mantener todo esto oculto puede ser una forma de protección. Pase todo este tiempo esperando a sentirme seguro, convencerme a mi mismo de esto que quería presentar al mundo antes de ser mal entendido, pero nunca llegará. Ahora estoy aquí, participando a medias. 
+Hay una tensión, entre lo que queremos ser y como somos vistos. Por que filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos. Para bien o para esta tensión es absolutamente necesaria. Quien eres no es un monologo, sino un dialogo con el mundo. Si no expones como quieres ser percibido, quizás realmente no lo seas.  
+En realidad, mantener todo esto oculto puede ser una forma de protección. Pase todo este tiempo esperando a sentirme seguro, convencerme a mi mismo de esto que quería presentar al mundo antes de ser mal entendido, pero nunca llegará. Ahora estoy aquí, participando a medias. 
 Participación a medias.
 -- 
-Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar, a pesar de errar o fracasar. Lo que esta en juego no es triunfar/fracasar. De hecho es mas simple que eso, hay dos clases de personas esos que toman acción y ellos que solo observan. Uno de ellos son los que realmente importan. 
+Theodore Roosevelt tiene este discurso, es largo y poderoso, hay un fragmento donde resalta el valor de quienes realmente se atreven a participar, a pesar de errar o fracasar. Lo que esta en juego no es triunfar/fracasar. De hecho es mas simple que eso, hay dos clases de personas: esos que toman acción y ellos que solo observan. Uno de ellos son los que realmente importan. 
 
 ![[Screen-Shot-2021-10-03-at-9.25.11-PM.webp|500x500]]
 
-Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace parte del grupo que actúan. No realmente. Crear en secreto es un extraño limbo. No eres un observador (estás creando) pero no estas en el dialogo (nadie te observa). Reconozco que esto es otra forma más de escudarse de lo malo. Pero al hacerlo también nos privamos de lo bueno, de cerrar el circuito y al final solo terminamos hiriendo al arte. Encontré que hay un limite a lo que puedes crear sin realmente arriesgarse, como Tambien a lo que puedes mejorar. Por algo se dice "el hierro con hierro se aguza".
+Hacer todo esto, responder al grito en un hobby que mantengo oculto, no te hace parte del grupo que actúan. No realmente. Crear en secreto es un extraño limbo. No eres un observador (estás creando) pero no estas en el dialogo (nadie te observa). Reconozco que esto es otra forma más de escudarse de lo malo. Pero al hacerlo también nos privamos de lo bueno, de cerrar el circuito y al final solo terminamos hiriendo al arte. Encontré que hay un limite a lo que puedes crear sin realmente arriesgarse, como Tambien a lo que puedes mejorar. Por algo se dice que el hierro aguza al hierro.
 
 --------------------
-what it says about the human experience
 Deja de controlar.
 --
 Es obvio leer esto y catalogarlo como producto de ser inseguro, tener falta de confianza o autoestima -no puedo hacer nada al respecto. Pero esto no me parece accionable (no se que mierda). Mi entendimiento y capaz de actuar en torno a estas cosas cambió cuando aprendí que todo estos impulsos son estrategias para mantenerse seguro maquinadas por un cerebro muy estresado. 

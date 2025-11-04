@@ -13,7 +13,4 @@ Tags: [[Mundano]]
 > you shouldn’t expect to enjoy time alone by default. The mistake people make is treating time alone differently from time spent with others. You wouldn’t necessarily arrange to see a friend and not plan on doing something, so you should take the same approach when dating yourself.
 
 - Tengo unas cosas más de hoy: 
-	- Desde que me baje del auto pensé en el suicidio. La tristeza es una monótono sonido, que viene de un instrumento que el viento sopla, justo fuera de camara.
-
-
-![[20251103_224530.png]]
+	- Desde que me baje del auto pensé en el suicidio. La tristeza es una monótono sonido, que viene de un instrumento y el viento siempre lo esta soplando, justo fuera de cámara. Pero cuando llegue a casa, saqué mis cartulinas y me puse a cortar. Hice un amigo -un osito usando pijama. 

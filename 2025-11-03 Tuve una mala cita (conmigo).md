@@ -14,4 +14,6 @@ Tags: [[Mundano]]
 
 - Tengo unas cosas más de hoy: 
 	- Desde que me baje del auto pensé en el suicidio. La tristeza es una monótono sonido, que viene de un instrumento y el viento siempre lo esta soplando, justo fuera de cámara. Pero cuando llegue a casa, saqué mis cartulinas y me puse a cortar. Hice un amigo -un osito usando pijama. 
-![[20251103_224530 1.png]]
+	
+
+![[20251103_224530.jpeg|Se llama Gertrudis y no es una asesina.]]

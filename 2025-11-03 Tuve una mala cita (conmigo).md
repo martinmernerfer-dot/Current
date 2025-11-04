@@ -14,4 +14,6 @@ Tags: [[Mundano]]
 
 - Tengo unas cosas más de hoy: 
 	- Desde que me baje del auto pensé en el suicidio. La tristeza es una monótono sonido, que viene de un instrumento que el viento sopla, justo fuera de camara.
-	- 
+
+
+![[20251103_224530.png]]

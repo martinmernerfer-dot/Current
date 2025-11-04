@@ -59,7 +59,18 @@ Suficiente racionalización. Espero que esta sea a ultima vez que lidiamos con e
 
 
 
+**Agujeros que veo:**
 
+1. **"Quizás ellos tienen mas resistencia mental y por eso se merecen estar en la arena"**
+    - Esto contradice TODO tu argumento. Acabas de decir que la diferencia no es merecer/no merecer, sino atreverse/no atreverse. Esta frase suena derrotista y fuera de lugar. O es irónica (pero no se lee así) o estás saboteando tu propio punto.
+2. **"no puedo hacer nada al respecto. Pero esto no me parece accionable (no se que mierda)"**
+    - Ese paréntesis rompe el tono. Si vas a ser coloquial, hazlo con convicción. Esto suena como si dudaras mientras escribes. ¿Qué intentas decir exactamente? Reescríbelo o sácalo.
+3. **"La vergüenza es una herramienta poco utilizada"**
+    - Esto necesita más desarrollo. ¿Cómo es una herramienta? Solo dices que puede ser un barómetro, pero luego saltas a "todo el mundo participaría si...". Falta el "entonces, ¿qué hago con la vergüenza?"
+4. **"Espero que esta sea la última vez que lidiamos con este tema"**
+    - ¿Quién es "lidiamos"? ¿Tú contigo misma? ¿Tú con tus lectores? Y como dije antes: tu argumento es que la tensión es continua, entonces esto suena como si quisieras que desaparezca el problema. ¿Es la última vez que lo racionalizas o la última vez que sientes miedo? Especifica.
+5. **Transición "Deja de controlar" → desarrollo**
+    - El subtítulo promete algo pero luego hablas de inseguridad y cerebros estresados. ¿Dónde está el "cómo soltar el control"? Hablas del problema pero no del acto de soltarlo.
 
 
 

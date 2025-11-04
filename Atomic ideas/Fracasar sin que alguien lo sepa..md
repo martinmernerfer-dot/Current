@@ -15,7 +15,6 @@ El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para n
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 
 -----------
-Why it matters
 El dolor de ser mal percibido.
 -- 
 ![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1 1.webp|500x284]]
@@ -38,17 +37,13 @@ Deja de controlar.
 Es obvio leer esto y catalogarlo como producto de ser inseguro, tener falta de confianza o autoestima -no puedo hacer nada al respecto. Pero esto no me parece accionable (no se que mierda). Mi entendimiento y capaz de actuar en torno a estas cosas cambió cuando aprendí que todo estos impulsos son estrategias para mantenerse seguro maquinadas por un cerebro muy estresado. 
 La mente imagina peligros en el impulso a protegerse. Soltar lo que nos es preciado es incierto, muy potencialmente doloroso y el instinto a mantenerse a salvo aberra lo que no conoce. Te convence que hacerse invisible es algo sabio para quedarse en la comodidad de lo poco que conoce. 
 
->You must learn to proceed without certainty
+![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]
 
 Más que nadie, me toca aprender a saltar a lo desconocido. Estuve mucho tiempo esperando a sentirme preparado y solo tome la iniciativa cuando la incesante frustración de esperar tanto se volvió demasiado. 
 
 "Embarrasment is an underexplored emotion"
 
-La vergüenza es una herramienta poco utilizada y el sabor a arrepentimiento es muy familiar. Parecemos ser victima de la vergüenza. Nos dejamos llevar por amenazas y el pánico, nos convencemos que 
-
-
-
-Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
+La vergüenza es una herramienta poco utilizada y el sabor a arrepentimiento es muy familiar. Parecemos ser victima de la vergüenza. Nos dejamos llevar por amenazas y el pánico, nos convencemos de mantener todo igual. Cuando la vergüenza puede ser un buen barómetro para ver com hemos crecido (potencialmente).  Como sea, todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Quizás ellos tienen mas resistencia mental y por eso se merecen esta en la arena.
 
 En fin
 -- 
@@ -72,10 +67,9 @@ Suficiente racionalización. Espero que esta sea a ultima vez que lidiamos con e
 
 
 
-
 Imagenes/citas que quiero usar:
 
 
 
 ![[Screenshot_20251028_183853_Firefox.jpg]]
-![[Screenshot_20251028_183442_Substack.jpg]]![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]
+![[Screenshot_20251028_183442_Substack.jpg]]

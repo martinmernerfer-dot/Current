@@ -40,7 +40,7 @@ La mente imagina peligros en el impulso a protegerse. Soltar lo que nos es preci
 
 >You must learn to proceed without certainty
 
-Más que nadie, me toca aprender a saltar a los desconocido. Estuve mucho tiempo esperando a sentirme preparado y solo tome la iniciativa cuando la incesante frustración de no estarlo se volvió demasiado. 
+Más que nadie, me toca aprender a saltar a lo desconocido. Estuve mucho tiempo esperando a sentirme preparado y solo tome la iniciativa cuando la incesante frustración de no estarlo se volvió demasiado. 
 
 "Embarrasment is an underexplored emotion"
 

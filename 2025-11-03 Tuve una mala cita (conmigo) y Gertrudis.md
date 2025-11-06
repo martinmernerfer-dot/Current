@@ -14,7 +14,7 @@ Tags: [[Mundano]]
 
 - Tengo unas cosas más de hoy: 
 	- Desde que me baje del auto pensé en el suicidio. La tristeza es una monótono sonido, que viene de un instrumento y el viento siempre lo esta soplando, justo fuera de cámara. Pero cuando llegue a casa, saqué mis cartulinas y me puse a cortar. Hice un amigo -un osito usando pijama. 
-	- Por más estúpido que sea, me ayudó. No pensé en el suicidio, ni en mi pena ni en lo que paso áyer. Además cuando me canse, simplemente salte al ensayo de fracasar en secreto y logre terminar ambos. 
+	- Por más estúpido que sea, me ayudó. No pensé en el suicidio, ni en mi pena ni en lo que paso ayer. Además cuando me canse, simplemente salte al ensayo de fracasar en secreto y logre terminar ambos. 
 	
 
 ![[20251103_224530.jpeg|Se llama Gertrudis y no es una asesina.]]

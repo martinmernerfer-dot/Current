@@ -10,6 +10,12 @@ Me temo que la vida ocurre y no me doy cuenta. Hay procesos, problemas o etapas 
 	- Rumiamos sobre los mismos mismos temas a diario. Los patrones de pensamiento se desarrollan y al final nos quedamos con solo un poco de capacidad mental capaz de concentrarse en cosas nuevas. 
 	- Resulta que es mentira. Igualmente, la idea principal tiene algo de cierto. 
 - Vivo en el mundo de mi cabeza. 
+	- Para alguien que disfruta tanto el conocimiento, descuide una dimensión completa de información. 
+
+Intención de poner más atención 
+--
+- Hace tiempo me propuse ser mas ritualista y aún no lo soy. Por que será? 
+	- 
 
 ------
 Alcanzar mejor vida

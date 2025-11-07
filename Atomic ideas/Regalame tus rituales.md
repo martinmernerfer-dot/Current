@@ -2,6 +2,7 @@
 Status: #Enproceso
 Tags: [[Ensayo]] [[Rituales]]
 
+No quier
 Mucho pasa desapercibido
 -- 
 Me temo que la vida ocurre y no me doy cuenta. Hay procesos, problemas o etapas que comienzan y terminan a nuestro alrededor constantemente. Todo esto ocurre sin ser advertido; recae en mi la responsabilidad de presenciarlo. La vida pasa y no vuelve. Por eso quiero estar más atento.

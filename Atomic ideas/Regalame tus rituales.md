@@ -21,6 +21,10 @@ Intención de poner más atención
 ------
 Alcanzar mejor vida
 --
+
+Hay una cosa que aún no puedo explicar yo mismo: cual es exactamente el punto en el que un hábito se diferencia de un ritual?
+
+
 - Xunzi. 
 - Otras fuentes.
 

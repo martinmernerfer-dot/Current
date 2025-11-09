@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"96a89e432373fa87","x":-920,"y":-1280,"width":270,"height":400,"type":"file","file":"Files and shit/0c273ab0-e466-4320-9702-66257d3c58a5_1931x2858.webp"},
+		{"id":"9f9818b4d0cfaea3","x":-600,"y":-1280,"width":300,"height":400,"type":"file","file":"Files and shit/43b6302b-6c9e-4789-b247-3a8236e3d295_1179x1572.webp"},
+		{"id":"189a4697c1148665","x":-920,"y":-720,"width":650,"height":506,"type":"file","file":"Files and shit/a284bd91-1c5f-4318-a338-0b0a9f5f3808_4255x3311.webp"}
+	],
+	"edges":[]
+}

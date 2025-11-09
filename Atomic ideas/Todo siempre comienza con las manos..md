@@ -17,4 +17,4 @@ Whereas in my sketchbook the possibilities are endless.”
 
 ---
  ***References 
-Steal like an artist chapt
+Steal like an artist.  chapter 4: Use your hands

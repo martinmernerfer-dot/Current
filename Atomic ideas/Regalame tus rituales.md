@@ -7,11 +7,7 @@ Mucho pasa desapercibido
 -- 
 Me temo que la vida ocurre y no me doy cuenta. Hay procesos, problemas o etapas que comienzan y terminan sin la cortesía de avisarnos. Todo esto ocurre sin ser advertido; recae en mi la responsabilidad de presenciarlo. La vida pasa y no vuelve. Por eso quiero estar más atento.
 
-Hace tiempo leí que el 90% de lo que pensamos durante el día es lo mismo del día anterior. 
-	- Rumiamos sobre los mismos mismos temas a diario. Los patrones de pensamiento se desarrollan y al final nos quedamos con solo un poco de capacidad mental capaz de concentrarse en cosas nuevas. 
-	- Resulta que es mentira. Igualmente, la idea principal tiene algo de cierto. 
-- Vivo en el mundo de mi cabeza. 
-	- Para alguien que disfruta tanto el conocimiento, descuide una dimensión completa de información. 
+Hace tiempo leí que el 90% de lo que pensamos durante el día es lo mismo del anterior. Rumiamos sobre los mismos mismos temas a diario  **default mode network**. En realidad esto es mentira, aunque solo parcialmente.  Es difícil calcular la cantidad de pensamientos, pero el cerebro recae en patrones y hábitos de pensamiento para ahorrar energía. Lo maravilloso que puede tener cada cosa se pierde fácilmente. 
 
 Intención de poner más atención 
 --

@@ -17,7 +17,7 @@ No se cuanto tiempo de mi vida he pasado desasociado, perdido en los bordes borr
 
 Necesito poner esfuerzo constante para que mi comentario mental sobre un evento no me distraiga de experimentarlo primero. En algún momento perdí la conexión con mi cuerpo y toda la dimensión de información que ofrece. Para alguien que valora tanto el conocimiento propio, me parece contraproducente. 
 
-Todos los días me levanto 
+Carl Jung saludaba a sus utensilios de cocina, le ponía nombres a las manchas en el mesón de su cocina. Por que 
 
 ------
 Alcanzar mejor vida

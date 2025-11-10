@@ -11,7 +11,11 @@ Hace tiempo leí que el 90% de lo que pensamos durante el día es lo mismo del a
 
 Intención de poner más atención 
 --
-No se cuanto tiempo de mi vida he pasado desasociado. Perdido, en los bordes borrosos de mi visión hasta que veo mis manos y me doy cuenta de que tengo un cuerpo físico. Vivo en mi cabeza. Necesito poner esfuerzo constante para que
+No se cuanto tiempo de mi vida he pasado desasociado, perdido en los bordes borrosos de mi visión. Cuando el mundo parece perder sus contornos y todo se disuelve en si mismo, los colores se mezclan en un mural inentendible. De pronto veo mismo manos y me recuerda que tengo un cuerpo físico. Existo casi exclusivamente en mi cabeza. 
+
+
+
+Necesito poner esfuerzo constante para que mi comentario mental sobre un evento no me distraiga de experimentarlo primero. 
 
 ------
 Alcanzar mejor vida

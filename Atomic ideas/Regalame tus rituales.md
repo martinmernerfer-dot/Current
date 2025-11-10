@@ -11,8 +11,7 @@ Hace tiempo leí que el 90% de lo que pensamos durante el día es lo mismo del a
 
 Intención de poner más atención 
 --
-- Hace tiempo me propuse ser mas ritualista y aún no lo soy. Por que será? 
-	- 
+No se cuanto tiempo de mi vida he pasado desasociado. Perdido, en los bordes borrosos de mi visión hasta que veo mis manos y me doy cuenta de que tengo un cuerpo físico. Vivo en mi cabeza. Necesito poner esfuerzo constante para que
 
 ------
 Alcanzar mejor vida

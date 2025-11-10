@@ -1,0 +1,2 @@
+- no es lo mismo que estar aislado
+- 

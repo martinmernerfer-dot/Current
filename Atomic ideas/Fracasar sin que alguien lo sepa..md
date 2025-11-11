@@ -1,80 +1,31 @@
-20251030 / 0911
-Status: #Enproceso 
-Tags: [[Ensayo]] 
+Cuando importa tanto que ni siquiera quiero que me vean. 
 
-Cuando importa tanto que ni siquiera quiero que lo vean. 
-
------
-Oculto mis esfuerzos. 
+*what happened*
 --
-He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que gasto mi tiempo en un hobby que mantengo estrictamente secreto (ya no -ojala-), 
-por que responde a un grito desesperado que esta enterrado dentro de mi espíritu. Me pase el fin de semana creando algo tan torpe, tierno e intimo que solo dejaría que alguien lo viera con la misma gentileza que rescatan a un perro callejero. Por que me tomo todo en mi cuerpo ignorar mi propia negatividad  para apostar en mi mismo. El mero hecho de que alguien lo pueda recibir mal destruye mis ganas de hacerlo y eso se me hace profundamente alarmante.
+He tenido muchas conversaciones donde alguien pregunta sobre mis pasatiempos y no digo la verdad. No por tener algún problema con esa persona -de hecho al mentir raramente ese es el caso. Es por que mantengo un proyecto secreto. Poco a poco trabajo en ello, en algo que guardo muy cercano a mi corazón, por que me recuerda a mis más grandes y locos sueños. Algo tan frágil que lo hace precioso. Unas ganas tan enterradas y desesperadas que  pierdo mi propio respeto al no acudir a su grito cada día. 
 El mero hecho de intentar me parece iluso. Lógicamente, hay más razones para no hacerlo. Aún así, yo me arriesgo. 
 Pero en realidad no tanto. Por que no me atrevo a fracasar en publico.
 
------------
-Why it matters
-El dolor de ser mal percibido.
+*why it matters*
 -- 
-![[substack_post_quote_479a0f31-8873-4096-8961-84e754aae67f_1.webp|500x284]]
+- Por que soy un tipo 5 y baso mi autoestima en como resultan mis proyectos. Y me encuentro en una especifica fricción, donde estoy orgulloso de atreverme, pero mi arte aún no esta donde quiero.
 
-A veces escondemos lo más precioso que tenemos por miedo a que los otros no lo aprecien tanto como nosotros. La verdad es que por más extensa explicación, no podemos controlar como otros perciben nuestros esfuerzos. Ser malinterpretado es naturaleza humana. 
-
-Hay una tensión, entre lo que queremos ser y como somos vistos. Filtramos el mundo a través de nuestra experiencia y no vemos las cosas como son, sino como somos.
-
-
-
-
-
-Participación a medias.
--- 
+	- Tengo mi casa de cartas y tu vienes a soplar? In my daughters wedding?
+	- Escuche en un podcast alguna vez, a la profe pau decir que queria haber practicado el piano desde chica. Poder decir "el piano es mi mejor amigo". No es lo mismo? 
+- Mantener una ruta de escape. Si intento y fallo esta bien, pues nadie lo sabe.  No es un problema. 
+	- Bueno, no es percibido como un problema (por alguna razon eso nos importa mucho) quizás lo hace un problema mucho mas real.
+	- Por que nos convencemos de que necesitamos estar listos para algo que realmente nunca termina. 
+	- La paradoja es que nunca sale por que no lo cree listo. pero si nunca sale nunca lo estara. 
+		- El crecimiento viene con la friccion. 
 
 
+Entonces, te escondes por que tienes miedo a que te vean fallar, a que juzgen tus habilidades antes de que llegues a tu peak a que los comentarios te bajen de la nube a la que tanto te esforzaste por llegar. 
 
---------------------
-what it says about the human experience
-Deja de controlar.
+Por que importa? por que pongo todo mi valor personal en como resulta esta cosa. Lamentablemente. Y no lo estoy haciendo bien no por que salga mal. Sino por que no lo muestro. 
+Arte sin friccion?
+
+*what it says about the human experience*
 --
-
->You must learn to proceed without certainty
-
-"Embarrasment is an underexplored emotion"
-
-Lo bacán del fracaso.
--- 
-
-Todo el mundo participaría si sabe con certeza que le irá bien, solo algunos se atreven a hacer algo y apestar. Esa clase de personas termina siendo buena. 
-
-Todo esto es una forma malgeniada de protegerse
--- 
-
-
-En fin
--- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Imagenes/citas que quiero usar:
-
-
-
-![[Screenshot_20251028_183853_Firefox.jpg]]
-![[Screenshot_20251028_183442_Substack.jpg]]![[b1880cd9-c839-4a6a-b56b-4b0157ea8a15_1100x1383.webp|Lili Seika Jones|500x629]]
+- El deseo a ser percibido/sentirse competente.
+- 
+When you fail at something you _have_ to do, it's just circumstance. When you fail at something you _chose_ to care about, it feels like it says something about who you are.

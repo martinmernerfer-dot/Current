@@ -275,16 +275,6 @@
 	],
 	"nodes":[
 		{
-			"id":"4cb0663e75433230",
-			"styleAttributes":{},
-			"text":"Cada día, tienes la oportunidad para tomar decisiones. Puedes elegir tus actitudes y acciones, dándole dirección a tu vida.",
-			"type":"text",
-			"x":-570,
-			"y":-840,
-			"width":260,
-			"height":227
-		},
-		{
 			"id":"2a409468d30f5cc5",
 			"styleAttributes":{},
 			"text":"El tiempo es una ilusion humana",
@@ -479,17 +469,6 @@
 			"height":60
 		},
 		{
-			"id":"c3eb69ae3e49987e",
-			"styleAttributes":{},
-			"text":"Disfrute sobre el placer",
-			"type":"text",
-			"x":830,
-			"y":491,
-			"width":260,
-			"height":60,
-			"color":"2"
-		},
-		{
 			"id":"cfa83a52b213c899",
 			"styleAttributes":{},
 			"text":"Mecanismos de la mente para mantenerse en control ",
@@ -619,6 +598,27 @@
 			"y":-128,
 			"width":260,
 			"height":164
+		},
+		{
+			"id":"c3eb69ae3e49987e",
+			"styleAttributes":{},
+			"text":"Disfrute sobre el placer",
+			"type":"text",
+			"x":800,
+			"y":480,
+			"width":260,
+			"height":60,
+			"color":"2"
+		},
+		{
+			"id":"4cb0663e75433230",
+			"styleAttributes":{},
+			"text":"Cada día, tienes la oportunidad para tomar decisiones. Puedes elegir tus actitudes y acciones, dándole dirección a tu vida.",
+			"type":"text",
+			"x":-520,
+			"y":-870,
+			"width":260,
+			"height":227
 		}
 	]
 }

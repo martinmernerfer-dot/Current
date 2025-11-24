@@ -282,7 +282,7 @@
 			"x":-570,
 			"y":-840,
 			"width":260,
-			"height":151
+			"height":227
 		},
 		{
 			"id":"2a409468d30f5cc5",
@@ -591,16 +591,6 @@
 			"height":60
 		},
 		{
-			"id":"a5215acfe4a85ee2",
-			"styleAttributes":{},
-			"text":"Si no lo quieres hacer y puedes optar a no hacerlo, no desperdíciesela vida en cosas.",
-			"type":"text",
-			"x":1320,
-			"y":-112,
-			"width":260,
-			"height":115
-		},
-		{
 			"id":"8ecd5be19cfabc26",
 			"styleAttributes":{},
 			"text":"Si lo quieres y puedes, dedícate a ello. ",
@@ -616,9 +606,19 @@
 			"text":"Si no se puede cambiar, es mejor aceptar. Sin resistencia encuentras paz.",
 			"type":"text",
 			"x":1320,
-			"y":-417,
+			"y":-440,
 			"width":260,
-			"height":100
+			"height":146
+		},
+		{
+			"id":"a5215acfe4a85ee2",
+			"styleAttributes":{},
+			"text":"Si no lo quieres hacer y puedes optar a no hacerlo, no desperdíciesela vida en cosas.",
+			"type":"text",
+			"x":1320,
+			"y":-128,
+			"width":260,
+			"height":164
 		}
 	]
 }

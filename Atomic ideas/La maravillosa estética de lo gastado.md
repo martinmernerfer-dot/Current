@@ -1,0 +1,1 @@
+Siempre he sentido una extraña vergüenza al usar zapatillas nuevas. Siento que aún no me pertenecen realmente. 

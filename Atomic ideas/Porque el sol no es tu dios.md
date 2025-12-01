@@ -4,6 +4,7 @@ Por una parte: Es una gigante bola de fuego que gira en el infinito negro del es
 
  "sobre viaje interplanetario pero no sobre religiones?" 
  "Nos pareció obvio."
+Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles pero en Egipto?
+Hay alguna religion actual que considere al sol como dios? como juzga?
 
-
-Por otra parte: Mi teoria h
+Por otra parte: Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  

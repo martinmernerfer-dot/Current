@@ -1,0 +1,1 @@
+en este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro obvio

@@ -7,19 +7,20 @@ Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles p
 Hay alguna religion actual que considere al sol como dios? como juzga?
 
 ## Por el otro: 
-Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  
+Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 
 
 Invención social o manifestación de la naturaleza humana. Todas las comunidades tienen alguna religión. La religión es una forma de explicar la incertidumbre y el caos del mundo. 
 
 >Dios no es mas que el espacio vacío dejado por el conocimiento. Henry Dummord
 
-Por eso mientras la ciencia avanza, la religión pierde relevancia. 
+Por eso mientras la ciencia avanza, la religión pierde relevancia. (y la idea de que el sol no es nuestro dios)
 
 El cielo necesita del infierno para ser convincente. Toda religión intenta crear una imagen idílica del cielo pero la felicidad es relativa. La idea del cielo no puede ser atractiva para todos sin la alternativa del sufrimiento eterno en el infierno. (Viste que necesitamos juzgar)
 
 >Somos tan vacíos, los seres humanos, que a veces disfrutamos del cielo no por sus virtudes intrínsecas, sino simplemente porque sabemos que otros están en el infierno. *Por que se inventó el cielo y el infierno.*
 
 La alegría que promete el cielo no es suficiente por sí misma. El cielo es convincente al considerar el contraste con las consecuencias negativas y la *satisfacción de que la existencia muestra alguna clase de justicia.* 
+
 
 Entonces
 - [ ] ¿Como desaparecieron las religiones del sol?

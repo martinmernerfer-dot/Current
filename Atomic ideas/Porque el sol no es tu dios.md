@@ -10,4 +10,9 @@ Hay alguna religion actual que considere al sol como dios? como juzga?
 Por otra parte: Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  
 
 
-Invención social o manifestación de la naturaleza humana. Todas las comunidades tienen alguna religión.
+Invención social o manifestación de la naturaleza humana. Todas las comunidades tienen alguna religión. La religión es una forma de explicar la incertidumbre y el caos del mundo. 
+
+>Dios no es mas que el espacio vacío dejado por el conocimiento. Henry Dummord
+
+Por eso mientras la ciencia avanza, la religión pierde relevancia. 
+

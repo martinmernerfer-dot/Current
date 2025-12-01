@@ -16,3 +16,5 @@ Invención social o manifestación de la naturaleza humana. Todas las comunidade
 
 Por eso mientras la ciencia avanza, la religión pierde relevancia. 
 
+El cielo y el infierno estan 
+

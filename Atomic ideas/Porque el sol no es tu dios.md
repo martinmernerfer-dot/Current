@@ -16,5 +16,7 @@ Invención social o manifestación de la naturaleza humana. Todas las comunidade
 
 Por eso mientras la ciencia avanza, la religión pierde relevancia. 
 
-El cielo necesita del infierno para ser convincente. Toda religión intenta crear una imagen idílica del cielo pero la felicidad es relativa. La idea de un cielo perfe
+El cielo necesita del infierno para ser convincente. Toda religión intenta crear una imagen idílica del cielo pero la felicidad es relativa. La idea del cielo no puede ser atractiva para todos sin la alternativa del sufrimiento eterno en el infierno. (Viste que necesitamos juzgar)
+
+>>Somos tan vacíos, los seres humanos, que a veces disfrutamos del cielo no por sus virtudes intrínsecas, sino simplemente porque sabemos que otros están en el infierno.
 

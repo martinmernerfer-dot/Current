@@ -17,8 +17,9 @@ Por eso mientras la ciencia avanza, la religión pierde relevancia.
 
 El cielo necesita del infierno para ser convincente. Toda religión intenta crear una imagen idílica del cielo pero la felicidad es relativa. La idea del cielo no puede ser atractiva para todos sin la alternativa del sufrimiento eterno en el infierno. (Viste que necesitamos juzgar)
 
->Somos tan vacíos, los seres humanos, que a veces disfrutamos del cielo no por sus virtudes intrínsecas, sino simplemente porque sabemos que otros están en el infierno. *Por que se inventó el cielo y el infierno.
+>Somos tan vacíos, los seres humanos, que a veces disfrutamos del cielo no por sus virtudes intrínsecas, sino simplemente porque sabemos que otros están en el infierno. *Por que se inventó el cielo y el infierno.*
 
+La alegría que promete el cielo no es suficiente por sí misma. El cielo es convincente al considerar el contraste con las consecuencias negativas y la *satisfacción de que la existencia muestra alguna clase de justicia.* 
 
 Entonces
 - [ ] ¿Como desaparecieron las religiones del sol?

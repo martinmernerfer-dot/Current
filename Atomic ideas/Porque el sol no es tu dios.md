@@ -6,6 +6,8 @@ Es una gigante bola de fuego que gira en el infinito negro del espacio, en el ce
 Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles pero en Egipto?
 Hay alguna religion actual que considere al sol como dios? como juzga?
 
+
+
 ## Por el otro: 
 Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 
 
@@ -26,11 +28,14 @@ Entonces
 - [x] ¿Como desaparecieron las religiones del sol?
 
 Todavía existen religiones que veneran el sol.  La secta del Saura en el hinduismo tiene al sol como la deidad más importante. Alguna parte de los japoneses consideran a la diosa Amaterasu (representación del sol) el ente ancestral de todos los emperadores. 
+
+Entre las religiones mas practicadas (cristianos, judíos e islámicos) consideran que el sol es solo una parte de la creación de dios. 
  
 - [x] ¿De donde viene la necesidad a una religión?
 - [ ] Por que necesitamos el incentivo de ser juzgados.
 1. ¿Se trata de justicia?
 2. ¿No era suficiente con usar la razón?
+3. 
 
 
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 

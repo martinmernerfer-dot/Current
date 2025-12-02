@@ -40,9 +40,10 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 1. ¿Se trata de justicia?
 	1. La esperanza de que el bien sea recompensado y el mal tenga consecuencias asignadas por alguien *externo*. Sobre todo ahora, se premian los valores que siempre se han considerados no virtuosos. 
 	2. Poder soportar *hardship* con la fe de que los agresores serán castigados por una fuerza absoluta -eventualmente. 
-2. ¿No era suficiente con usar la razón?
+2. ¿No era suficiente con usar la razón? Al parecer no
 	1. Por que elegir actuar bien si al final a nadie mas le importa? De hecho, nosotros inventamos lo que es actuar bien. Quizás se conecta con lo de ahora y la prevalencia de la maldad. 
-3. 
+
+- [ ] Okay. El sol no "juzga" pero otras dioses tampoco (que yo sepa). Realmente no me hace sentido.
 
 
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 
@@ -51,7 +52,7 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
  "Nos pareció obvio."
 "pero el sol si los juzga y exactamente por que no veneraron la tierra y la vida que provee"
 
---- Me pareceria interesante incluir distintas citas de biblias al rededor de esta reflexión.
+--- Me parecería interesante incluir distintas citas de biblias al rededor de esta reflexión.
 
 **Eclesiastés 12:14**
 
@@ -72,3 +73,6 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 > «El cielo reduce lo que es excesivo y completa lo que es incompleto.»
 > y quien haya hecho el peso de un átomo de mal lo verá.»
 
+**Platón, Gorgias 523a (sobre el juicio después de la muerte)**
+
+> «Las almas son juzgadas desnudas, sin nada que oculte sus acciones.»

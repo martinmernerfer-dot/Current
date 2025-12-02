@@ -50,3 +50,25 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
  "¿conocen sobre viaje interplanetario pero no sobre religiones?" 
  "Nos pareció obvio."
 "pero el sol si los juzga y exactamente por que no veneraron la tierra y la vida que provee"
+
+--- Me pareceria interesante incluir distintas citas de biblias al rededor de esta reflexión.
+
+**Eclesiastés 12:14**
+
+> «Porque Dios traerá toda obra a juicio, juntamente con toda cosa encubierta, sea buena o sea mala.»
+
+**Salmo 89:14 (versión judía)**
+
+> «Justicia y derecho son la base de Tu trono; misericordia y verdad van delante de Ti.»
+
+**Corán 99:6–8 (Az-Zalzalah)**
+
+> «Ese día, los seres humanos saldrán en grupos para ver sus obras.  
+> Quien haya hecho el peso de un átomo de bien lo verá,  
+>
+
+**Tao Te Ching 77**
+
+> «El cielo reduce lo que es excesivo y completa lo que es incompleto.»
+> y quien haya hecho el peso de un átomo de mal lo verá.»
+

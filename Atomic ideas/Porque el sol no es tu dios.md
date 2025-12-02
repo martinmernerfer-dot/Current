@@ -1,7 +1,7 @@
 # En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios?
 
 ## Por un un lado:  
-Es una gigante bola de fuego que gira en el infinito negro del espacio, en el centro de nuestro universo. La luz que genera literalmente permite que todo *viva*. Si muriera, seria en una explosión que nos llevaría con el al vacío. El sol tienes las mas obvias características de ser *nuestro dios*. 
+Es una gigante bola de fuego que gira en el infinito negro del espacio, en el centro de nuestro galaxia. La luz que genera literalmente permite que todo *viva*. Si muriera, seria en una explosión que nos llevaría con el al vacío. El sol tienes las mas obvias características de ser *nuestro dios*. 
 
 Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles pero en Egipto?
 Hay alguna religion actual que considere al sol como dios? como juzga?
@@ -30,5 +30,6 @@ Entonces
 
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 
 
- "sobre viaje interplanetario pero no sobre religiones?" 
+ 
+ "¿conocen sobre viaje interplanetario pero no sobre religiones?" 
  "Nos pareció obvio."

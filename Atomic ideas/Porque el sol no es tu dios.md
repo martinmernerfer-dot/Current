@@ -1,9 +1,9 @@
-# En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios?
+# En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios? En realidad no es un análisis de todas las religiones. Quiero ponderar por que el humano parece necesitar a alguien que lo juzgue. 
 
 ## Por un un lado:  
 Es una gigante bola de fuego que gira en el infinito negro del espacio, en el centro de nuestro galaxia. La luz que genera literalmente permite que todo *viva*. Si muriera, seria en una explosión que nos llevaría con el al vacío. El sol tienes las mas obvias características de ser *nuestro dios*. 
 
-Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles pero en Egipto?
+Por una una parte: La relevancia teologica del sol esta asociada primariamente a culturas primitivas. Murió con la llegada de los españoles pero en Egipto?
 Hay alguna religion actual que considere al sol como dios? como juzga?
 
 En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
@@ -11,7 +11,7 @@ En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y lueg
 ## Por el otro: 
 Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 
 
->>_Cuando la noche lo cubrió, vio a una estrella. Dijo: “¡Éste es mi Señor!”. Mas cuando desapareció, dijo: “No me gustan los que desaparecen”. Cuando vio a la luna levantarse con su clara luz, dijo: “éste es mi Señor”. Pero cuando se puso, dijo: “Si mi Señor no me guía me contaré ciertamente entre los hombres que se extravían”. Y cuando vio al Sol levantarse con su esplendorosa luz, dijo: “éste es mi Señor, éste es el más grande”. Pero cuando se puso, dijo: “¡Oh, pueblo mío!, no soy en verdad responsable de lo que asociáis a Dios”; “He dirigido mi rostro hacia Él, el Creador de los cielos y la tierra, estando siempre inclinado ante Dios y no siendo de los que asocian otros dioses a Dios.”_ (Sagrado Corán,  6: 77-80)
+>>_Cuando la noche lo cubrió, vio a una estrella. Dijo: “¡Éste es mi Señor!”. Mas cuando desapareció, dijo: “No me gustan los que desaparecen”. Cuando vio a la luna levantarse con su clara luz, dijo: “éste es mi Señor”. Pero cuando se puso, dijo: “Si mi Señor no me guía me contaré ciertamente entre los hombres que se extravían”. Y cuando vio al Sol levantarse con su esplendorosa luz, dijo: “éste es mi Señor, éste es el más grande”. Pero cuando se puso, dijo: “¡Oh, pueblo mío!, no soy en verdad responsable de lo que asociáis a Dios”; “He dirigido mi rostro hacia Él, el Creador de los cielos y la tierra, estando siempre inclinado ante Dios y no siendo de los que asocian otros dioses a Dios.”_ [(Sagrado Corán,  6: 77-80)](https://es.reviewofreligions.org/la-adoracion-antigua-del-sol/)
 
 los cuerpos que se ubicaban debajo del horizonte no podían ejercer su influencia continuamente sobre el hombre, mientras que el Creador era (y es) Omnipresent
 

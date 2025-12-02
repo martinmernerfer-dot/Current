@@ -38,7 +38,7 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 - [x] ¿De donde viene la necesidad a una religión?
 - [ ] Por que necesitamos el incentivo de ser juzgados.
 1. ¿Se trata de justicia?
-	1. La esperanza de que el bien sea recompensado y el mal tenga consequencias. 
+	1. La esperanza de que el bien sea recompensado y el mal tenga consecuencias asignadas por alguien *externo*. Sobre todo ahora, se premian los valores que siempre se han considerados no virtuosos. 
 2. ¿No era suficiente con usar la razón?
 3. 
 

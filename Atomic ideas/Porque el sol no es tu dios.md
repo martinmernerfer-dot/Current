@@ -6,10 +6,14 @@ Es una gigante bola de fuego que gira en el infinito negro del espacio, en el ce
 Por una una parte: Antes lo hacíamos. Murió con la llegada de los españoles pero en Egipto?
 Hay alguna religion actual que considere al sol como dios? como juzga?
 
-
+En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
 
 ## Por el otro: 
 Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 
+
+>>_Cuando la noche lo cubrió, vio a una estrella. Dijo: “¡Éste es mi Señor!”. Mas cuando desapareció, dijo: “No me gustan los que desaparecen”. Cuando vio a la luna levantarse con su clara luz, dijo: “éste es mi Señor”. Pero cuando se puso, dijo: “Si mi Señor no me guía me contaré ciertamente entre los hombres que se extravían”. Y cuando vio al Sol levantarse con su esplendorosa luz, dijo: “éste es mi Señor, éste es el más grande”. Pero cuando se puso, dijo: “¡Oh, pueblo mío!, no soy en verdad responsable de lo que asociáis a Dios”; “He dirigido mi rostro hacia Él, el Creador de los cielos y la tierra, estando siempre inclinado ante Dios y no siendo de los que asocian otros dioses a Dios.”_ (Sagrado Corán,  6: 77-80)
+
+los cuerpos que se ubicaban debajo del horizonte no podían ejercer su influencia continuamente sobre el hombre, mientras que el Creador era (y es) Omnipresent
 
 Invención social o manifestación de la naturaleza humana. Todas las comunidades tienen alguna religión. La religión es una forma de explicar la incertidumbre y el caos del mundo. 
 

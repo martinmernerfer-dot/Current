@@ -40,6 +40,7 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 1. ¿Se trata de justicia?
 	1. La esperanza de que el bien sea recompensado y el mal tenga consecuencias asignadas por alguien *externo*. Sobre todo ahora, se premian los valores que siempre se han considerados no virtuosos. 
 2. ¿No era suficiente con usar la razón?
+	1. Por que elegir actuar bien si al final a nadie mas le importa? De hecho, nosotros inventamos lo que es actuar bien. Quizás se conecta con lo de ahora y la prevalencia de la maldad. 
 3. 
 
 
@@ -47,3 +48,4 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 
  "¿conocen sobre viaje interplanetario pero no sobre religiones?" 
  "Nos pareció obvio."
+"pero el sol si los juzga y exactamente por que no veneraron la tierra y la vida que provee"

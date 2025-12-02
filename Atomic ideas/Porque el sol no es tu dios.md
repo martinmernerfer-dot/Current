@@ -24,12 +24,16 @@ La alegría que promete el cielo no es suficiente por sí misma. El cielo es con
 
 Entonces
 - [x] ¿Como desaparecieron las religiones del sol?
-Todavía existen religiones que veneran el sol.  La secta del Saura en el hinduismo tiene al sol como la deidad más importante.
+
+Todavía existen religiones que veneran el sol.  La secta del Saura en el hinduismo tiene al sol como la deidad más importante. Alguna parte de los japoneses consideran a la diosa Amaterasu (representación del sol) el ente ancestral de todos los emperadores. 
+ 
 - [x] ¿De donde viene la necesidad a una religión?
+- [ ] Por que necesitamos el incentivo de ser juzgados.
+1. ¿Se trata de justicia?
+2. ¿No era suficiente con usar la razón?
 
 
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 
 
- 
  "¿conocen sobre viaje interplanetario pero no sobre religiones?" 
  "Nos pareció obvio."

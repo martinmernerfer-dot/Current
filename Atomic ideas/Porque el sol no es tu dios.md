@@ -1,4 +1,5 @@
-# En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios? En realidad no es un análisis de todas las religiones. Quiero ponderar por que el humano parece necesitar a alguien que lo juzgue. 
+# Me parece obvio.
+En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios? En realidad no es un análisis de todas las religiones. Quiero ponderar por que el humano parece necesitar a alguien que lo juzgue. 
 
 ## Por un un lado:  
 Es una gigante bola de fuego que gira en el infinito negro del espacio, en el centro de nuestro galaxia. La luz que genera literalmente permite que todo *viva*. Si muriera, seria en una explosión que nos llevaría con el al vacío. El sol tienes las mas obvias características de ser *nuestro dios*. 
@@ -44,6 +45,8 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 	1. Por que elegir actuar bien si al final a nadie mas le importa? De hecho, nosotros inventamos lo que es actuar bien. Quizás se conecta con lo de ahora y la prevalencia de la maldad. 
 
 - [ ] Okay. El sol no "juzga" pero otras dioses tampoco (que yo sepa). Realmente no me hace sentido.
+- [ ] Aún no tengo claro que descalifica al sol como un dios contemporáneo. Quiero tener más claro por que el humano parece necesitar el "juicio final" divino.
+- [ ] 
 
 
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 

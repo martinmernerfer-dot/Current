@@ -52,8 +52,8 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 ## Eventualmente esta reflexión sera interpretada por condorito y algún alien: 
 
  "¿conocen sobre viaje interplanetario pero no sobre religiones?" 
- "Nos pareció obvio. Dios es el sol. ¿Ustedes no veneran el suyo?"
- "Es como arcaico. La mayoría aquí son católicos"
+ "Nos pareció obvio. Es la gigante bola de fuego que da vida a todo lo que la orbita. Dios es el sol."
+ "
 "pero el sol si los juzga y exactamente por que no veneraron la tierra y la vida que provee"
 
 --- Me parecería interesante incluir distintas citas de biblias al rededor de esta reflexión.

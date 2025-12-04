@@ -80,3 +80,5 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 **Platón, Gorgias 523a (sobre el juicio después de la muerte)**
 
 > «Las almas son juzgadas desnudas, sin nada que oculte sus acciones.»
+
+Ya no necesitarás que el sol te alumbre de día, ni que la luna te alumbre de noche, porque yo, el Señor, seré tu luz eterna; yo, tu Dios, seré tu esplendor.

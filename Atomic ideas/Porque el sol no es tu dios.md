@@ -14,6 +14,11 @@ Antes de esa revolución, la mayoría de las religiones estaban basadas en deida
 "El Sol se convirtió en un dios porque era una **fuente básica, universal y abundante de vida**", explicó Carenini al programa _The Forum_, del Servicio Mundial de la BBC.
 
 "Era algo que todos conocían y a lo que la gente le rezaba para que hiciera buen tiempo y tuvieran una cosecha abundante, y le rendían tributo cuando los iluminaba".
+
+![[_127162005_gettyimages-624465836.jpg.webp|"El faraón Akenatón, por ejemplo, creó la primera religión monoteísta de la que tenemos conocimiento. Transformó un dios local -Atón- en un dios supremo, la manera ideal para representar su autoridad como rey".|500x500]]
+
+
+
 ## La necesidad de un juicio divino
 
 Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 

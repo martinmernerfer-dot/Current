@@ -9,6 +9,11 @@ Hay alguna religion actual que considere al sol como dios? como juzga?
 
 En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
 
+Antes de esa revolución, la mayoría de las religiones estaban basadas en deidades locales, como las montañas o animales de la región, señala la filósofa[ Emma Carenini](https://www.bbc.com/mundo/noticias-63260190), pero después el Sol tomó un papel predominante.
+
+"El Sol se convirtió en un dios porque era una **fuente básica, universal y abundante de vida**", explicó Carenini al programa _The Forum_, del Servicio Mundial de la BBC.
+
+"Era algo que todos conocían y a lo que la gente le rezaba para que hiciera buen tiempo y tuvieran una cosecha abundante, y le rendían tributo cuando los iluminaba".
 ## La necesidad de un juicio divino
 
 Los humanos necesitan algo que los juzgue. A pesar de que el sol cumpla con todas las características de un dios, le falta personalidad para crear una doctrina.  Por ende, no es una entidad que responda a plegarias -aunque un dios convencional tampoco lo hace. 
@@ -81,4 +86,5 @@ Entre las religiones mas practicadas (cristianos, judíos e islámicos) consider
 
 > «Las almas son juzgadas desnudas, sin nada que oculte sus acciones.»
 
-Ya no necesitarás que el sol te alumbre de día, ni que la luna te alumbre de noche, porque yo, el Señor, seré tu luz eterna; yo, tu Dios, seré tu esplendor.
+*Isaías 60:19-20*
+>«Ya no necesitarás que el sol te alumbre de día, ni que la luna te alumbre de noche, porque yo, el Señor, seré tu luz eterna; yo, tu Dios, seré tu esplendor.

@@ -11,5 +11,8 @@ Me parece obvio
 Si se me permite. Un outline corto:
 
 Me parece logico.
-- Akhenaten "El primer individuo"
-- Otras culturas también lo hicieron. El
+- Akhenaten "El primer individuo" Saco a este hombre por que quiero usar los himnos a aten. 
+- Otras culturas también lo hicieron. El sol es una fuente innegable de fuerza universal y abundante de vida. 
+- La narrativa del sol. 
+La ciencia le quita la gracia. 
+- 

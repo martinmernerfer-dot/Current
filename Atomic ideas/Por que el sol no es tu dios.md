@@ -10,9 +10,11 @@ Me parece obvio
 
 Si se me permite. Un outline corto:
 
-Me parece logico.
+Me parece logico. (Antes se hacia)
 - Akhenaten "El primer individuo" Saco a este hombre por que quiero usar los himnos a aten. 
 - Otras culturas también lo hicieron. El sol es una fuente innegable de fuerza universal y abundante de vida. 
-- La narrativa del sol. 
-La ciencia le quita la gracia. 
+- La narrativa del sol. En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
+La ciencia le quita la gracia. (Como/cuando dejo de hacerse)
+- 
+La verdad es que no cumple un requisito (queremos ser juzgados)
 - 

@@ -15,6 +15,7 @@ Me parece logico. (Antes se hacia)
 - Otras culturas también lo hicieron. El sol es una fuente innegable de fuerza universal y abundante de vida. 
 - La narrativa del sol. En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
 La ciencia le quita la gracia. (Como/cuando dejo de hacerse)
-- 
+- Imperios caen. religion también. Se reemplazan con otros. 
+- Cambio la forma en la que se relaciona con el mundo. La religión se baso en cosas abstractas, ju
 La verdad es que no cumple un requisito (queremos ser juzgados)
 - 

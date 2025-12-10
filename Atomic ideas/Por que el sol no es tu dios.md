@@ -5,4 +5,4 @@ Me parece obvio
 - El sol es la entidad mas poderosa factualmente comprobable.  Me parece obvio, que podríamos llamarla Dios. Aunque nunca podría ponerlo tan claro como el faraón Akhenaten. 
   >When you have dawned they live.  When you set they die;  You yourself are lifetime, one lives by you.  All eyes are on your beauty until you set.  All labor ceases when you rest in the west;  When you rise you stir everyone for the King,  Every leg is on the move since you founded the Earth.  You rouse them for your son who came from your body
 
-	El hombre estaba fanatizado por la deidad *aten* -se consideraba elegido 
+	El hombre estaba fanatizado por la deidad *aten* -se consideraba su único apóstol. En su reinado, separó a Egipto de sus creencias *pluriteistas* y por un momento, mantuvo una de las primeras relgiones monoteistas.  

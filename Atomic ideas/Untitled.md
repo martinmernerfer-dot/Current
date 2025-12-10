@@ -1,3 +1,3 @@
 Me parece obvio
 -- 
-La relevancia teológica del sol esta asociada primariamente 
+- Dios, divino y deidad provienen del latín *deiwos* "resplandeciente" "cielo". 

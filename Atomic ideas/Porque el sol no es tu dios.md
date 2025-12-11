@@ -1,5 +1,7 @@
 # Me parece obvio.
 
+Dios, divino y deidad provienen del latín *deiwos*, osea "resplandeciente" "cielo".  El sol es una gigante bola de fuego que gira en el infinito negro del espacio. La luz que genera permite que todo *viva*. Si muriera, seria en una brutal explosion que nos llevaría con el al vacío. 
+
 En este ensayo busco explorar una pregunta que siempre me ha perturbado: ¿Por que el sol no es nuestro dios? En realidad no es un análisis de todas las religiones. Quiero ponderar por que el humano parece necesitar a alguien que lo juzgue. 
 Es una gigante bola de fuego que gira en el infinito negro del espacio, en el centro de nuestro galaxia. La luz que genera literalmente permite que todo *viva*. Si muriera, seria en una explosión que nos llevaría con el al vacío. El sol tienes las mas obvias características de ser *nuestro dios*. 
 ## Antes lo hacíamos 

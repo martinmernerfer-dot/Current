@@ -16,6 +16,7 @@ Me parece logico. (Antes se hacia)
 - La narrativa del sol. En el culto egipcio, Horus es el Sol naciente, Ra es el Sol del mediodía y luego Osiris (dios de los muertos) es el Sol moribundo o poniente.
 La ciencia le quita la gracia. (Como/cuando dejo de hacerse)
 - Imperios caen. religion también. Se reemplazan con otros. 
-- Cambio la forma en la que se relaciona con el mundo. La religión se baso en cosas abstractas, ju
-La verdad es que no cumple un requisito (queremos ser juzgados)
+- Cambio la forma en la que se relaciona con el mundo. La religion debía responder a las necesidades de sociedades que estaban en crecimiento. Los dioses necesitaban dar orden, convertirse en jueces o reyes. 
+- La verdad es que no cumple un requisito, no tiene personalidad. 
+Por que se necesita a alguien que juzga. 
 - 

@@ -9,7 +9,7 @@ Por que el desgaste muestra una historia. El ponerle atención puede llevarme a 
 -----
 Contar historias sin palabras
 --
-El deterioro es prueba de que algo existe. Cuenta 
+El deterioro es prueba de que algo existe. 
 
 
 

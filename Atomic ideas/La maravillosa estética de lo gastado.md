@@ -9,17 +9,13 @@ Por que el desgaste muestra una historia. El ponerle atención puede llevarme a 
 -----
 Contar historias sin palabras
 --
-El deterioro es prueba de que algo existe. 
-
-
-
+El deterioro es prueba de algo existe. Las cicatrices son historias. Cada marca es un símbolo completamente único, cada una cuenta una historia. Por eso esta estética se siente "cozy" es familiar y comunica un pasado con la cantidad perfecta de pistas. El cerebro es bueno para notar patrones, naturalmente rellena el espacio con alguna narrativa. A veces veo cosas que me hacen recordar cosas que ni siquiera he hecho con cariño. Estas cosas emanan nostalgia. Parte de mi cree que los objetos se cargan de *algo* como si les pusiéramos mas color o importancia. Me parece que las cosas tienen alma, pero nosotros lo hacemos más aparente. Luego, las cosas cuentan su propia historia.
 
 Todo muere, nada es perfecto
 --
-
 Hace unos días, mis vecinos repintaron su reja. La pintura blanca estaba fresca -brillaba reflejando el sol. Un tipo con un *bucket hat and baggy pants* paso frente a la casa y se devolvió estupefacto al ver la frescura de la reja. Rápidamente busco en su mochila y sacó un plumón grueso para hacer su ridículo tag. Cuando guardaba su plumón notó que lo observaba y mientras se iba me dijo "era muy blanco para ser puro"
+Independiente si fue correcto -aunque mi vecino lo mereciera por tapar mi estacionamiento- lo que dijo este sujeto quedo rebotando en mi cabeza ¿La pulcritud puede ser impura? 
 
-- El espectador se convence de que las cosas existen con cierta permanencia. 
 
 El ciclo de la vida
 --

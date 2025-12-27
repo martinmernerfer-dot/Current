@@ -14,9 +14,8 @@ El deterioro es prueba de algo existe. Las cicatrices son historias. Cada marca 
 Todo muere, nada es perfecto
 --
 Hace unos días, mis vecinos repintaron su reja. La pintura blanca estaba fresca -brillaba reflejando el sol. Un tipo con un *bucket hat and baggy pants* paso frente a la casa y se devolvió estupefacto al ver la frescura de la reja. Rápidamente busco en su mochila y sacó un plumón grueso para hacer su ridículo tag. Cuando guardaba su plumón notó que lo observaba y mientras se iba me dijo "era muy blanco para ser puro"
-Independiente si fue correcto -aunque mi vecino lo mereciera por tapar mi estacionamiento- lo que dijo este sujeto quedo rebotando en mi cabeza. Creo que intento decir que era muy blanca para ser autentica. Es iluso mantener la reja de una casa tan limpia. Quizás nunca deberia estar tan limpia, si hay gente que habita alrededor. 
-
-
+Independiente si fue correcto -aunque mi vecino lo mereciera por tapar mi estacionamiento- lo que dijo este sujeto quedo rebotando en mi cabeza. Creo que intento decir que era muy blanca para ser autentica. Es iluso mantener la reja de una casa tan limpia. Quizás nunca debería estar tan limpia, si hay gente que habita alrededor. 
+Estudiando esto aprendí sobre la "la poesía de los espacios" de Gastón Bachelard. En el libro, explica algo que me parece especialmente pertinente a esto de la reja (sobre todo por que todo el libro sobre la filosofía de cada parte de la casa) . Explica que las imperfecciones son las marcas a las que nos afirmamos con 
 
 El ciclo de la vida
 --

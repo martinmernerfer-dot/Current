@@ -25,8 +25,11 @@ En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en cere
 
 
 Una verdad: 
-- La estética me hace reconocer la cosa, como una entidad por si misma. Cuando han caminado mucho, las zapatillas me comunican la sabiduría que podria tener un arbol. Han experimento tanto, tienen secretos y no los esconden pero tampoco los divulgan. Las pistas stand en como existen con el mundo. 
-- 
+- La estética me hace reconocer la cosa, como una entidad por si misma. Cuando han caminado mucho, las zapatillas me comunican la sabiduría que podráa tener un árbol. Han experimento tanto, tienen secretos y no los esconden pero tampoco los divulgan. Las pistas están en como existen con el mundo. Quizás a eso se refiere esto de Wabi Sabi. 
+
+- De alguna forma, tiene su aspecto rebelde. 
+- No se como describir, paredes blancas brillantes, lugares que asociamos con vivir pero se nota que nadie los habita realmente. Ese video de la casa de Kim Kardashian. Asqueroso. 
+  
 
 
 

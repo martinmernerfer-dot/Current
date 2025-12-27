@@ -14,21 +14,30 @@ El deterioro es prueba de algo existe. Las cicatrices son historias. Cada marca 
 Todo muere, nada es perfecto
 --
 Hace unos días, mis vecinos repintaron su reja. La pintura blanca estaba fresca -brillaba reflejando el sol. Un tipo con un *bucket hat and baggy pants* paso frente a la casa y se devolvió estupefacto al ver la frescura de la reja. Rápidamente busco en su mochila y sacó un plumón grueso para hacer su ridículo tag. Cuando guardaba su plumón notó que lo observaba y mientras se iba me dijo "era muy blanco para ser puro"
-Independiente si fue correcto -aunque mi vecino lo mereciera por tapar mi estacionamiento- lo que dijo este sujeto quedo rebotando en mi cabeza. Creo que intento decir que era muy blanca para ser autentica. Es iluso mantener la reja de una casa tan limpia. Quizás nunca debería estar tan limpia, si hay gente que habita alrededor. 
+Independiente si fue correcto -aunque mi vecino lo mereciera por tapar mi estacionamiento- lo que dijo este sujeto quedo rebotando en mi cabeza. 
+
+*Nada deberia ser perfecto*
+Creo que intento decir que era muy blanca para ser autentica. Es iluso mantener la reja de una casa tan limpia. Quizás nunca debería estar tan limpia, si hay gente que habita alrededor. 
 Estudiando esto aprendí sobre la "la poesía de los espacios" de Gastón Bachelard. En el libro, explica algo que me parece especialmente pertinente a esto de la reja (sobre todo por que todo el libro sobre la filosofía de cada parte de la casa) . Explica que las imperfecciones son las marcas a las que nos afirmamos cuando disfrutamos el recuerdo de algo. Los defectos le dan cierta alma a las cosas -generalmente nos conectamos a través de eso. Te invita a ver estas cualidades como un regalo: el chillido de la bisagra no es defecto, es la casa avisando que alguien esta entrando. Como si ella misma dijera "bienvenido!"
+Quizás ese se mi punto,
 
 
 El ciclo de la vida
 --
-En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en ceremonias de té donde priorizaban juegos de tazas y platillos desgastados. 
-- El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta tambien muestra desgaste)
+En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en ceremonias de té donde priorizaban juegos de tazas y platillos desgastados. La idea es celebrar el deterioro: 
+- El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta también muestra desgaste)
 
 
+
+
+
+Si me vecino pintara su reja de nuevo, debería rayarla. Quizás escribir muy blanco para ser puro.
 Una verdad: 
-- La estética me hace reconocer la cosa, como una entidad por si misma. Cuando han caminado mucho, las zapatillas me comunican la sabiduría que podráa tener un árbol. Han experimento tanto, tienen secretos y no los esconden pero tampoco los divulgan. Las pistas están en como existen con el mundo. Quizás a eso se refiere esto de Wabi Sabi. 
+- La estética me hace reconocer la cosa, como una entidad por si misma. Cuando han caminado mucho, las zapatillas me comunican la sabiduría que podrá tener un árbol. Han experimento tanto, tienen secretos y no los esconden pero tampoco los divulgan. Las pistas están en como existen con el mundo. Quizás a eso se refiere esto de Wabi Sabi. 
 
 - De alguna forma, tiene su aspecto rebelde. 
 - No se como describir, paredes blancas brillantes, lugares que asociamos con vivir pero se nota que nadie los habita realmente. Ese video de la casa de Kim Kardashian. Asqueroso. 
+- 
   
 
 

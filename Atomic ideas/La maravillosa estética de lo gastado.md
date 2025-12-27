@@ -21,3 +21,9 @@ El ciclo de la vida
 --
 
 - El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta tambien muestra desgaste)
+
+
+
+
+Meta:
+Mira. te diré la verdad. He evitado sentarme a terminar esto, pero no entiendo el por que. 

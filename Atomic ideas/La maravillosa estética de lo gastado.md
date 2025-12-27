@@ -26,6 +26,7 @@ El ciclo de la vida
 --
 En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en ceremonias de té donde priorizaban juegos de tazas y platillos desgastados. La idea es celebrar el deterioro: 
 - El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta también muestra desgaste)
+-
 
 
 
@@ -37,12 +38,11 @@ Una verdad:
 
 - De alguna forma, tiene su aspecto rebelde. 
 - No se como describir, paredes blancas brillantes, lugares que asociamos con vivir pero se nota que nadie los habita realmente. Ese video de la casa de Kim Kardashian. Asqueroso. 
-- 
+- Me encantaría incluir el datito de Jung. Aunque su animismo no veo por que incluirlo.  Carl Jung le ponía nombre a las manchas en su mesa. Quizás va junto con lo de la poesía de los espacios. 
+
+
+
   
 
-
-
-Meta:
-Mira. te diré la verdad. He evitado sentarme a terminar esto, pero no entiendo el por que. No es como si fuera capaz de dejarlo a medias (de hecho tengo algo claro hacia donde va esto) y aunque lo olvidara, aún hay una parte de mi existencia que me pide hacerlo. También tengo otras ideas que me gustaría hacer. Realmente, realmente no entiendo la fuente de esa urge. 
 
 

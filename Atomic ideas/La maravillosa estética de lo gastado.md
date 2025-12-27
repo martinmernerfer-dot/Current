@@ -26,4 +26,6 @@ El ciclo de la vida
 
 
 Meta:
-Mira. te diré la verdad. He evitado sentarme a terminar esto, pero no entiendo el por que. 
+Mira. te diré la verdad. He evitado sentarme a terminar esto, pero no entiendo el por que. No es como si fuera capaz de dejarlo a medias (de hecho tengo algo claro hacia donde va esto) y aunque lo olvidara, aún hay una parte de mi existencia que me pide hacerlo. También tengo otras ideas que me gustaría hacer. Realmente, realmente no entiendo la fuente de esa urge. 
+
+

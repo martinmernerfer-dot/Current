@@ -20,8 +20,7 @@ Estudiando esto aprendí sobre la "la poesía de los espacios" de Gastón Bachel
 
 El ciclo de la vida
 --
-En la filosofia japonesa esta astetica se llaman *Wabi Sabi*, comenz
-
+En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en ceremonias de té donde priorizaban juegos de tazas y platillos desgastados. 
 - El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta tambien muestra desgaste)
 
 

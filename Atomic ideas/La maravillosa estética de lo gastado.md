@@ -24,6 +24,10 @@ En la filosofía japonesa esta estética se llaman *Wabi Sabi*, comenzó en cere
 - El agua de tu cuerpo solo esta de visita. Nos parecemos más a las nubes que a la piedra (aunque esta tambien muestra desgaste)
 
 
+Una verdad: 
+- La estética me hace reconocer la cosa, como una entidad por si misma. Cuando han caminado mucho, las zapatillas me comunican la sabiduría que podria tener un arbol. Han experimento tanto, tienen secretos y no los esconden pero tampoco los divulgan. Las pistas stand en como existen con el mundo. 
+- 
+
 
 
 Meta:
